@@ -1,0 +1,16 @@
+{
+  "name": "ffg-xwing-articles",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "Guido Kessels <guidokessels@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0",
+    "typescript": "^4.1.3"
+  }
+}

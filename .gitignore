@@ -1,3 +1,9 @@
+dist
+markdown
+screenshots
+articles.json
+
+
 # Logs
 logs
 *.log
