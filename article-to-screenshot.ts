@@ -45,11 +45,11 @@ const run = async () => {
     log(`Going to ${PAGE}`);
     await page.goto(PAGE);
 
-    await page.waitForSelector(SELECTOR); // wait for the selector to load
-    await page.waitForSelector(COOKIE_BANNER_SELECTOR); // wait for the selector to load
-    const element = await page.$(SELECTOR); // declare a variable with an ElementHandle
+    await page.waitForSelector(SELECTOR);
+    await page.waitForSelector(COOKIE_BANNER_SELECTOR);
+    const element = await page.$(SELECTOR);
 
-    // Add some padding
+    // Add some padding around the article
     await page.addStyleTag({ content: `${SELECTOR}{padding: 10px}` });
 
     log(`Removing unneeded elements`);
@@ -63,7 +63,7 @@ const run = async () => {
     const filename = urlToFilename(PAGE);
 
     log(`Creating screenshot: ${filename}`);
-    await element.screenshot({ path: `${filename}.png` });
+    await element.screenshot({ path: `screenshots/${filename}.png` });
 
     log(`All done!`);
   } catch (e) {
