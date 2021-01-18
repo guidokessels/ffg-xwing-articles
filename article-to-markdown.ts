@@ -25,13 +25,7 @@ const ELEMENTS_TO_REMOVE = [
 ];
 
 const run = async () => {
-  let articleURLs: Array<string> = [
-    "https://www.fantasyflightgames.com/en/news/2020/9/4/flying-solo-1/",
-    "https://www.fantasyflightgames.com/en/news/2020/11/24/x-wing-points-update/",
-    "https://www.fantasyflightgames.com/en/news/2020/11/24/updated-programming/",
-    "https://www.fantasyflightgames.com/en/news/2020/11/16/an-important-star-wars-announcement/",
-    "https://www.fantasyflightgames.com/en/news/2020/10/7/push-the-limit/",
-  ];
+  let articleURLs: Array<string> = [];
   const allArticles: Array<{
     title: string;
     file: string;
@@ -39,9 +33,9 @@ const run = async () => {
   }> = [];
 
   try {
-    // articleURLs = JSON.parse(
-    //   await fs.promises.readFile(ARTICLES_FILENAME, { encoding: "utf-8" })
-    // );
+    articleURLs = JSON.parse(
+      await fs.promises.readFile(ARTICLES_FILENAME, { encoding: "utf-8" })
+    );
   } catch (e) {
     log(">>> ERROR <<<");
     log(e);
