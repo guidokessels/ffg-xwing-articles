@@ -1,3 +1,7 @@
+---
+title: Updated Programming
+---
+
 This article was originally published on https://www.fantasyflightgames.com/en/news/2020/11/24/updated-programming/
 
 &laquo; [Back to index](../index.md)

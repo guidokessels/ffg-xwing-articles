@@ -1,3 +1,7 @@
+---
+title: Push the Limit
+---
+
 This article was originally published on https://www.fantasyflightgames.com/en/news/2020/10/7/push-the-limit/
 
 &laquo; [Back to index](../index.md)

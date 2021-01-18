@@ -1,3 +1,7 @@
+---
+title: Flying Solo
+---
+
 This article was originally published on https://www.fantasyflightgames.com/en/news/2020/9/4/flying-solo-1/
 
 &laquo; [Back to index](../index.md)

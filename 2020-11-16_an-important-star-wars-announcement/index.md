@@ -1,3 +1,7 @@
+---
+title: An Important Star Wars Announcement
+---
+
 This article was originally published on https://www.fantasyflightgames.com/en/news/2020/11/16/an-important-star-wars-announcement/
 
 &laquo; [Back to index](../index.md)
