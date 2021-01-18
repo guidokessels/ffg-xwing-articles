@@ -111,7 +111,7 @@ const run = async () => {
       );
 
       log(`\tConverting to Markdown`);
-      const generatedMarkdown = createArticle(url, contentHTML);
+      const generatedMarkdown = createArticle(url, articleTitle, contentHTML);
 
       log(`\tCleaning up Markdown`);
       let contentMarkdown = cleanupMarkdown(generatedMarkdown);
@@ -244,8 +244,12 @@ async function saveFile(path, contents) {
   });
 }
 
-function createArticle(url: string, content: string): string {
-  return `This article was originally published on ${url}
+function createArticle(url: string, title: string, content: string): string {
+  return `---
+title: ${title}
+---
+
+This article was originally published on ${url}
 
 &laquo; [Back to index](../index.md)
 
