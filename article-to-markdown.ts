@@ -25,7 +25,13 @@ const ELEMENTS_TO_REMOVE = [
 ];
 
 const run = async () => {
-  let articleURLs: Array<string> = [];
+  let articleURLs: Array<string> = [
+    "https://www.fantasyflightgames.com/en/news/2020/9/4/flying-solo-1/",
+    "https://www.fantasyflightgames.com/en/news/2020/11/24/x-wing-points-update/",
+    "https://www.fantasyflightgames.com/en/news/2020/11/24/updated-programming/",
+    "https://www.fantasyflightgames.com/en/news/2020/11/16/an-important-star-wars-announcement/",
+    "https://www.fantasyflightgames.com/en/news/2020/10/7/push-the-limit/",
+  ];
   const allArticles: Array<{
     title: string;
     file: string;
@@ -239,13 +245,11 @@ async function saveFile(path, contents) {
 }
 
 function createArticle(url: string, content: string): string {
-  return (
-    `This article was originally published on ${url}
+  return `This article was originally published on ${url}
 
 &laquo; [Back to index](../index.md)
 
 ---
 
-` + turndownService.turndown(content)
-  );
+${turndownService.turndown(content)}`;
 }

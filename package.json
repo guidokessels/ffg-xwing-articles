@@ -6,9 +6,13 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "articles": "rm -rf articles.json && tsc && node dist/create-articles-list.js",
-    "screenshot": "rm -rf screenshots && tsc && node dist/article-to-screenshot.js",
-    "markdown": "rm -rf markdown && tsc && node dist/article-to-markdown.js"
+    "build": "tsc",
+    "articles": "node dist/create-articles-list.js",
+    "prearticles": "rm -rf articles.json",
+    "screenshot": "node dist/article-to-screenshot.js",
+    "prescreenshot": "rm -rf screenshots",
+    "markdown": "node dist/article-to-markdown.js",
+    "premarkdown": "rm -rf markdown"
   },
   "devDependencies": {
     "node-fetch": "^2.6.1",
