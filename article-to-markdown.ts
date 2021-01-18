@@ -220,7 +220,10 @@ function createIndex(
     date: string;
   }>
 ) {
-  return `
+  return `---
+title: Index
+---
+
 # FFG X-Wing Articles Archive
 
 ${articles
@@ -249,7 +252,7 @@ function createArticle(url: string, title: string, content: string): string {
 title: ${title}
 ---
 
-This article was originally published on ${url}
+This article was originally published on [${url}](${url})
 
 &laquo; [Back to index](../index.md)
 
