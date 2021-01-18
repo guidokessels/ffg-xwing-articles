@@ -6,8 +6,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "screenshot": "tsc && node dist/article-to-screenshot.js",
-    "markdown": "tsc && node dist/article-to-markdown.js"
+    "articles": "rm -rf articles.json && tsc && node dist/create-articles-list.js",
+    "screenshot": "rm -rf screenshots && tsc && node dist/article-to-screenshot.js",
+    "markdown": "rm -rf markdown && tsc && node dist/article-to-markdown.js"
   },
   "devDependencies": {
     "node-fetch": "^2.6.1",

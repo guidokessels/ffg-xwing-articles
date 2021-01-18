@@ -5,10 +5,11 @@ import fetch from "node-fetch";
 
 const turndownService = new TurndownService();
 
+const DIST_FOLDER = "./markdown";
 const LOG_ENABLED = true;
-const PAGE =
-  "https://www.fantasyflightgames.com/en/news/2020/10/7/push-the-limit/";
-const SELECTOR = ".blog-detail";
+const TITLE_SELECTOR = ".blog-titlelead h1";
+const CONTENT_SELECTOR = ".blog-detail";
+const ARTICLES_FILENAME = "./articles.json";
 
 const ELEMENTS_TO_REMOVE = [
   ".blog-social-icons",
@@ -24,6 +25,24 @@ const ELEMENTS_TO_REMOVE = [
 ];
 
 const run = async () => {
+  let articleURLs: Array<string> = [];
+  const allArticles: Array<{
+    title: string;
+    file: string;
+    date: string;
+  }> = [];
+
+  try {
+    // articleURLs = JSON.parse(
+    //   await fs.promises.readFile(ARTICLES_FILENAME, { encoding: "utf-8" })
+    // );
+  } catch (e) {
+    log(">>> ERROR <<<");
+    log(e);
+    log(`Make sure ${ARTICLES_FILENAME} exists by running 'yarn articles'`);
+    return;
+  }
+
   const browser = await puppeteer.launch({
     headless: true,
     args: [
@@ -42,71 +61,96 @@ const run = async () => {
       height: 1080,
     });
 
-    log(`Going to ${PAGE}`);
-    await page.goto(PAGE);
-    await page.waitForSelector(SELECTOR);
+    log(`Found ${articleURLs.length} articles`);
 
-    log(`Removing unneeded elements and extracting HTML`);
-    const contentHTML = await page.evaluate(
-      (content, selectors) => {
-        // Remove elements
-        selectors.forEach((el) => {
-          const node = document.querySelector(el);
-          node.parentNode.removeChild(node);
-        });
+    await articleURLs.reduce(async (aq, url) => {
+      await aq;
 
-        // Check all text boxes and remove them if they're the `pre-order now` box
-        const textBoxes = document.querySelectorAll(".textbox");
-        Array.from(textBoxes).forEach((node) => {
-          if (node.textContent.trim().startsWith("Pre-order your own copy")) {
-            node.parentNode.removeChild(node);
-          }
-        });
+      log(`Opening ${url}`);
+      await page.goto(url);
+      await page.waitForSelector(CONTENT_SELECTOR);
 
-        // Return article HTML
-        return document.querySelector(content).innerHTML;
-      },
-      SELECTOR,
-      ELEMENTS_TO_REMOVE
-    );
+      log(`\tRemoving unneeded elements and extracting HTML`);
+      const [articleTitle, contentHTML] = await page.evaluate(
+        (title, content, selectors) => {
+          // Remove elements
+          selectors.forEach((el) => {
+            const node = document.querySelector(el);
+            if (node) {
+              node.parentNode.removeChild(node);
+            }
+          });
 
-    log(`Converting to Markdown`);
-    const generatedMarkdown = turndownService.turndown(contentHTML);
+          // Check all text boxes and remove them if they're the `pre-order now` box
+          const textBoxes = document.querySelectorAll(".textbox");
+          Array.from(textBoxes).forEach((node) => {
+            const content = node.textContent.toLowerCase();
+            if (
+              content.includes("ffg_ordernow_v2.png") ||
+              content.includes("order your own copy")
+            ) {
+              node.parentNode.removeChild(node);
+            }
+          });
 
-    log(`Cleaning up Markdown`);
-    let contentMarkdown = cleanupMarkdown(generatedMarkdown);
+          // Return article HTML
+          return [
+            document.querySelector(title).innerText,
+            document.querySelector(content).innerHTML,
+          ];
+        },
+        TITLE_SELECTOR,
+        CONTENT_SELECTOR,
+        ELEMENTS_TO_REMOVE
+      );
 
-    const path = `markdown/${urlToFilename(PAGE)}`;
+      log(`\tConverting to Markdown`);
+      const generatedMarkdown = createArticle(url, contentHTML);
 
-    if (!fs.existsSync(path)) {
-      log(`Creating folder ${path}`);
-      fs.mkdirSync(path);
-    }
+      log(`\tCleaning up Markdown`);
+      let contentMarkdown = cleanupMarkdown(generatedMarkdown);
 
-    const allImageUrls = Array.from(
-      // Grabs all URLs from Markdown images or Markdown links that lead to images
-      contentMarkdown.matchAll(/\[(?:.*?)\]\((.*?\.(?:png|jpe?g|gif))\)/gi)
-    ).map(([_, url]) => url);
+      const folder = urlToFilename(url);
+      const path = `${DIST_FOLDER}/${folder}`;
 
-    log(`Downloading ${allImageUrls.length} article images`);
-    allImageUrls.forEach((url) => {
-      const filename = url.split("/").pop();
-      saveImageToDisk(url, `${path}/${filename}`);
-      contentMarkdown = contentMarkdown.replace(url, filename);
-    });
+      if (!fs.existsSync(path)) {
+        log(`\tCreating folder at ${path}`);
+        fs.mkdirSync(path, { recursive: true });
+      }
 
-    log(`Creating Markdown file`);
-    await new Promise((resolve, reject) => {
-      fs.writeFile(`${path}/index.md`, contentMarkdown, (err) => {
-        if (err) {
-          log(err);
-          reject();
-        }
+      const allImageUrls = Array.from(
+        // Find all:
+        //    Markdown image urls
+        //    Markdown link urls that lead to images
+        contentMarkdown.matchAll(/\(([^\]]*?\.(?:png|jpe?g|gif))\)/gi)
+      ).map(([_, url]) => url);
 
-        log("Page saved!");
-        resolve(1); // ???
+      log(`\tDownloading ${allImageUrls.length} article images`);
+      await Promise.all(
+        allImageUrls.map(async (imageUrl) => {
+          const filename = imageUrl.split("/").pop();
+          contentMarkdown = contentMarkdown.replace(imageUrl, filename);
+          await saveImageToDisk(imageUrl, `${path}/${filename}`);
+        })
+      );
+
+      log(`\tSaving Markdown file`);
+      const filename = `index.md`;
+      await saveFile(`${path}/${filename}`, contentMarkdown);
+
+      const { year, month, day } = getArticleMetadataFromUrl(url);
+      allArticles.push({
+        title: articleTitle,
+        file: `${folder}/${filename}`,
+        date: [year, month, day].join("-"),
       });
-    });
+
+      log("\tDone");
+    }, Promise.resolve());
+
+    log(`Creating index`);
+    const indexFile = createIndex(allArticles);
+    await saveFile(`${DIST_FOLDER}/index.md`, indexFile);
 
     log(`All done!`);
   } catch (e) {
@@ -125,10 +169,22 @@ function log(...args) {
   }
 }
 
-function urlToFilename(str) {
-  const [year, month, day, slug] = str
+function getArticleMetadataFromUrl(
+  url
+): { year: number; month: number; day: number; slug: string } {
+  const [year, month, day, slug] = url
     .replace("https://www.fantasyflightgames.com/en/news/", "")
     .split("/");
+  return {
+    year,
+    month: month.length === 1 ? `0${month}` : month,
+    day: day.length === 1 ? `0${day}` : day,
+    slug,
+  };
+}
+
+function urlToFilename(str) {
+  const { year, month, day, slug } = getArticleMetadataFromUrl(str);
   return [year, month, day].join("-") + "_" + slug;
 }
 
@@ -138,9 +194,58 @@ function cleanupMarkdown(markdown) {
 }
 
 async function saveImageToDisk(url, filename) {
-  log(`Saving image ${url} as ${filename}`);
-  const res = await fetch(url);
-  const dest = fs.createWriteStream(filename);
+  // log(`Saving image ${url} as ${filename}`);
+  try {
+    const res = await fetch(url);
+    const dest = fs.createWriteStream(filename);
+    // @ts-ignore
+    res.body.pipe(dest);
+  } catch (e) {
+    log(">>> ERROR <<<");
+    log(`Could not download "${url}" to "${filename}"`);
+    log(e);
+  }
+}
+
+function createIndex(
+  articles: Array<{
+    title: string;
+    file: string;
+    date: string;
+  }>
+) {
+  return `
+# FFG X-Wing Articles Archive
+
+${articles
   // @ts-ignore
-  res.body.pipe(dest);
+  .sort((a, b) => (a.date < b.date ? 1 : -1))
+  .map((article) => `- [${article.title}](${article.file}) (${article.date})`)
+  .join(`\n`)}
+`;
+}
+
+async function saveFile(path, contents) {
+  return await new Promise<void>((resolve, reject) => {
+    fs.writeFile(path, contents, (err) => {
+      if (err) {
+        log(">>> ERROR Saving file <<<");
+        log(err);
+        reject();
+      }
+      resolve();
+    });
+  });
+}
+
+function createArticle(url: string, content: string): string {
+  return (
+    `This article was originally published on ${url}
+
+&laquo; [Back to index](../index.md)
+
+---
+
+` + turndownService.turndown(content)
+  );
 }
