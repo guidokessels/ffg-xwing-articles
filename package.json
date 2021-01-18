@@ -1,0 +1,23 @@
+{
+  "name": "ffg-xwing-articles",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "Guido Kessels <guidokessels@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "articles": "node dist/create-articles-list.js",
+    "prearticles": "rm -rf articles.json",
+    "screenshot": "node dist/article-to-screenshot.js",
+    "prescreenshot": "rm -rf screenshots",
+    "markdown": "node dist/article-to-markdown.js",
+    "premarkdown": "rm -rf markdown"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0",
+    "turndown": "^7.0.0",
+    "typescript": "^4.1.3"
+  }
+}
