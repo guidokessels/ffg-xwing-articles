@@ -1,0 +1,38 @@
+name: Build and Deploy to Github Pages
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # At minute 30
+    - cron: "30 * * * *"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build
+        run: yarn build
+
+      - name: Create list of articles
+        run: yarn articles
+
+      - name: Build Markdown pages
+        run: yarn markdown
+
+      - name: Deploy App
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./markdown
