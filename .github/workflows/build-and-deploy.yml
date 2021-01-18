@@ -31,6 +31,9 @@ jobs:
       - name: Build Markdown pages
         run: yarn markdown
 
+      - name: Copy Jekyll config
+        run: cp _config.yml markdown/_config.yml
+
       - name: Deploy App
         uses: peaceiris/actions-gh-pages@v3
         with:
