@@ -36,3 +36,4 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./markdown
+          enable_jekyll: true
