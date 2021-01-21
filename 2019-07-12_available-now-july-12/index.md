@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](available-now_prev.jpg)
+![](f1a6ee9fc0efd8429be32b73dacfe41e.jpg)
 
 12 July 2019
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-![](swz40_box_right.png) [Naboo Royal N-1 Starfighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/naboo-royal-n-1-starfighter-expansion-pack/)
+![](6918abd7107a52c785a5ab32189b1b7e.png) [Naboo Royal N-1 Starfighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/naboo-royal-n-1-starfighter-expansion-pack/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Despite being a peaceful planet with no standing army, Naboo is still dedicated to supporting the Republic against the nefarious Separatist Alliance. The planet’s Royal Security Forces are ready to spring into action at a moment’s notice and—when these battles take them to the skies above the planet and beyond—they enter the fight in the Naboo Royal N-1 starfighter.
@@ -34,7 +34,7 @@ Naboo Royal N-1 Starfighter Expansion Pack _(SWZ40) at your local retailer toda
 
 * * *
 
-![](swz41_box_right.png) [Hyena-class Droid Bomber Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/hyena-class-droid-bomber-expansion-pack/)
+![](2e1bb6a2922807c3173456a393a5313b.png) [Hyena-class Droid Bomber Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/hyena-class-droid-bomber-expansion-pack/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Baktoid Armor Workshop’s _Hyena_\-class droid bomber is a wartime evolution of the Trade Federation’s Vulture-class droid fighter. Carrying an extensive payload of experimental and deadly ordnance provided by the Techno Union, the _Hyena_ is a nasty surprise to any Republic loyalist who dismisses the danger posed by “mere” droids.
@@ -45,7 +45,7 @@ _Pick up your copy of the Hyena_\-class Droid Bomber Expansion Pack _(SWZ41) at
 
 * * *
 
-![](swz45_box_right.png) [Resistance Transport Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/resistance-transport-expansion-pack/)
+![](6dc40d4282b3e7e4aa52f7b79281cca3.png) [Resistance Transport Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/resistance-transport-expansion-pack/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Resistance Transport is a custom-built shuttle used by the Resistance as a troop carrier and gunship. Its modular design means the vessel's cockpit pod can be flown independently on missions that don't require heavy weaponry or transport capability. 
@@ -56,7 +56,7 @@ _Pick up your copy of the_ Resistance Transport Expansion Pack _(SWZ45) at your
 
 * * *
 
-![](swz27_box_right.png) [TIE/vn Silencer Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tievn-silencer-expansion-pack/)
+![](24cfa610c4fe3d62178d733e023f91bd.png) [TIE/vn Silencer Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tievn-silencer-expansion-pack/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The TIE/vn silencer is the most elite starfighter developed for the First Order by Sienar-Jaemus Fleet Systems. Built in the depths of the Unknown Regions with the technologies that once made the TIE Defender an unprecedented menace, this dreaded craft can threaten any Resistance ship—provided the pilot can handle its power and speed.
@@ -67,7 +67,7 @@ _Pick up your copy of the_ TIE/vn Silencer Expansion Pack _(SWZ27) at your loc
 
 * * *
 
-![](swz39_box_right.png) [Millennium Falcon Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-millennium-falcon-expansion-pack/)
+![](0b6c5d99c824ea10bad94f6a3a93ce5c.png) [Millennium Falcon Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-millennium-falcon-expansion-pack/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 After winning the ship that would become legend from Lando Calrissian, Han Solo and Chewbacca made several special modifications to the _Millennium Falcon_ for their smuggling career. Now, these scruffy-looking smugglers turn their efforts to defeating the Galactic Empire alongside heroes of the Rebellion. 
@@ -78,7 +78,7 @@ _Pick up your copy of the Millenium Falcon_ Expansion Pack _(SWZ39) at your loc
 
 * * *
 
-![](swz42_box_right.png) [A/SF-01 B-Wing Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/sf-01-b-wing-expansion-pack/)
+![](d3e9c920048b1df0b85336078adf78a5.png) [A/SF-01 B-Wing Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/sf-01-b-wing-expansion-pack/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Incorporating a revolutionary gyrostabilization system, the A/SF-01 B-Wing is dangerous to fly and difficult to master. In the right hands, however, the B-wing’s formidable weapons can be used to devasting effect, earning it a reputation as the premier assault fighter of the Rebel Alliance.
@@ -89,7 +89,7 @@ _Pick up your copy of the_ A/SF-01 B-Wing Expansion Pack _(SWZ42) at your loca
 
 * * *
 
-![](swz43_box_right.png) [VT-49 Decimator Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/vt-49-expansion-pack/)
+![](cc7ab8c6f9ee0a07947c791e54bd3fe5.png) [VT-49 Decimator Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/vt-49-expansion-pack/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A durable vessel capable of independent patrols, the VT-49 Decimator’s size and power blurred the line between shuttle and corvette—but the same qualities that endeared it to up-and-coming Imperial officers also made it useful to agents of the Emperor, under whom failure was not an option.
@@ -100,7 +100,7 @@ _Pick up your copy of the_ VT-49 Decimator Expansion Pack _(SWZ43) at your loca
 
 * * *
 
-![](swz44_box_right.png) [TIE/sf Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tiesf-fighter-expansion-pack/)
+![](bf3b76acb91feff3deea5154cfaa85a5.png) [TIE/sf Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tiesf-fighter-expansion-pack/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Development of the TIE/sf fighter required Sienar-Jaemus Fleet Systems to pioneer new energy-cell technology to power the advanced systems demanded by the First Order Special Forces. The resulting starfighter boasts a versatile array of weapons, shields, and sensors, suitable for any situation.
@@ -111,7 +111,7 @@ _Pick up your copy of_ TIE/sf Fighter Expansion Pack _(SWZ44) at your local ret
 
 * * *
 
-![](swz46_box_right.png) [Deluxe Movement Tools and Range Ruler](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/deluxe-movement-tools-and-range-ruler/)
+![](cf82008e1db80db8438ef3436a889b04.png) [Deluxe Movement Tools and Range Ruler](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/deluxe-movement-tools-and-range-ruler/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Upgrade every move you make in the intense space battles of [_Star Wars_™: X-Wing](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) with the _Deluxe Movement Tools and Range Ruler_! This pack contains premium plastic maneuver templates and a range ruler to upgrade the corresponding components from your _[X-Wing Core Set.](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition/)_ In addition to the eleven movement templates, you’ll also find a range ruler base and four range ruler segments that can be used individually or combined to make your measurements quick and precise.

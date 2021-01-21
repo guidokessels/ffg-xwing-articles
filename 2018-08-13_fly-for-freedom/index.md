@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz06_preview1.jpg)
+![](440fed4e28c32c1b9fb08c0a337d9bdb.jpg)
 
 13 August 2018
 
@@ -17,7 +17,7 @@ Fly for Freedom
 
 Preview a Rebel List for X-Wing Second Edition
 
-![](swz01_box_left.png)
+![](21ba422c6bac634bea4a0093e307131b.png)
 
 _“General, the Spectres are the real deal.”_ –Ahsoka Tano, _Star Wars: Rebels_
 
@@ -27,7 +27,7 @@ The first step to entering this new era is, of course, building a squad to fly i
 
 To demonstrate the possibilities of squad building in _X-Wing Second Edition_, designer Alex Davy has created a list for each of the three factions available at launch. We’ll explore each of these lists in the lead-up to the game’s launch. Join us today as we take a look at Alex’s Rebel Alliance squadron!
 
-![](swz06_a1_ships.png)
+![](72c42f5f484e616772b4f6382e9ca6c4.png)
 
 The Ghosts of Lothal
 --------------------
@@ -60,26 +60,26 @@ Phoenix Squadron Pilot (30 points)
 **Missiles:**  
 Proton Rockets (7 points)
 
-Everything begins with two Force-sensitive characters. With the Jedi [Kanan Jarrus](swz06_a1_kanana-jarrus.png)  After spending the Force token to perform this attack, the other two Force tokens can then be used to modify your attack dice for a better chance of ionizing your target. Of course, this might not be necessary if you’re stressed and have the chance to reroll one of your attack dice.
+Everything begins with two Force-sensitive characters. With the Jedi [Kanan Jarrus](e872e926e1d0481e49deb8c6507012ea.png)  After spending the Force token to perform this attack, the other two Force tokens can then be used to modify your attack dice for a better chance of ionizing your target. Of course, this might not be necessary if you’re stressed and have the chance to reroll one of your attack dice.
 
-![](swz06_a1_kanan_upgrades.png)
+![](b7884424e287f98154db72d1e59089ce.png)
 
-Ezra isn’t the only member of the crew who grants the ship a bonus while stressed, either. In fact, everyone aboard the _Ghost_ performs at their best while under pressure, bucking the normal restrictions placed on ships with stress tokens. [Hera Syndulla](swz06_a1_hera.png)  lets you keep taking actions at the cost of a damage or exposing a damage card. The result is a ship with more freedom to perform pinpoint maneuvers or a daring Koiogran turn at just the right moment. What’s more, the ship can still acquire locks, ensuring you can reroll your attack dice even while performing the most dangerous maneuvers.
+Ezra isn’t the only member of the crew who grants the ship a bonus while stressed, either. In fact, everyone aboard the _Ghost_ performs at their best while under pressure, bucking the normal restrictions placed on ships with stress tokens. [Hera Syndulla](7c7ad8b4b42574022647a9e61fdfb05e.png)  lets you keep taking actions at the cost of a damage or exposing a damage card. The result is a ship with more freedom to perform pinpoint maneuvers or a daring Koiogran turn at just the right moment. What’s more, the ship can still acquire locks, ensuring you can reroll your attack dice even while performing the most dangerous maneuvers.
 
 A Larger Rebellion   
 ---------------------
 
-The _Ghost_ may be the centerpiece of this Rebel squadron, but it certainly isn’t the only ship that can make a contribution. [Sabine Wren](swz06_a1_sabine-wren.png)_ Title allows the Attack Shuttle to dock at Range 0–1, making it significantly easier for the shuttle to come on board.
+The _Ghost_ may be the centerpiece of this Rebel squadron, but it certainly isn’t the only ship that can make a contribution. [Sabine Wren](78133d49321f586b1ab999ff8ff54f09.png)_ Title allows the Attack Shuttle to dock at Range 0–1, making it significantly easier for the shuttle to come on board.
 
-![](swz06_a1_sabine_upgrades.png)
+![](ca83415b392b20d3b80f4d1d255944da.png)
 
 Once it's docked with the _Ghost_, the _Phantom_ can continue the offensive onslaught started by Ezra Bridger thanks to both ships’ complementary abilities. The VCX-100’s Tail Gun gives it a rear arc primary weapon while it has a docked ship and the Attack Shuttle’s Locked and Loaded lets you perform a primary weapon attack from the _Ghost_'s rear arc after attacking from its front arc or a turret. When taken together, the _Ghost_ can fire twice and cover nearly all its arcs in a single activation, making it a particularly difficult ship to attack without the threat of return fire.
 
-This configuration is certainly powerful, but also certain to attract the fire of opposing squadrons. Sometimes it’s more useful to have another ship acting independently, to draw enemy fire or approach from a different angle. With her unique abilities, Sabine is more than up to the task. She can perform a barrel roll or boost action before activating, making her adept at ducking away from enemy fire and, if she does find herself in an enemy’s sights, she can always evade to minimize the damage. In fact, her ability makes it easier for her to line up a shot and use her [Predator](swz01_a4_predator.png) talent. A quick barrel roll or boost gives her even more freedom to adjust her position and get an opposing ship in her bullseye arc.
+This configuration is certainly powerful, but also certain to attract the fire of opposing squadrons. Sometimes it’s more useful to have another ship acting independently, to draw enemy fire or approach from a different angle. With her unique abilities, Sabine is more than up to the task. She can perform a barrel roll or boost action before activating, making her adept at ducking away from enemy fire and, if she does find herself in an enemy’s sights, she can always evade to minimize the damage. In fact, her ability makes it easier for her to line up a shot and use her [Predator](9c413e19edfb6b0e059cba70b24bf0b1.png) talent. A quick barrel roll or boost gives her even more freedom to adjust her position and get an opposing ship in her bullseye arc.
 
-![](swz06_a1_phoenix_upgrades2.png)
+![](49b1fa7d4360fe23be819006f8a24ef9.png)
 
-Although they are an effective team, the Spectres did not operate completely independently. They eventually became part of the Phoenix Cell of rebels, and this element is represented by the final ship in the squadron: a single RZ-1 A-wing starfighter. The [Phoenix Squadron Pilot](swz06_a1_phoenix-sqd-pilot.png)  If they can line up the shot, these rockets unleash a salvo of five attack dice, potentially dealing a critical blow to anything in their path.
+Although they are an effective team, the Spectres did not operate completely independently. They eventually became part of the Phoenix Cell of rebels, and this element is represented by the final ship in the squadron: a single RZ-1 A-wing starfighter. The [Phoenix Squadron Pilot](c8a0860d13f4f03038d50f006b133de4.png)  If they can line up the shot, these rockets unleash a salvo of five attack dice, potentially dealing a critical blow to anything in their path.
 
 May the Force Be with You
 -------------------------

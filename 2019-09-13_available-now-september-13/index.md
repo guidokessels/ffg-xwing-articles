@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](available-now_prev.jpg)
+![](f1a6ee9fc0efd8429be32b73dacfe41e.jpg)
 
 13 September 2019
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-![](swz47_box_right.png) [_Nantex_\-class Starfighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/nantex-class-starfighter-expansion-pack/)
+![](b294646b1ba260c6f52dfe10b79d2982.png) [_Nantex_\-class Starfighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/nantex-class-starfighter-expansion-pack/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dancing nimbly on invisible threads, the _Nantex_\-class starfighter uses an advanced tractor array to perform impossible maneuvers and guide its turret-mounted laser cannon with exceptional precision. Swarms of these agile fighters are the first line of defense for the key Separatist stronghold of Geonosis.
@@ -33,7 +33,7 @@ Within this expansion, you’ll find six pilots ready to fly the beautifully det
 
 * * *
 
-![](swz48_box_right.png) [BTL-B Y-Wing Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/btl-b-y-wing-expansion-pack/)
+![](ef7ea60964e743e807be1d829742fd3a.png) [BTL-B Y-Wing Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/btl-b-y-wing-expansion-pack/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Designed with an armored hull for extra durability and a bubble turret to keep enemies at bay, the Republic’s BTL-B Y-wing can run escort missions or lead an attack. Piloted by legendary Jedi and dedicated clone troopers, including Anakin Skywalker with his renowned Shadow Squadron, this fearsome bomber performs reliably over any battlefield, no matter where the battles of the Clone Wars may take you.
@@ -44,7 +44,7 @@ _Pick up your copy of the_ BTL-B Y-Wing Expansion Pack _(SWZ48) at your local r
 
 * * *
 
-![](swz49_box_right.png) [_Ghost_ Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-ghost-expansion-pack/)
+![](ebc6d9295a8e6fdabe8a9fa97b4b97e5.png) [_Ghost_ Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-ghost-expansion-pack/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The durable VCX-100 light freighter and nimble _Sheathipede_\-class shuttle can fight as a docked pair or split up to attack from multiple angles. When helmed by heroes like Hera Syndulla, Kanan Jarrus, and Ezra Bridger, these ships can be some of the greatest assets of the Rebellion.
@@ -55,7 +55,7 @@ _Pick up your copy of the_ Ghost _Expansion Pack (SWZ49) at your local retailer
 
 * * *
 
-![](swz50_box_right.png) [Inquisitors' TIE Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-inquisitors-tie-expansion-pack/)
+![](ff5f84f7657801ed74d3ef8f47e7e712.png) [Inquisitors' TIE Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-inquisitors-tie-expansion-pack/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 An experimental craft reserved for elite agents of the Empire, the TIE Advanced v1 features numerous cutting-edge technologies that skilled pilots can leverage to deadly effect. The craft’s high-precision thrusters and flexible controls let its pilots tirelessly pursue their prey across the galaxy. Most famously used by the deadly Inquisitors, Force users and Force sensitives across the galaxy have learned to fear this craft.
@@ -66,7 +66,7 @@ _Pick up your copy of the_ Inquisitors' TIE Expansion Pack _(SWZ50) at your loc
 
 * * *
 
-![](swz51_box_right.png) [_Punishing One_ Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-punishing-one-expansion-pack/)
+![](879c9a7319ad1f7422cae813617638c6.png) [_Punishing One_ Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-punishing-one-expansion-pack/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The JumpMaster 5000 is the chosen vessel of Dengar, a vengeful bounty hunter feared across the galaxy. With a nimble turret and potent engines that give it an unpredictable flight pattern, Dengar's _Punishing One_ can keep pace with even the most desperate fugitives.
@@ -77,7 +77,7 @@ _Pick up your copy of the_ Punishing One _Expansion Pack (SWZ51) at your local 
 
 * * *
 
-![](swz52_box_right.png) [M3-A Interceptor Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-m3-interceptor-expansion-pack/)
+![](8cea8146f226524ba07ecba4e8cf47ea.png) [M3-A Interceptor Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-m3-interceptor-expansion-pack/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In the Outer Rim, justice is often decided through superior firepower. The M3-A interceptor is a light, maneuverable craft favored by cartels and syndicates, thanks to the modular hardpoint that lets it equip destructive torpedoes, powerful cannons, and other weapons to threaten much larger vessels.
@@ -88,7 +88,7 @@ _Pick up your copy of the_ M3-A Interceptor Expansion Pack _(SWZ52) at your loc
 
 * * *
 
-![](swr17_box_right.png) [Gadgets and Gear](https://www.fantasyflightgames.com/en/products/star-wars-age-of-rebellion/products/gadgets-and-gear/)
+![](9bec653018fe6bbe6177cb474814fa55.png) [Gadgets and Gear](https://www.fantasyflightgames.com/en/products/star-wars-age-of-rebellion/products/gadgets-and-gear/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 As the Galactic Civil War dominates life in the galaxy, no one is safe. From civilians and common thieves to troopers and Jedi, protection and ingenuity are paramount to survival. In the quest for victory, every tool and weapon holds the potential to tip the scales in the war for the galaxy.

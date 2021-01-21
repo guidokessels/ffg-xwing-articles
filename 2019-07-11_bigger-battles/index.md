@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz53_preview1.png)
+![](dbac1be5abd91a5613d9af63cf3d6907.png)
 
 11 July 2019
 
@@ -17,7 +17,7 @@ Bigger Battles
 
 Huge Ships Are Coming to X-Wing
 
-![](swz_epic_boxes.png)
+![](08ee3eeb68709b1c32342cca70753216.png)
 
 _"To defeat an enemy, you must know them. Not simply their battle tactics, but their history, philosophy, art."_  
    –Grand Admiral Thrawn, _Star Wars: Rebels_
@@ -34,7 +34,7 @@ Within the _Huge Ship Conversion Kit_, veteran _X-Wing_ players will find two 
 
 Meanwhile, the _Tantive IV Expansion Pack_ and _C-ROC Cruiser Expansion Pack_ invite new and veteran players alike to harness the might of these massive craft and utilize a variety of new upgrades only available for huge ships. Look for these expansions at your local retailer early in the fourth quarter of 2019, with the _Raider_\-class corvette following soon after, and read on for more information about what huge ships bring to your games of _X-Wing_!
 
-![](swz_photo_1.jpg)
+![](17ad7e0a993c66876ae3835935588204.jpg)
 
 Huge Ship Conversion Kit
 ------------------------
@@ -43,13 +43,13 @@ In the largest _Star Wars_ space battles, huge vessels launch volleys of devast
 
 This conversion kit contains everything you need to incorporate every huge ship released in the game’s first edition into your squadrons, including ship cards, tokens, and maneuver dials. Many of these ships saw service in multiple conflicts, of course, and this kit also includes entirely new components that allow you fly them in new factions, ensuring you can command a huge ship no matter what era of the _Star Wars_ saga your squadron hails from.
 
-![](swz53_spread.png)
+![](1882046595d7e804b39fd89af0ec6cfe.png)
 
 Now, the CR90 corvette can be flown by the Rebel Alliance or the Galactic Republic; the GR-75 medium transport can be used by the Rebel Alliance or the Resistance; the _Raider_\-class corvette and the _Gozanti_\-class cruiser can fight for the Galactic Empire or the First Order; and the C-ROC cruiser can fly for the Separatist Alliance or Scum and Villainy.
 
 But commanding huge ships goes far beyond the faction you play. Huge ships alter your entire strategy and a selection of 82 upgrade cards invite you to customize your huge ships, outfitting them with Commands, Teams, Cargo, and potent Hardpoints that grant additional attacks. Finally, while each huge ship has its own unique capabilities and unique roles within your squadron, like small ships, they all use the same set of tools for basic functions such as movement. This kit also contains a plastic huge ship maneuver tool, a huge ship range ruler, two huge ship resource trackers, and a huge ship damage deck that can be used with any huge ship!
 
-![](swz55_ship_art.png)
+![](223b0a2b6d5f00a0cd4159c2af130e14.png)
 
 Tantive IV Expansion Pack
 -------------------------
@@ -58,11 +58,11 @@ With its powerful broadside batteries and advanced command capabilities, the CR9
 
 The _Tantive IV Expansion Pack_ makes one of these swift ships available to commanders from both the Rebel Alliance and the Galactic Republic. Once in action, the CR90 can rapidly respond to incursions across the galaxy, using sophisticated sensors to acquire locks and fire on the enemy from great distances.
 
-![](swz55_spread.png)
+![](698065e58ab3bea209396838359e50b0.png)
 
 Within this expansion, you’ll find everything you need to add one CR90 Corellian corvette ship to your Rebel Alliance or Galactic Republic squadron, including ship cards, tokens and maneuver dials. Finally, this expansion also includes the components you need to fly this or any other huge ship in battle, including a huge ship maneuver tool and a huge ship damage deck.
 
-![](swz56_ship_art.png)
+![](d20f98af00240817d13c4db738440b31.png)
 
 C-ROC Cruiser Expansion Pack
 ----------------------------
@@ -71,11 +71,11 @@ The C-ROC cruiser is the heaviest vessel available to many criminal operations, 
 
 Despite its large size, the C-ROC cruiser’s overdrive burners make it a surprisingly elusive ship, capable of avoiding incoming fire. Many criminal operations take advantage of this elusiveness to move massive amounts of illicit materials under the nose of local authorities. During the Clone Wars, the Separatist Alliance would often make use of unsavory contacts such as these—including corsairs and criminal cartels—in its fight against the Galactic Republic.
 
-![](swz56_spread.png)
+![](6affdde9c87eee9924571552ddaf3c87.png)
 
 The _C-ROC Cruiser Expansion Pack_ contains everything both Scum and Villainy and Separatist Alliance players need to incorporate one of these armed transports to their squadrons. A selection of ship cards, tokens, and maneuver dials gets your C-ROC into battle, while a suite of upgrade cards invites you to add a bevy of dirty tricks to your cruiser. Finally, a plastic maneuver tool, huge ship resource tracker, and huge ship damage deck make managing your ship fast and easy.
 
-![](swz_photo_18.jpg)
+![](01152c042f37f7e60bbcddeea9acc38f.jpg)
 
 Battle for the Galaxy
 ---------------------

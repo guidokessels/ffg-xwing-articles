@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](available-now_prev.jpg)
+![](f1a6ee9fc0efd8429be32b73dacfe41e.jpg)
 
 14 February 2019
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-[Children of the Empire](https://www.fantasyflightgames.com/en/products/legend-of-the-five-rings-the-card-game/products/children-empire/) ![](l5c16_box_right.png)
+[Children of the Empire](https://www.fantasyflightgames.com/en/products/legend-of-the-five-rings-the-card-game/products/children-empire/) ![](81fd90b25b0088bf09000045768359b3.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Further explore Rokugan with _Children of the Empire_, a new premium expansion for _[Legend of the Five Rings: The Card Game](https://www.fantasyflightgames.com/en/products/legend-of-the-five-rings-the-card-game/)_!
@@ -32,7 +32,7 @@ _Children of the Empire_ also provides a snapshot of characters and events in t
 
 * * *
 
-[First Order Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/first-order-maneuver-dial-upgrade-kit/) ![](swz20_box_right.png)
+[First Order Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/first-order-maneuver-dial-upgrade-kit/) ![](f49f371d9e4c74cfe6bf4e71557270d2.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 With the First Order poised to usher in a new era of galactic dominance, it's time to display your loyalty. With the _First Order Maneuver Dial Upgrade Kit_, you can move out of the Empire's shadow and further customize your [_X-Wing_™](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)  squadron.
@@ -43,7 +43,7 @@ _Pick up your copy of the_ First Order Maneuver Dial Upgrade Kit (_SWZ20) at you
 
 * * *
 
-[Resistance Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/resistance-maneuver-dial-upgrade-kit/) ![](swz21_box_right.png)
+[Resistance Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/resistance-maneuver-dial-upgrade-kit/) ![](7738da5771c565e4fbf539279081dbee.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Carry on the spark of the Rebellion and signal your dedication to protect freedom throughout the galaxy with the _Resistance Maneuver Dial Upgrade Kit_!

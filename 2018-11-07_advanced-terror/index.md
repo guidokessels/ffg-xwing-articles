@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz26_preview1.jpg)
+![](7d5ecdf0a03b8c632eca594e8706edab.jpg)
 
 7 November 2018
 
@@ -17,7 +17,7 @@ Advanced Terror
 
 Preview the TIE/fo Fighter Expansion Pack for X-Wing
 
-![](swz26_box_left.png)
+![](21b9c85dd95d3c259710aaa5adcf2ea4.png)
 
 _"You and your friends are doomed. We will wipe your filth from the galaxy."_  
    –General Hux, _Star Wars: The Last Jedi_
@@ -30,7 +30,7 @@ Pairing the trademark speed and maneuverability of its namesake with enhanced de
 
 In addition to the _TIE/fo Fighter Expansion Pack_, you can also bring multiple TIE/fo fighters to the table with the _[First Order Conversion Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/first-order-conversion-kit/)_.  This kit contains twenty-six TIE/fo fighter ship cards—including all nine unique pilots found in the _TIE/fo Fighter Expansion Pack_—as well as seven TIE/fo fighter maneuver dials that can be combined with miniatures from first edition expansions to fill out your squadron. Read on for a look at what this new generation of TIE fighter can do!
 
-![](swz26_a1_ship-image.png)
+![](9325570a977b0742eb8286aefbd35520.png)
 
 A New Fighter for a New Era
 ---------------------------
@@ -39,25 +39,25 @@ The First Order may be inspired by the Galactic Empire, but its military leaders
 
 This shift in objectives has also created the need for a new type of TIE fighter. Freed from the bureaucracies that tied down their Imperial predecessors, First Order engineers are able to more easily incorporate new technology into their starfighters, preparing them for modern combat. As a result, the First Order’s version of the TIE fighter includes a number of advancements, including on-board deflector shields and the ability to acquire locks.
 
-In addition to ensuring that their ships are a bit more durable, these new tools also give TIE/fo pilots options that were not available to previous generations of pilots. Some of these pilots, like [TN-3465,](swz26_a1_tn-3465.png)  follow their Imperial predecessors in attempting to support their squadmates. Whenever another friendly attacks a ship at Range 0–1 of TN-3465, she can take a critical damage to change one of the attacker’s results to a critical hit.  
+In addition to ensuring that their ships are a bit more durable, these new tools also give TIE/fo pilots options that were not available to previous generations of pilots. Some of these pilots, like [TN-3465,](03c21ea8ddd65c5d4aaec066efcda063.png)  follow their Imperial predecessors in attempting to support their squadmates. Whenever another friendly attacks a ship at Range 0–1 of TN-3465, she can take a critical damage to change one of the attacker’s results to a critical hit.  
 
-![](swz26_a1_diagram2.jpg)  
+![](7d6516450e9657f25396cadf48002a1e.jpg)  
 _TN-3465 suffers a critical damage to change one of the Omega Squadron Ace's results to a critical hit._
 
-Most First Order pilots, however, aren’t as willing to help out their fellow pilots, with most preferring to look out for themselves and their ships. One thing that the TIE/fo shares with the Imperial version is a relatively weak two-die primary attack. The first goal of some pilots, then, is to find a way to give their attacks more firepower. Most TIE/fo pilots display a fanatical devotion to the cause, none moreso than ["Scorch."](swz26_a1_scorch.png)  is equally effective up close and from a distance, rolling an additional attack die at Range 3.
+Most First Order pilots, however, aren’t as willing to help out their fellow pilots, with most preferring to look out for themselves and their ships. One thing that the TIE/fo shares with the Imperial version is a relatively weak two-die primary attack. The first goal of some pilots, then, is to find a way to give their attacks more firepower. Most TIE/fo pilots display a fanatical devotion to the cause, none moreso than ["Scorch."](f68a21947ddff2de92bfd77cfd9f7a08.png)  is equally effective up close and from a distance, rolling an additional attack die at Range 3.
 
-![](swz26_a1_diagram1.jpg)  
+![](3c71bc3fd65059f09782236050e2ca40.jpg)  
 _Longshot rolls an additional attack die at both range 1 and range 3!_
 
-A good offensive barrage is about more than just brute strength, however. The TIE/fo’s ability to acquire locks helps make it much more accurate and another group of pilots takes full advantage of this advancement. Omega Squadron’s ace, ["Static,"](swz26_a1_static.png) is particularly good at using her locks to hit the enemy where it hurts. By spending a lock on the defender and a focus token, she can ensure all her attack results are critical hits!
+A good offensive barrage is about more than just brute strength, however. The TIE/fo’s ability to acquire locks helps make it much more accurate and another group of pilots takes full advantage of this advancement. Omega Squadron’s ace, ["Static,"](f4502ed939fb46c7e64ec3f2b8a62b88.png) is particularly good at using her locks to hit the enemy where it hurts. By spending a lock on the defender and a focus token, she can ensure all her attack results are critical hits!
 
-Similarly, [Lieutenant Rivas](swz26_a1_rivas.png) may not be able to fire with the same accuracy as “Static,” but he can still make a bad situation worse for enemy ships. He can acquire a lock on an enemy ship at Range 1–2 after that ship gains a red or orange token, giving him a good chance to attack at the best possible moment.
+Similarly, [Lieutenant Rivas](9b3b179dc11a9a0f022fab491e9d28df.png) may not be able to fire with the same accuracy as “Static,” but he can still make a bad situation worse for enemy ships. He can acquire a lock on an enemy ship at Range 1–2 after that ship gains a red or orange token, giving him a good chance to attack at the best possible moment.
 
-A truly skilled pilot knows that striking a balance between offense and defense is the best approach, especially in a fighter as brittle as the TIE/fo. With an initiative of five, [Commander Malarus](swz26_a1_malarus.png) is better than most at knowing when to press the attack and when to take evasive action. Twice every game, she can spend a charge and gain a stress token to change all of her focus results to evade or hit results until the end of the round.
+A truly skilled pilot knows that striking a balance between offense and defense is the best approach, especially in a fighter as brittle as the TIE/fo. With an initiative of five, [Commander Malarus](a2fd7e771f20439d7b1937bb7f0a3475.png) is better than most at knowing when to press the attack and when to take evasive action. Twice every game, she can spend a charge and gain a stress token to change all of her focus results to evade or hit results until the end of the round.
 
-![](swz26_a1_cardfan.png)
+![](144a3f8778d87314ee5a25ea281fd620.png)
 
-These pilots represent only a fraction of those serving the First Order and, if you’re looking to fit as many ships in your squadron as possible, you can forego their abilities in favor of some pilots from the First Order’s best squadrons. Only pilots who have demonstrated exceptional skill are rewarded with a spot in Omega Squadron and an [Omega Squadron Ace](swz26_a1_omega-ace.png) to round out your squadron. 
+These pilots represent only a fraction of those serving the First Order and, if you’re looking to fit as many ships in your squadron as possible, you can forego their abilities in favor of some pilots from the First Order’s best squadrons. Only pilots who have demonstrated exceptional skill are rewarded with a spot in Omega Squadron and an [Omega Squadron Ace](e9128e8915dc8e2ced077cf42676f862.png) to round out your squadron. 
 
 Conquer the Galaxy
 ------------------

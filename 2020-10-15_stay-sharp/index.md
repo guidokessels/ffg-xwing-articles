@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz80_preview1.jpg)
+![](58de6890cd909d54303cdfbb136b8db4.jpg)
 
 15 October 2020
 
@@ -17,7 +17,7 @@ Stay Sharp
 
 Preview the Nimbus-class V-Wing Expansion Pack for Star Wars: X-Wing
 
-![](swz80_box_left.png)
+![](6b128350465578759338e1afe5bf8075.png)
 
 _“We need to launch a full forward assault!”_  
    –Wilhuff Tarkin, _Star Wars™: The Clone Wars_
@@ -30,31 +30,31 @@ This expansion adds a beautifully detailed, pre-painted _Nimbus_\-class V-Wing t
 
 Join us today as we take a look at everything in the Nimbus_\-class V-Wing Expansion Pack_!
 
-![](swz80_a1_ship_art.png)
+![](b0e180ae90d047b0de162b62de595e06.png)
 
 Form Up
 -------
 
-Despite its great speed, the _Nimbus_\-class V-wing is much more than a mere interceptor. Instead, this speed is but one tool pilots have at their disposal to use the V-wing in a variety of ways. At its simplest, pilots like the Republic’s [Loyalist Volunteers](swz80_ship_volunteer.png) can use the inexpensive chassis to overwhelm opponents with superior numbers.
+Despite its great speed, the _Nimbus_\-class V-wing is much more than a mere interceptor. Instead, this speed is but one tool pilots have at their disposal to use the V-wing in a variety of ways. At its simplest, pilots like the Republic’s [Loyalist Volunteers](a093c81c919f61c4258ef1d180261bde.png) can use the inexpensive chassis to overwhelm opponents with superior numbers.
 
-But the V-wing is also highly customizable, and two configurations allow it to be modified to play even more specific roles in combat. The [Alpha-3B “Besh”](swz80_upgrade_alpha-3b.png) version of the starfighter increases the ship’s offensive potential, allowing it to spend a lock to change a focus result to a hit result. More than that, though, this configuration also adds the payload upgrade slot, turning the V-wing into a light and fast bomber.
+But the V-wing is also highly customizable, and two configurations allow it to be modified to play even more specific roles in combat. The [Alpha-3B “Besh”](30c052d2b1a948a32fb083a749787be0.png) version of the starfighter increases the ship’s offensive potential, allowing it to spend a lock to change a focus result to a hit result. More than that, though, this configuration also adds the payload upgrade slot, turning the V-wing into a light and fast bomber.
 
-![](swz80_a1_cardfan_upgrades.png)
+![](e42822b9945ac2e8f1447414fdb4c178.png)
 
-Carrying a payload adds new dimensions to the V-wing’s speed, allowing it to move in for swift bombing runs that leave an array of deadly devices in the enemy’s path. Of all the options, though, leaving a trail of [Thermal Detonators](swz80_upgrade_thermal-detonators.png) could have the greatest impact. With these equipped, the V-wing can drop a total of two Thermal Detonators using different templates, each of which will force a ship at range 0–1 to roll an attack die and gain a strain token for every focus result or suffer a hit or critical hit for every matching result upon detonation.
+Carrying a payload adds new dimensions to the V-wing’s speed, allowing it to move in for swift bombing runs that leave an array of deadly devices in the enemy’s path. Of all the options, though, leaving a trail of [Thermal Detonators](67af292cfa650e8900316b14027c6c90.png) could have the greatest impact. With these equipped, the V-wing can drop a total of two Thermal Detonators using different templates, each of which will force a ship at range 0–1 to roll an attack die and gain a strain token for every focus result or suffer a hit or critical hit for every matching result upon detonation.
 
-Alternatively, the V-wing also makes an exceptional pursuit craft, especially if it is in its [Alpha-3E “Esk”](swz80_upgrade_alpha-3e.png) makes it a bit easier by giving you three opportunities to upgrade a hit result to a critical hit.
+Alternatively, the V-wing also makes an exceptional pursuit craft, especially if it is in its [Alpha-3E “Esk”](7e5b3bd4c52add1ae2cc264d39827b54.png) makes it a bit easier by giving you three opportunities to upgrade a hit result to a critical hit.
 
-![](swz80_a1_diagram.jpg)  
+![](81e8a19ff522f66a47dfb8b610e85952.jpg)  
 _"Odd Ball" drops two Thermal Detonators in the path of the oncoming Droid Tri-Fighters!_
 
-Beyond its configurations, the V-wing is made even more flexible by the fact that, as a precursor to the Empire’s iconic TIE line of starfighters, it can ignore the “TIE” ship restriction on upgrade cards. This gives pilots even more options, such as performing an [Ion Limiter Override](swz80_upgrade_ion-limiter-override.png) who can use the barrel roll as a chance to line up a target in his bullseye arc.
+Beyond its configurations, the V-wing is made even more flexible by the fact that, as a precursor to the Empire’s iconic TIE line of starfighters, it can ignore the “TIE” ship restriction on upgrade cards. This gives pilots even more options, such as performing an [Ion Limiter Override](4602cddf57c0e2135ef51a2d69bbf669.png) who can use the barrel roll as a chance to line up a target in his bullseye arc.
 
-Similarly, a pilot can take advantage of the ship’s [Precision Ion Engines](swz80_upgrade_precison-ion-engines.png) to help them navigate. These droids give them a larger margin of error when moving close to obstacles, making it possible for them to overlap or move through and overlap them while a barrel rolling or boosting.
+Similarly, a pilot can take advantage of the ship’s [Precision Ion Engines](44c41e3b49357ec50dda9bba5b66fa36.png) to help them navigate. These droids give them a larger margin of error when moving close to obstacles, making it possible for them to overlap or move through and overlap them while a barrel rolling or boosting.
 
-![](swz80_a1_art.png)
+![](47d965b7d38db63e68ddee0433a41e52.png)
 
-With so many tools at their disposal, skilled V-wing pilots can threaten enemy squadrons working in a variety of ways. A crack clone pilot like [“Contrail,”](swz80_ship_contrail.png) acquire the lock he needs to prevent a ship from applying range bonuses.
+With so many tools at their disposal, skilled V-wing pilots can threaten enemy squadrons working in a variety of ways. A crack clone pilot like [“Contrail,”](95143ce6e8b91695f8710de66c0e1c56.png) acquire the lock he needs to prevent a ship from applying range bonuses.
 
 Complete the Mission
 --------------------

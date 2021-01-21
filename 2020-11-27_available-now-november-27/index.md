@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](ti10_preview.jpg)
+![](01726ad3cbdcba1dc9a5465b2b5bd2a2.jpg)
 
 27 November 2020
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-_[Prophecy of Kings](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/products/prophecy-kings/)_ _![](ti10-box-right500.png)_ 
+_[Prophecy of Kings](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/products/prophecy-kings/)_ _![](5521cbb523ba7b916fb58a4730ff3131.png)_ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The massive _Prophecy of Kings_ expansion is packed to bursting with new content that you can add to your games of _[Twilight Imperium](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/)_. The galaxy has grown far larger, as seven never-before-seen factions enter the game, each boasting their own unique strengths and weaknesses, from the gene-altering powers of the Mahact, to the watchful guard of the Argent Flight, to the mysterious and ancient Empyrean. And new factions aren’t the only way the galaxy grows bigger! Forty new system and hyperlane tiles add new planets and obstacles to the map, and with two new colors of player components included in the box, you can play _Twilight Imperium_ with up to eight players.
@@ -30,7 +30,7 @@ But that’s only a fraction of what you’ll find in this expansion! Adding eve
 
 * * *
 
-_[Eta-2 Actis Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/eta-2-actis-expansion-pack/)_ _![](swz79_box_right.png)_ 
+_[Eta-2 Actis Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/eta-2-actis-expansion-pack/)_ _![](c715a4c8de7093b9f289091129fb145d.png)_ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 As the Clone Wars takes its toll on the ranks of the Jedi Order, those that remain must assume even greater responsibilities in the Grand Army of the Republic. The Eta-2 _Actis_\-class Interceptor, developed by Kuat Systems Engineering, is stripped down so that battle hardened Jedi pilots can get the most out of its agile frame.
@@ -43,7 +43,7 @@ _Pick up your own copy of the_ Eta-2 Actis Expansion Pack _(SWZ79) at your loca
 
 * * *
 
-[Nimbus-class V-Wing Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/nimbus-class-v-wing-expansion-pack/) ![](swz80_box_right.png)
+[Nimbus-class V-Wing Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/nimbus-class-v-wing-expansion-pack/) ![](c388935e6a97f0322133784b9690ffb6.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Kuat Systems Engineering Alpha-3 _Nimbus_\-class V-wing is the vessel of choice for the Galactic Republic’s clone and non-clone starfighter pilots alike. This nimble craft is fielded in various configurations for specialized tasks. The techniques pioneered to mass-produce its precision ion engines will later be crucial in the development of the TIE series by Sienar Fleet Systems.
@@ -54,7 +54,7 @@ _Pick up your own copy of the_ Nimbus-class V-Wing Expansion Pack _(SWZ80) at yo
 
 * * *
 
-_[Droid Tri-Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/droid-tri-fighter-expansion-pack/)_ _![](swz81_box_right.png)_ 
+_[Droid Tri-Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/droid-tri-fighter-expansion-pack/)_ _![](b9d8e0db218c0719137fc6901af72cc0.png)_ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Designed by the Colicoid Creation Nest and manufactured by Phlac-Arphocc Automata Industries, the heuristic processers of Droid Tri-Fighters allow these deadly ships to analyze and adapt to enemy tactics in-flight. Deployed late in the Clone Wars, these aggressive starfighters, and the destructive buzz droids they carry, pose a serious threat to even veteran Jedi pilots.
@@ -67,7 +67,7 @@ _Pick up your own copy of the_ Droid Tri-Fighter Expansion Pack _(SWZ81) at your
 
 * * *
 
-_[Jango Fett's Slave I Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/jango-fetts-slave-i-expansion-pack/)_ _![](swz82_box_right.png)_ 
+_[Jango Fett's Slave I Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/jango-fetts-slave-i-expansion-pack/)_ _![](0bd509e3d8b1c23b1be2efb427fdd6c8.png)_ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A bounty hunter is only as good as their ship. Originally produced for law enforcement purposes by Kuat Systems Engineering, the _Firespray_\-class patrol craft is also a favorite of bounty hunters like Jango Fett, who use its robust chassis to add their own weaponry and modifications. Fett's reputation as one of the best bounty hunters in the galaxy is partially thanks to the fearsome _Slave I_, which he uses to hunt his marks and, if they won't come quietly, bring them down on the spot.  

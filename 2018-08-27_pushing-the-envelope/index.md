@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz07_preview2.jpg)
+![](0d1748a0b906394fb8b20768f95f7420.jpg)
 
 27 August 2018
 
@@ -17,7 +17,7 @@ Pushing the Envelope
 
 Preview an Imperial List for X-Wing Second Edition
 
-![](swz01_box_left.png)
+![](21ba422c6bac634bea4a0093e307131b.png)
 
 _“Fear will keep the local systems in line.”_  
    –Grand Moff Tarkin, _Star Wars: A New Hope_
@@ -28,7 +28,7 @@ With the _X-Wing Second Edition Core Set_ and the two Imperial ship expansions r
 
 After taking a look at a Rebel squadron featuring the crew of the _Ghost_ in our last article, we’re turning our attention to the forces of the Galactic Empire and another 200-point list created by designer Alex Davy. Join us as we take a look at an Imperial squadron that relies on some of the most advanced ships in the Imperial arsenal.
 
-![](swz07_a2_ships.png)
+![](56ccfbc7b89eefee55eda8f2f8a9a4df.png)
 
 An Unseen Menace
 ----------------
@@ -58,26 +58,26 @@ This begins with one of the most elusive ships in the Imperial Navy: the TIE/ph 
 
 Thankfully, the TIE/ph Phantom’s built-in Stygium Array lets you take advantage of the Phantom’s ability to cloak without robbing it of the opportunity to attack enemy ships. The array lets you perform an evade action after you decloak, giving you an evade token that can then be spent at the start of the End Phase to cloak the ship. Ultimately, this maintains the ship’s unpredictable movement while freeing it to take other beneficial actions.
 
-![](swz07_a2_whisper_upgrades.png)
+![](b729997c5ae7a325f90f3716822b8a57.png)
 
-Of course, sometimes it’s necessary to use the evade token gained from the Stygium Array to avoid incoming fire. In those instances, most pilots would lose the ability to recloak at the end of the round, but the Phantom in this list happens to be piloted by one of the best TIE/ph Phantom pilots in the galaxy: ["Whisper."](swz07_a2_whisper.png) She gains an evade token after she performs an attack that hits, leaving her with two such tokens if she also performed an evade action after decloaking.
+Of course, sometimes it’s necessary to use the evade token gained from the Stygium Array to avoid incoming fire. In those instances, most pilots would lose the ability to recloak at the end of the round, but the Phantom in this list happens to be piloted by one of the best TIE/ph Phantom pilots in the galaxy: ["Whisper."](fc7c6b944cfe8b936c49dd97d1691673.png) She gains an evade token after she performs an attack that hits, leaving her with two such tokens if she also performed an evade action after decloaking.
 
-Helping her ensure this critical shot gets through enemy defenses is none other than [Darth Vader](swz07_a2_darth-vader.png) himself. Lord Vader adds a valuable Force charge to the TIE Phantom, and you’ll most likely want to spend that Force charge at the beginning of the Engagement Phase to force an enemy ship to suffer a damage or remove a green token. Without these defensive tokens, “Whisper’s” shots have an even better chance of finding their mark, increasing her odds of gaining that coveted evade token. 
+Helping her ensure this critical shot gets through enemy defenses is none other than [Darth Vader](05ebfaa9fb2d4141b7b9c4c427158cf0.png) himself. Lord Vader adds a valuable Force charge to the TIE Phantom, and you’ll most likely want to spend that Force charge at the beginning of the Engagement Phase to force an enemy ship to suffer a damage or remove a green token. Without these defensive tokens, “Whisper’s” shots have an even better chance of finding their mark, increasing her odds of gaining that coveted evade token. 
 
 Technological Terror
 --------------------
 
-While “Whisper” and her TIE/ph Phantom are confounding enemy ships by quickly cloaking and decloaking, the second ship in this list is facing enemy pilots head-on. The experimental TIE/D Defender outclasses all other starfighters and the indomitable [Rexler Brath](swz07_a2_rexler_brath.png) flies one as the leader of the elite Onyx squadron. Like “Whisper,” Brath wants his attacks to hit. In his case, Brath can expose one of the defender’s damage cards so long as he has an evade token when the attack hits.
+While “Whisper” and her TIE/ph Phantom are confounding enemy ships by quickly cloaking and decloaking, the second ship in this list is facing enemy pilots head-on. The experimental TIE/D Defender outclasses all other starfighters and the indomitable [Rexler Brath](66b2834f5e273e3d3b9b0fe83e5ddece.png) flies one as the leader of the elite Onyx squadron. Like “Whisper,” Brath wants his attacks to hit. In his case, Brath can expose one of the defender’s damage cards so long as he has an evade token when the attack hits.
 
-![](swz07_a2_rexler_upgrades.png)
+![](fc246645b476c17d2b8df19c031a46fb.png)
 
-While meeting both these requirements may seem dependent on luck, Brath has two things working in his favor. First, the TIE/D Defender’s Full Throttle ability lets him perform an evade after he fully executes a Speed 3–5 maneuver. Not only does this give him the evade token he needs, it frees him to focus or take a target lock, increasing the odds of a successful attack. Second, if Brath has  [Juke,](swz14_juke.png)  the evade token he gains from Full Throttle becomes doubly useful, letting him change a defender’s evade to a focus while he performs an attack.
+While meeting both these requirements may seem dependent on luck, Brath has two things working in his favor. First, the TIE/D Defender’s Full Throttle ability lets him perform an evade after he fully executes a Speed 3–5 maneuver. Not only does this give him the evade token he needs, it frees him to focus or take a target lock, increasing the odds of a successful attack. Second, if Brath has  [Juke,](fec0e4f6249308bdf3dad3a43bcd71f7.png)  the evade token he gains from Full Throttle becomes doubly useful, letting him change a defender’s evade to a focus while he performs an attack.
 
 The final ship in this squadron can be a boon to either of the other two. Designed to ferry elite troops to flashpoints on the battlefield, the TIE Reaper is also capable of disrupting enemy operations or acting as a sort of command shuttle. It can both jam enemy ships, ridding them of pesky green tokens and locks, and coordinate with friendly ships, giving them the chance to take more actions.
 
-![](swz07_a2_scarif-pilot_upgrades.png)
+![](ec9c77d6d593680a2b2ab1a8f90f7c08.png)
 
-In addition to these abilities, in this squadron a [Scarif Base Pilot](swz07_a2_scarif-pilot.png)  This ship can then spend its hit, critical hit, and focus results to remove shields or expose damage cards while attacking a ship the Reaper has locked!
+In addition to these abilities, in this squadron a [Scarif Base Pilot](8ab588c7f479594491e11aeba28a2395.png)  This ship can then spend its hit, critical hit, and focus results to remove shields or expose damage cards while attacking a ship the Reaper has locked!
 
 The Optimized Prototype condition provides benefits for the entire squadron and works equally well on either the Phantom or the Defender. If you add it to the Phantom, you suddenly have the chance to add a damage card to an enemy ship with Darth Vader, then flip that card later in the round. In the hands of Brath and his TIE/D Defender, on the other hand, you have the potential to throw an enemy ship’s systems into chaos by exposing two of its damage cards in the same attack. 
 

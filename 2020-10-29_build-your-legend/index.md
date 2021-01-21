@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz82_preview1.jpg)
+![](6901736b34b3649743267abfe992372b.jpg)
 
 29 October 2020
 
@@ -17,7 +17,7 @@ Build Your Legend
 
 Preview the Jango Fett's Slave I Expansion Pack for Star Wars™: X-Wing
 
-![](swz82_box_left.png)
+![](dbf8b8ed7a5e16dfe07fd3ef630306e3.png)
 
 _“I’m just a simple man trying to make my way in the universe.”_  
    –Jango Fett, _Star Wars_™_: Attack of the Clones_
@@ -32,34 +32,34 @@ Finally, the _Firespray_ is known as a particularly customizable platform and th
 
 Read on for a full look at the _Jango Fett’s_ Slave I _Expansion Pack_!
 
-![](swz82_a1_ship_art.png)
+![](6e60316363498c3c98fd1144b5aa2849.png)
 
 Take the Job
 ------------
 
 A bounty hunter is only as good as their ship. These vessels serve many functions, from tracking targets to engaging in all-out combat and the _Slave I_ gives Jango Fett all the tools he needs to hunt his marks and, if they won’t come quietly, bring them down on the spot. As flexible as it is formidable, it’s easy to see why this is one of the most feared ships in the galaxy.
 
-With these goals in mind, bounty hunters often take a different approach to combat than pilots of standard military craft. They rely on cunning as much as speed and firepower and though his ship may not be as maneuverable as lighter fighters, [Jango Fett](swz82_a1_jango-fett.png) himself still has the skill to disrupt an opponent’s fancy flying. Whether he’s defending or performing a primary attack, he can change one of the enemy ship’s dice from a focus to a blank result so long as the difficulty of his revealed maneuver is less than that of the enemy ship’s.
+With these goals in mind, bounty hunters often take a different approach to combat than pilots of standard military craft. They rely on cunning as much as speed and firepower and though his ship may not be as maneuverable as lighter fighters, [Jango Fett](0e3e849e7a53de1eb074ad591aea547c.png) himself still has the skill to disrupt an opponent’s fancy flying. Whether he’s defending or performing a primary attack, he can change one of the enemy ship’s dice from a focus to a blank result so long as the difficulty of his revealed maneuver is less than that of the enemy ship’s.
 
-Jango Fett makes it bit harder for opponents to escape his grasp, so it should be no surprise that his unaltered clone Boba has similar piloting skill. The young [Boba Fett](swz82_a1_boba-fett.png) may be inexperienced and not share his father’s initiative, but still knows how to survive an intense space battle. He prefers to work on his own and, if there are no other friendly ships at range 0–2 while he defends, he can change one of his blank results to a focus result, giving him a better chance to escape a dangerous encounter unscathed.
+Jango Fett makes it bit harder for opponents to escape his grasp, so it should be no surprise that his unaltered clone Boba has similar piloting skill. The young [Boba Fett](2d29d2fa7cccd6885a54b3fc31a9e141.png) may be inexperienced and not share his father’s initiative, but still knows how to survive an intense space battle. He prefers to work on his own and, if there are no other friendly ships at range 0–2 while he defends, he can change one of his blank results to a focus result, giving him a better chance to escape a dangerous encounter unscathed.
 
-![](swz82_cardfan_condition.png)
+![](e646fee12f54ac526a9115a795dc68f9.png)
 
-Still other bounty hunters make use of even more subterfuge than this pair. The Clawdite [Zam Wesell](swz82_a1_zam-wessel.png)  is hard to predict as she assigns herself one of two condition cards during every System Phase. Unlike other conditions, however, the ones you find here are secret and are assigned facedown to keep Wesell’s opponents off guard.
+Still other bounty hunters make use of even more subterfuge than this pair. The Clawdite [Zam Wesell](a3f834307d4627a88788581baa64c9f4.png)  is hard to predict as she assigns herself one of two condition cards during every System Phase. Unlike other conditions, however, the ones you find here are secret and are assigned facedown to keep Wesell’s opponents off guard.
 
-These cards enter Wesell into a tense game of bluffs and coercion with her foes, forcing them to carefully consider who they target.  If she chooses [You Should Thank Me](swz82_a1_thank-me.png) condition. So long as she can carefully manage her charges, Zam Wesell remains an enigmatic and menacing opponent.
+These cards enter Wesell into a tense game of bluffs and coercion with her foes, forcing them to carefully consider who they target.  If she chooses [You Should Thank Me](4545c5d021dbb534378a4f64b3969fb5.png) condition. So long as she can carefully manage her charges, Zam Wesell remains an enigmatic and menacing opponent.
 
-Not every pilot seeking to capitalize on the conflict is as skilled as these pilots, of course. Fortunately, any [Separatist Racketeer](swz82_a1_separatist-racketeer.png) , for example, retains his ability to disrupt a ship’s focus even when he joins another pilot’s crew. In this case, he gives them the option of spending a lock they have on the enemy ship for the same effect as his pilot ability.
+Not every pilot seeking to capitalize on the conflict is as skilled as these pilots, of course. Fortunately, any [Separatist Racketeer](c846c7649b2593eef424a0463703022d.png) , for example, retains his ability to disrupt a ship’s focus even when he joins another pilot’s crew. In this case, he gives them the option of spending a lock they have on the enemy ship for the same effect as his pilot ability.
 
-![](swz82_a1_upgrade-cardfan.png)
+![](e6059cac160d437622dd41e31a1c8a62.png)
 
-The same goes for [Zam Wesell](swz82_a1_upgrade_zam-wessel.png) takes things to an even further extreme. Known for playing both sides to his advantage, he gives you the chance to choose two ships friendly to each other at range 1–3 and coordinate one while jamming the other. Whether the chosen ships are yours or not is up to you, but clever pilots will find a way to put themselves in a superior position.
+The same goes for [Zam Wesell](c5ba6c60bdb2cbad0eaf331d994224e5.png) takes things to an even further extreme. Known for playing both sides to his advantage, he gives you the chance to choose two ships friendly to each other at range 1–3 and coordinate one while jamming the other. Whether the chosen ships are yours or not is up to you, but clever pilots will find a way to put themselves in a superior position.
 
-While they mostly look out for themselves, bounty hunters like Jango Fett recognize the benefits of teaming up with other like-minded individuals, especially those that can act as a gunner. In fact, the _[Slave I](swz82_a1_upgrade_slave1.png) to join forces. Not only can Boba Fett change a focus result to a hit if there are no other ships in the attack arc, the _Slave I_ title allows you to boost this result to a critical hit so long as you’re attacking from the defender’s full rear arc.
+While they mostly look out for themselves, bounty hunters like Jango Fett recognize the benefits of teaming up with other like-minded individuals, especially those that can act as a gunner. In fact, the _[Slave I](0fc4deed544754bc062ecd7f0527280f.png) to join forces. Not only can Boba Fett change a focus result to a hit if there are no other ships in the attack arc, the _Slave I_ title allows you to boost this result to a critical hit so long as you’re attacking from the defender’s full rear arc.
 
-As useful as Boba Fett may be, having someone trained in the use of special weapons can provide their own advantages. Specifically, a [Weapons Systems Officer](swz82_a1_upgrade_weapon-systems.png) that jam an object after you acquire a lock on it or it acquires a lock on you, stripping it off helpful green tokens for the ensuing attack.
+As useful as Boba Fett may be, having someone trained in the use of special weapons can provide their own advantages. Specifically, a [Weapons Systems Officer](f987f0a34b54c58b4ac59cd1770636e4.png) that jam an object after you acquire a lock on it or it acquires a lock on you, stripping it off helpful green tokens for the ensuing attack.
 
-![](swz82_a1_art.png)
+![](7a3aec32c3da0d453103811266d94da7.png)
 
 Seize the Opportunity
 ---------------------

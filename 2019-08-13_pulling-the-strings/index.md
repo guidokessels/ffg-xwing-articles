@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz47_preview1.jpg)
+![](70beff5e99f500f98dce2b553092054d.jpg)
 
 13 August 2019
 
@@ -17,7 +17,7 @@ Pulling the Strings
 
 Preview the Nantex-class Starfighter Expansion Pack for Star Wars: X-Wing
 
-![](swz47_box_left.png)
+![](82e2d1afa9ea24a0be573553ad4e9c40.png)
 
 _"May I ask why a Jedi Knight is all the way out here on Geonosis?"_  
    —Count Dooku: _Star Wars: Attack of the Clones_
@@ -30,7 +30,7 @@ This expansion contains a beautifully-detailed, pre-painted _Nantex_\-class Star
 
 Read on as we take a look at everything included in the Nantex-_class Starfighter Expansion Pack_! 
 
-![](swz47_ship_art.png)
+![](e6185722d7c690a6726d16eb46e74b4e.png)
 
 A Dangerous Dance
 -----------------
@@ -39,18 +39,18 @@ On the surface, the _Nantex_\-class Starfighter seems similar to the droid star
 
 At the heart of the _Nantex_\-class starfighter's design is a pinpoint tractor array that help the craft overcome its apparent flaws. The ship may be limited to the focus and evade actions in its action bar, but this tractor array opens up even more strategic possibilities, enabling both precise targeting as well as unprecedented control over the ship itself. After executing a maneuver, a _Nantex-_pilot can engage their pinpoint tractor array, gaining a tractor token to rotate their mobile arc.
 
-![](swz47_diagram1_a1.jpg)  
+![](f464d6376657665be75b79ef94fedb7b.jpg)  
 _Sun Fac executes a speed-2 turn and then gains a tractor token to perform a rotate action. They then use the tractor token to barrel roll, lining up a shot on the BTL-B Y-Wing with their primary weapon!_
 
-While this all but guarantees the ship will have a target every round, expert flying might make the mobile arc unnecessary altogether. The tractor token gained from the array can be used to perform a boost or barrel that could line up a shot in the bullseye arc with the ship's more powerful primary weapon. Obviously powerful on its own, the pinpoint tractor array's capabilities can be enhanced with the use of upgrade cards. For example, if a _Nantex_\-class starfighter can't avoid an incoming attack, its tractor tokens can always become part of a  [Gravitic Deflection](swz47_upgrade-gravitic-deflection.png)  to the fire it takes aside.
+While this all but guarantees the ship will have a target every round, expert flying might make the mobile arc unnecessary altogether. The tractor token gained from the array can be used to perform a boost or barrel that could line up a shot in the bullseye arc with the ship's more powerful primary weapon. Obviously powerful on its own, the pinpoint tractor array's capabilities can be enhanced with the use of upgrade cards. For example, if a _Nantex_\-class starfighter can't avoid an incoming attack, its tractor tokens can always become part of a  [Gravitic Deflection](caecb278655ffb637d7a2485c63a084d.png)  to the fire it takes aside.
 
-![](swz47_cards-sun-fac.png) A tool as powerful as a pinpoint tractor array can be used in many different ways, and the Geonosians who pilot the _Nantex_\-class Starfighter often use it to suit their personal style. An ace like  [Sun Fac](swz47_cards-sun-fac.png)    quickly and easily solves this problem. 
+![](695b5f22b6119f3f73d6e16ad68c6eed.png) A tool as powerful as a pinpoint tractor array can be used in many different ways, and the Geonosians who pilot the _Nantex_\-class Starfighter often use it to suit their personal style. An ace like  [Sun Fac](695b5f22b6119f3f73d6e16ad68c6eed.png)    quickly and easily solves this problem. 
 
-While these two aces create opportunities for themselves with creative use of tractor tokens, other _Nantex_\-class Starfighter pilots such as  [Berwer Kret](swz47_cards-berwer-kret.png)  these ships could perform this action before they even engage.
+While these two aces create opportunities for themselves with creative use of tractor tokens, other _Nantex_\-class Starfighter pilots such as  [Berwer Kret](0e94301d91938b2d95cc30b1c64205b6.png)  these ships could perform this action before they even engage.
 
-At the same time, an engineer such as  [Gorgol](swz47_cards-gorgol.png)  to defend Geonosis from Republic invaders.
+At the same time, an engineer such as  [Gorgol](a49d59163a4f922dc69cd3d21cbd93cc.png)  to defend Geonosis from Republic invaders.
 
-![](swz47_art.png)
+![](9041ce035a2c9a6b6c742242cb31d0fb.png)
 
 Accomplish the Impossible
 -------------------------

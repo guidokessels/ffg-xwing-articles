@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz69_preview1.jpg)
+![](8eb73f8ef5d2ce113a6c0ee43a26bb4e.jpg)
 
 26 August 2020
 
@@ -17,7 +17,7 @@ Out of the Ashes
 
 Preview the Xi-class Light Shuttle Expansion Pack for Star Wars: X-Wing
 
-![](swz69_box_left.png)
+![](527975e871502bc2a57a965d14de2201.png)
 
 _“I’ve waited a long time to return the favor.”_  
    –Gideon Hask, _Star Wars Battlefront II_
@@ -30,28 +30,28 @@ This expansion gives you everything you need to add a _Xi_\-class Light Shuttle 
 
 Read of for a full look at the Xi_\-class Light Shuttle Expansion Pack_!
 
-![](swz69_a1_ship_art.png)
+![](e0a42b68aedf098271eb2ef3393af1e7.png)
 
 A New Order
 -----------
 
 The First Order is but a shadow of the former Empire. Its starfighters may resemble their Imperial predecessors, but they enter combat in a galaxy where the balance of power has shifted. To effectively combat the Resistance and reclaim its former glory, then, First Order squadrons must adapt to this shift, and nowhere is this willingness to adapt more clear than the _Xi_\-class Light Shuttle.  
 
-Effective at both boosting friendly fighters and disrupting the enemy, the _Xi_\-class Light Shuttle also gives some of the First Order’s most ruthless operatives a platform to unleash havoc on opposing forces. A vindictive leader like [Commander Malarus,](swz69_malarus_card.png)  and honing in on her target no matter the cost.
+Effective at both boosting friendly fighters and disrupting the enemy, the _Xi_\-class Light Shuttle also gives some of the First Order’s most ruthless operatives a platform to unleash havoc on opposing forces. A vindictive leader like [Commander Malarus,](0d665f7113806768399272a78d225414.png)  and honing in on her target no matter the cost.
 
-![](swz69_cardfan_malarus.png)
+![](b4f8b70ea0533bbbb8a345e013a9814e.png)
 
-At the same time, the mere presence of an officer like [Commander Pyre](swz69_pyre_card.png) can intimidate an enemy pilot, causing them to gain two stress tokens as soon as his squadron appears. But his benefits don't end there. Pyre also gives his ship a valuable defensive bonus, allowing it to reroll a defense die if the attacker is stressed.
+At the same time, the mere presence of an officer like [Commander Pyre](6ec24d6a8436d83dc065af0db99e0c80.png) can intimidate an enemy pilot, causing them to gain two stress tokens as soon as his squadron appears. But his benefits don't end there. Pyre also gives his ship a valuable defensive bonus, allowing it to reroll a defense die if the attacker is stressed.
 
-Other First Order operatives like [Agent Terex](swz69_terex_card.png) he either gains a calculate or jam token during the System Phase that can then be transferred to another ship as an action. 
+Other First Order operatives like [Agent Terex](973f6fc0a5b07be7a324021028c9f554.png) he either gains a calculate or jam token during the System Phase that can then be transferred to another ship as an action. 
 
-But this isn’t the only way for Terex to exert his influence on the ships around him. Unafraid to use illicit technologies to give him a boost in battle, if [he takes](swz69_a1_ship_terex.png)
+But this isn’t the only way for Terex to exert his influence on the ships around him. Unafraid to use illicit technologies to give him a boost in battle, if [he takes](08aead89ac92237da178010105106926.png)
 
-![](swz69_a1_cardfan.png)
+![](6e38617ff3b3e528632a38853e47f9ad.png)
 
-Not to be outdone, like Terex, [Commander Malarus](swz69_a1_ship_malarus.png) helps turn swarms of light fighters into a dominant force. He can easily become the cornerstone of any First Order formation, giving his squadmates the chance to finish off a damaged defender with an additional attack die.
+Not to be outdone, like Terex, [Commander Malarus](fd6c89e0262a36c2cfa9592dc1f794fd.png) helps turn swarms of light fighters into a dominant force. He can easily become the cornerstone of any First Order formation, giving his squadmates the chance to finish off a damaged defender with an additional attack die.
 
-Even if the _Xi_\-class Light Shuttle is piloted by a lowly [First Order Courier,](swz69_a1_ship_courier.png) to protect its hidden enclaves and these devices can help you be more prepared to engage with the enemy. 
+Even if the _Xi_\-class Light Shuttle is piloted by a lowly [First Order Courier,](b32475f5a6cfdbd288364a3d26b44ac7.png) to protect its hidden enclaves and these devices can help you be more prepared to engage with the enemy. 
 
 Return to Glory
 ---------------

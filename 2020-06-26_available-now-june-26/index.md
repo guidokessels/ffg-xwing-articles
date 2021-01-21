@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz75_available-now_1.jpg)
+![](9671f575f1f1644a5d783636a1dbee63.jpg)
 
 26 June 2020
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-_[Rebel Alliance Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/rebel-alliance-damage-deck/)_ ![](swz72_box_right.png)
+_[Rebel Alliance Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/rebel-alliance-damage-deck/)_ ![](f4d67b1d4f545695c0b46fedd0a41ddd.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your [_Star Wars_™: X-Wing](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) experience and display your loyalty with the _Rebel Alliance Damage Deck_! 
@@ -30,7 +30,7 @@ This deck contains a complete set of thirty-three illustrated damage cards featu
 
 * * *
 
-_[Galactic Empire Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/galactic-empire-damage-deck/)_ ![](swz73_box_right.png)
+_[Galactic Empire Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/galactic-empire-damage-deck/)_ ![](61d6f31d3536247ace552f8819b3a936.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your _Star Wars_: X-Wing experience and display your loyalty with the _Galactic Empire Damage Deck_! 
@@ -41,7 +41,7 @@ _Pick up your copy of the_ Galactic Empire Damage Deck _(SWZ73) at your local r
 
 * * *
 
-_[Scum and Villainy Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/scum-and-villainy-damage-deck/)_ ![](swz74_box_right.png)
+_[Scum and Villainy Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/scum-and-villainy-damage-deck/)_ ![](5e5e9ff5a97262b6921053e02da224cf.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your _Star Wars_: X-Wing experience and display your loyalty with the _Scum and Villainy Damage Deck_! 
@@ -52,7 +52,7 @@ _Pick up your copy of the_ Scum and Villainy Damage Deck _(SWZ74) at your local
 
 * * *
 
-_[Resistance Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/resistance-damage-deck/)_ ![](swz75_box_right.png)
+_[Resistance Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/resistance-damage-deck/)_ ![](1a484f1a2aa1529e811cfd9357646471.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your _Star Wars_: X-Wing experience and display your loyalty with the _Resistance Damage Deck_! 
@@ -63,7 +63,7 @@ _Pick up your copy of the_ Resistance Damage Deck _(SWZ75) at your local retail
 
 * * *
 
-_[First Order Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/first-order-damage-deck/)_ ![](swz76_box_right.png)
+_[First Order Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/first-order-damage-deck/)_ ![](e8308c65b8fe0d6de65e625a332eb445.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your _Star Wars_: X-Wing experience and display your loyalty with the _First Order Damage Deck_! 
@@ -74,7 +74,7 @@ _Pick up your copy of the_ First Order Damage Deck _(SWZ76) at your local retai
 
 * * *
 
-_[Galactic Republic Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/galactic-republic-damage-deck/)_ ![](swz77_box_right.png)
+_[Galactic Republic Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/galactic-republic-damage-deck/)_ ![](8b3fb20b91e714431c9e0d00b1b9c73b.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your _Star Wars_: X-Wing experience and display your loyalty with the _Galactic Republic Damage Deck_! 
@@ -85,7 +85,7 @@ _Pick up your copy of the_ Galactic Republic Damage Deck _(SWZ77) at your local
 
 * * *
 
-_[Separatist Alliance Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/separatist-alliance-damage-deck/)_ ![](swz78_box_right.png)
+_[Separatist Alliance Damage Deck](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/separatist-alliance-damage-deck/)_ ![](f64dcc9af347cfa3a1496d0d58f9844b.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Personalize your _Star Wars_: X-Wing experience and display your loyalty with the _Separatist Alliance Damage Deck_! 

@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swl_osn_preview.jpg)
+![](68064bdd8b6d893987249d3877cd0ecc.jpg)
 
 15 November 2019
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-_[C-ROC Cruiser Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-c-roc-cruiser-expansion-pack/)_ _![](swz56_box_right.png)_ 
+_[C-ROC Cruiser Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-c-roc-cruiser-expansion-pack/)_ _![](6781a1c1f7126d5a1eb972df37381fe2.png)_ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The C-ROC cruiser is the heaviest vessel available to many criminal operations, cartels, and syndicates in the Outer Rim, capable of carrying massive weapons batteries and unique dirty tricks that keep it one step ahead of the law. Whether it's hauling illicit cargo or marauding the hyperlanes in search of easy targets, the C-ROC is a flexible and dangerous craft.
@@ -30,7 +30,7 @@ The _C-ROC Cruiser Expansion Pack_ contains everything both Scum and Villainy 
 
 * * *
 
-_[Count Dooku Commander Expansion](https://www.fantasyflightgames.com/en/products/star-wars-legion/products/count-dooku-commander-expansion/)_ _![](swl45_box_right.png)_ 
+_[Count Dooku Commander Expansion](https://www.fantasyflightgames.com/en/products/star-wars-legion/products/count-dooku-commander-expansion/)_ _![](f1ea6746fa3968bed4f9f56c980c94d6.png)_ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 While much of the galaxy knows him as the Separatist Alliance's Head of State, Count Dooku serves a more sinister purpose in the Clone Wars. Actually a powerful Sith lord, Dooku works behind the scenes to bring down the Jedi and destroy the Republic once and for all. As the rare Separatist unit powerful in the Force, he takes to the battles of [_Star Wars_™: Legion](https://www.fantasyflightgames.com/en/products/star-wars-legion/) ready to show off his skills to any bold enough to challenge him.
@@ -41,7 +41,7 @@ _Pick up your copy of the_ Count Dooku Commander Expansion _(SWL45) at your lo
 
 * * *
 
-_[Clone Captain Rex Commander Expansion](https://www.fantasyflightgames.com/en/products/star-wars-legion/products/clone-captain-rex-commander-expansion/)_ _![](swl46_box_right.png)_ 
+_[Clone Captain Rex Commander Expansion](https://www.fantasyflightgames.com/en/products/star-wars-legion/products/clone-captain-rex-commander-expansion/)_ _![](529ff4eb46008e12c041bd3a601d00a2.png)_ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clone Captain Rex viewed military service as an honor, and his loyalty to the Republic and his Jedi Generals was absolute. Rex honed the use of twin blaster pistols into an art form, leading his fellow clones to victory on countless battlefields across the galaxy.
@@ -52,7 +52,7 @@ _Pick up your copy of the_ Clone Captain Rex Commander Expansion _(SWL46) at y
 
 * * *
 
-_[The Search for Kadath Mythos Pack](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/products/search-kadath/)_ _![](ahc39_box.png)_ 
+_[The Search for Kadath Mythos Pack](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/products/search-kadath/)_ _![](c2a729ec33a20983f42b671360bf42a0.png)_ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Journey across the Dreamlands in _The Search for Kadath_, the first Mythos Pack in _The Dream-Eaters_ cycle for _[Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/)_! After taking your first steps into the Dreamlands, your mind teems with anxiety over the quest ahead, dangers you left in the waking world, and the fate of dreamers who have come before you. Are they also somewhere in these expansive lands? Perhaps if you find the lost castle and return with proof of the Dreamlands, you can save everyone: yourself, your friends, and the other dreamers as well. So, despite the advice of the Dreamlands’ inhabitants, you and your companions seek unknown Kadath, where the gods dwell.
@@ -63,7 +63,7 @@ _Pick up your copy of_ The Search for Kadath Mythos Pack _(AHC39) at your loca
 
 * * *
 
-_[Wrath and Ruin Adventure Pack](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/products/wrath-and-ruin/)_ _![](mec78_box.png)_ 
+_[Wrath and Ruin Adventure Pack](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/products/wrath-and-ruin/)_ _![](4f01662b5d5dbc37987b680feea1133e.png)_ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Wrath and Ruin_ is the first Adventure Pack in the _Vengeance of Mordor_ cycle for _[The Lord of the Rings: The Card Game](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/)_. 

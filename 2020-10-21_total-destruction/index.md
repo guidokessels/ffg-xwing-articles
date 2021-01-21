@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz81_preview1.jpg)
+![](0c7913bf4d557bdebd857a3838f90894.jpg)
 
 21 October 2020
 
@@ -17,7 +17,7 @@ Total Destruction
 
 Preview the Droid Tri-Fighter Expansion Pack for Star Wars: X-Wing
 
-![](swz81_box_left.png)
+![](f4309fd1f544d86eaf152783060824d3.png)
 
 _“They’re all over me!”_  
    –Clone pilot, _Star Wars™: Revenge of the Sith_
@@ -30,7 +30,7 @@ This expansion contains everything you need to integrate one of these brutally e
 
 Join us today as we take a full look at the _Droid Tri-Fighter Expansion Pack_!
 
-![](swz81_a1_ship_art.png)
+![](ae2b5b4a9a86ca57434b7ff5b6600d96.png)
 
 Predatory Programming
 ---------------------
@@ -39,21 +39,21 @@ Droid Tri-Fighters represent the next step in the evolution of Separatist starfi
 
 Like other droid starfighters, the aggressiveness of Droid Tri-Fighters is tempered by their own fragility, but they have plenty of tools to overcome their three hull, including superior agility and a maneuver dial that makes them a menace in tight dogfights. Performing a quick speed-1 Tallon Roll gives them plenty of opportunities stay on target while both mid-and long-range Koiogran Turns allow them to quickly reengage or remain unpredictably elusive at just the right moments.
 
-![](swz81_a1_cardfan_upgrades.png)
+![](d8a3c45c1501cc5400f4e3d5a9b27d30.png)
 
-This unpredictability is only heightened by the Separatist strategy of launching them from the missile tubes of capital ships or fitting them with [Intercept Boosters](swz81_upgrade_intercept-booster_attached.png) them and opening fire.
+This unpredictability is only heightened by the Separatist strategy of launching them from the missile tubes of capital ships or fitting them with [Intercept Boosters](a65176edc3a84ac8ee9a4876acc60242.png) them and opening fire.
 
-Once they’re engaged, Separatist fighter squadrons often make use of unorthodox weapons and equipment and Droid Tri Fighters are no exception. Whether you deploy some ![](swz81_dis-347_cutout.png) [Separatist Interceptors](swz81_separatist-interceptor_cutout.png)   that give each friendly ship at range 1–3 of the defender a lock on the defender upon impact.
+Once they’re engaged, Separatist fighter squadrons often make use of unorthodox weapons and equipment and Droid Tri Fighters are no exception. Whether you deploy some ![](83454f959fc3421e87beb2c94895d58f.png) [Separatist Interceptors](3c9e004249f1ede2f14021f4b8753c6a.png)   that give each friendly ship at range 1–3 of the defender a lock on the defender upon impact.
 
-These tools can also be used in conjunction with the specific programming of unique Droid Tri-Fighters. [DIS-347,](swz81_dis-347_cutout.png)
+These tools can also be used in conjunction with the specific programming of unique Droid Tri-Fighters. [DIS-347,](83454f959fc3421e87beb2c94895d58f.png)
 
-The [Phlac-Arphocc Prototype,](swz81_phlac-prototype_cutout.png) it can further hinder a target at range 1–2 with a strain token.
+The [Phlac-Arphocc Prototype,](a46a96c1b7bd4ea6247b3166004adf41.png) it can further hinder a target at range 1–2 with a strain token.
 
-While these ships are more than capable of operating on their own, some work best in groups. A pack of [Fearsome Predators](swz81_fearsome-predator_cutout.png) condition after forces are placed and making them particularly vulnerable. These targets must spend at least one green token while defending against a Fearsome Predator–regardless of receiving a benefit or not–or else be forced to gain a strain token.
+While these ships are more than capable of operating on their own, some work best in groups. A pack of [Fearsome Predators](577d881c116b7f7276ceca1bca6993ce.png) condition after forces are placed and making them particularly vulnerable. These targets must spend at least one green token while defending against a Fearsome Predator–regardless of receiving a benefit or not–or else be forced to gain a strain token.
 
-![](swz81_a1_card_art4.png)
+![](e635adea248a15f633281e49da85258c.png)
 
-Similarly, with the chance to spend two calculate tokens from nearby ships between its own ability and the Networked Calculations ship ability, [DIS-T81](swz81_dis-t81_cutout.png) This overrides their Networked Calculations protocols, replacing it with the ability to treat white calculate actions as red to gain an additional calculate token instead. Rather than modify a single ship, this upgrade is standardized across all ships of the same type in a squadron, requiring all ships of that type to be equipped with a copy. Whether used on a group of Droid Tri-Fighters or to make some _Hyena_\-class Droid Bombers operate on their own, this upgrade unlocks deadly new ways for the Separatist Alliance to utililze their starfighters.
+Similarly, with the chance to spend two calculate tokens from nearby ships between its own ability and the Networked Calculations ship ability, [DIS-T81](a91210f323fe1f6c815fdb22b5528198.png) This overrides their Networked Calculations protocols, replacing it with the ability to treat white calculate actions as red to gain an additional calculate token instead. Rather than modify a single ship, this upgrade is standardized across all ships of the same type in a squadron, requiring all ships of that type to be equipped with a copy. Whether used on a group of Droid Tri-Fighters or to make some _Hyena_\-class Droid Bombers operate on their own, this upgrade unlocks deadly new ways for the Separatist Alliance to utililze their starfighters.
 
 Initiate Attack 
 ----------------

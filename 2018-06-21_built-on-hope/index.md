@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swx74_preview5.jpg)
+![](0cc0b64b8c591141c4706af2636c26f4.jpg)
 
 21 June 2018
 
@@ -17,7 +17,7 @@ Built on Hope
 
 X-Wing Wave XIV Is Available Now
 
-![](swx74-75_boxes-new.png)
+![](0a386ff9518ad60ec5712b2161cfc9ee.png)
 
 _“We call it the Death Star. There is no better name… and the day is coming soon when it will be unleashed.”_  
    –Galen Erso, _Rogue One: A Star Wars Story_
@@ -28,18 +28,18 @@ These expansion packs take you back to the very beginning of the Galactic Civil 
 
 No matter which side you choose, these expansion packs will help you usher in the next chapter of fast-paced space battles in the _Star Wars_ galaxy with content from _[X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)_. Both the _Saw’s Renegades Expansion Pack_ and the _TIE Reaper Expansion Pack_ contain everything you need to convert their ships to second edition, giving you the opportunity to experience their raw power from launch.
 
-![](swx74-75_a5_art.jpg)
+![](d42280dd29ed1e58cfc24c91eac46756.jpg)
 
 Fight for Freedom
 -----------------
 
 While other members of the Rebel Alliance debate their next move, Saw Gerrera takes action. He has been fighting tyranny across the galaxy since the Clone Wars and won’t stop until every trace of the Empire has been eliminated. Reflecting the rebel spirit of Saw and his band of freedom fighters, the _Saw’s Renegades Expansion Pack_ puts a new spin on some classic Rebel ships. Both the T-65 X-wing and U-wing miniatures found here feature the striking black-and-white paint scheme particular to Saw and his freedom fighters and are accompanied by ten ship and fifteen upgrade cards that give them a distinct edge when compared to other Rebel starfighters.
 
-For example, you can now outfit your T-65 X-wing with the [Renegade Refit](upgrade_renegade_refit.png)  What’s more, this upgrade has a negative squad point cost, giving you the freedom to further customize your other ships—or even squeeze in another T-65 X-wing.
+For example, you can now outfit your T-65 X-wing with the [Renegade Refit](99ddc8b2e095948597522a59b733beb5.png)  What’s more, this upgrade has a negative squad point cost, giving you the freedom to further customize your other ships—or even squeeze in another T-65 X-wing.
 
-![](swx74_a5_spread2.png)
+![](bf12380e440e8e46ad1b8c56af860609.png)
 
-On top of this first edition content, you’ll also find ten ship cards and twelve upgrade cards along with all the maneuver dials, tokens, and bases you need to bring Saw and his partisans into _X-Wing Second Edition_. Among these, you’ll find an updated version of the U-wing’s [Pivot](swz01_a3_pivot-closed.png) that gives you a greater degree of control over your ship's facing, potentially rotating in mid-air.
+On top of this first edition content, you’ll also find ten ship cards and twelve upgrade cards along with all the maneuver dials, tokens, and bases you need to bring Saw and his partisans into _X-Wing Second Edition_. Among these, you’ll find an updated version of the U-wing’s [Pivot](fa3a4c1291982647b0c836b3ec0355f0.png) that gives you a greater degree of control over your ship's facing, potentially rotating in mid-air.
 
 You can find a full preview of the _Saw’s Renegades Expansion Pack_ [here](https://www.fantasyflightgames.com/en/news/2018/4/24/save-the-rebellion/) and a preview of the _X-Wing Second Edition_ content found in this expansion [here](https://www.fantasyflightgames.com/en/news/3000/1/1/extreme-action/)!
 
@@ -50,9 +50,9 @@ The Death Star is a weapon of immeasurable power and the Empire will go to great
 
 Largely doing away with the speed and maneuverability that are the trademarks of so many Imperial starfighters, the TIE reaper makes use of a unique action bar and the ability to carry two crew members to keep enemy ships off guard. The four different ship cards and eleven upgrade cards you’ll find alongside the TIE reaper miniature in the _TIE Reaper Expansion Pack_ enhance the ship’s ability to take the jam action, making the reaper wholly unique among Imperial starfighters.
 
-![](swx75_a5_spread2.png)
+![](03a2d62dd7299e8274aa758a2d3e3401.png)
 
-[Captain Feroph,](swx75_a3_feroph.png)  This upgrade gives the reaper the rare ability to avoid target locks so long as it can roll an evade result, giving it an even greater chance of coming out the other side of a confrontation unscathed.
+[Captain Feroph,](03d163c27dff62d320d43e74b686b7d7.png)  This upgrade gives the reaper the rare ability to avoid target locks so long as it can roll an evade result, giving it an even greater chance of coming out the other side of a confrontation unscathed.
 
 The _TIE Reaper Expansion Pack_ also contains _X-Wing Second Edition_ versions of all four of its ship cards as well as ten upgrade cards that can be used to customize your TIE reaper or other ships. The reaper itself gets an upgrade in second edition, coming already equipped with Adaptive Ailerons that give the ship an extra burst of speed before you reveal its maneuver dial.
 

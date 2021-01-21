@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz01_preview9.jpg)
+![](f01e977d2e40403e2956eef626254d23.jpg)
 
 13 September 2018
 
@@ -17,7 +17,7 @@ Take Command
 
 Fourteen X-Wing Second Edition Expansions Are Now Available
 
-![](swz01_box_left.png)
+![](21ba422c6bac634bea4a0093e307131b.png)
 
 _"I'm not such a bad pilot myself."_  
    –Luke Skywalker, _Star Wars: A New Hope_
@@ -42,14 +42,14 @@ There’s no telling what you’ll come up against in the thrilling space battle
 *   _[Slave I Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition-slave-i-expansion-pack/)_
 *   _[Fang Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/fang-fighter-expansion-pack/)_
 
-_![](swz_ywing_art2.jpg)_
+_![](b95f23705649dc22dd841a0403c1e5f6.jpg)_
 
 Spirit of Rebellion
 -------------------
 
 Taking on a force like the Galactic Empire is a nearly impossible task, and the Rebel Alliance needs every starfighter it can find if it wants to continue the fight for freedom. Luckily, the _Rebel Alliance Conversion Kit_ gives you access to a full complement of Rebel ships right away.
 
-![](swz01_a2_rebel_spread.png)
+![](ccdc7182803e88a7542da6ab54b7c983.png)
 
 The conversion kit contains all the ship cards, tokens, upgrade cards, and maneuver dials that veteran players need to upgrade their existing Rebel Alliance ship collection to _X-Wing Second Edition_. Alternatively, new players looking to experiment with ships beyond those available at launch can combine the components found in this _Conversion Kit_ with first edition expansions to gain access to even more ships, like the blazingly fast RZ-1 A-wing or the iconic _Millennium Falcon_, from day one!
 
@@ -58,11 +58,11 @@ A Rebel Mainstay
 
 The Rebel Alliance might not be able to match the sheer number of starfighters fielded by the Empire, but they can counter with one of the most effective starfighters in the galaxy. With a fine balance of speed, maneuverability, and firepower, the T-65 X-wing is more than a match for anything the Empire can throw at it.  
 
-![](swz12_ship-image.png)
+![](b66bb48433ec8b8de6d467f6883c41da.png)
 
 The _T-65 X-Wing Expansion Pack_ features a beautifully painted T-65 X-wing miniature as well as all the cards and tokens you need to play. A mainstay of Rebel fighter squadrons, the T-65 X-wing can play a part in virtually every Rebel operation, and every Rebel pilot will appreciate the extensive range of customization options available to the ship.
 
-These iconic starfighters can be outfitted with a variety of torpedoes, astromechs, and modifications that enhance their abilities and make them all the more effective. But perhaps the most striking feature of the T-65 are its Servomotor S-foils. Pilots can [open](swz01_a3_servomotor-open.png) these moveable wings before they activate to grant the ship an added burst of speed or a little firepower, giving you the freedom to choose the best configuration for the situation.
+These iconic starfighters can be outfitted with a variety of torpedoes, astromechs, and modifications that enhance their abilities and make them all the more effective. But perhaps the most striking feature of the T-65 are its Servomotor S-foils. Pilots can [open](211a46b03cd72304a4bba22cea6f3138.png) these moveable wings before they activate to grant the ship an added burst of speed or a little firepower, giving you the freedom to choose the best configuration for the situation.
 
 For a full preview of the T-65 X-wing, including the pilots who fly it, click [here](https://www.fantasyflightgames.com/en/news/2018/6/11/symbol-of-the-rebellion/)! 
 
@@ -71,7 +71,7 @@ Heavy Hitter
 
 While the Empire has the resources and pilots to field squadrons containing a large number of starfighters, the Rebels are left scrounging for whatever ships they can find. The dependable BTL-A4 Y-wing, then, is a boon for squadrons in need of its heavy armament.
 
-![](swz13_a1_ship-image.png)
+![](703e0bc28dde99b2e57da8294f8f7f14.png)
 
 Within the _BTL-A4 Y-Wing Expansion Pack_, you’ll find one fully assembled, beautifully painted and resculpted BTL-A4 Y-wing miniature to add to your Rebel squadron, along with several upgrade cards that you can use to unlock the ship’s full potential.
 
@@ -84,7 +84,7 @@ Imperial Might
 
 In the space battles of the Galactic Civil War, the Galactic Empire can call upon a whole host of starfighters to quell any resistance. Now, the full might of the Imperial Navy can be at your command from the very beginning of _X-Wing Second Edition_.
 
-![](swz07_a1_empire_spread.png)
+![](904871a585f38aac3a0290bf7d6df1bc.png)
 
 With the _Galactic Empire Conversion Kit_, you can bring your entire fleet of Imperial ships from the first edition into the second edition, allowing you to add powerful ships like the TIE/D Defender or the stealthy TIE/ph Phantom to your Imperial squadrons as soon as you start playing. On the other hand, if you’re a new player, you can use the ship cards, tokens, maneuver dials, and more than 100 upgrade cards found in this conversion kit together with first edition ship expansions to grow the possibilities for your _X-Wing Second Edition_ squadrons.
 
@@ -93,7 +93,7 @@ Deadly Swarms
 
 With the vast resources at its command, the Empire has created some of the most advanced starfighters in the galaxy. For its standard-issue starfighter, however, it has chosen to press its numerical advantage and crush the Rebellion under the weight of swarms of TIE/ln fighters.
 
-![](swz14_a1_ship-image.png)
+![](7f4abf6f6d212ca60f83cdd5a6441265.png)
 
 The _TIE/ln Fighter Expansion Pack_ contains one beautifully painted TIE/ln miniature alongside all the components you need to add it to your Imperial squadron. Cheap and highly maneuverable, the TIE/ln is the perfect option for filling out your Imperial squadron.
 
@@ -106,7 +106,7 @@ Rule Through Fear
 
 Wave after wave of TIE/ln fighters are usually all it takes to eliminate opposition to Imperial order. Sometimes, however, cheap, expendable starfighters aren’t enough to handle the problem. During those times, the TIE Advanced x1 is more than enough to convince any remaining Rebels to abandon the cause.
 
-![](swz15_a1_ship-image.png)
+![](3dcea0ea7e5d80669d077a54ffda7bc0.png)
 
 Within the _TIE Advanced x1 Expansion Pack_, you’ll find a beautifully painted TIE Advanced x1 miniature as well as the cards and tokens you need to add this new ship to your squadron.
 
@@ -119,7 +119,7 @@ A Wretched Hive
 
 While the Empire and Rebellion are mired in their ideological conflict, the galaxy’s seedy underbelly searches for ways to serve their own interests. Unlike the uniform military vehicles of the other two factions, the infamous bounty hunters and criminals that make up the galaxy’s Scum and Villainy pilot a diverse array of highly customized ships and the _Scum and Villainy Conversion Kit_ gives you the chance to bring all these ships to your games of _X-Wing Second Edition_ from launch.
 
-![](swz01_a2_scum_spread.png)
+![](1ee74c4e0f9a05c3a89a7eb1c9365e70.png)
 
 With the full hangar bay of new ship cards, tokens, upgrade cards, and maneuver dials you’ll find in the _Scum and Villainy Conversion Kit_, you can upgrade your Scum ship collection from the first edition to the second edition, bringing iconic pilots like Boba Fett and Fenn Rau into the game right at the start. If you’re a new player looking to fly notorious ships like the _IG-2000_ or the _Punishing One_, you can also use this kit along with first edition ship expansions to round out your _X-Wing Second Edition_ squadrons.
 
@@ -128,11 +128,11 @@ Buckle Up
 
 The _Millennium Falcon_ is one of the most iconic ships from the entire _Star Wars_ saga. But long before Han Solo was piloting it as a member of the Rebel Alliance, it belonged to the notorious gambler and smuggler Lando Calrissian. You can experience this classic ship in a whole new way by adding it to your Scum and Villainy squadrons with the Lando’s _Millennium Falcon_ Expansion Pack.
 
-![](swz04_a2_header.png)
+![](26788200b7eab8f1305df9e197c6a46f.png)
 
 This expansion contains a fully assembled and pre-painted customized YT-1300 light freighter miniature, as well as all the components you need to incorporate the ship into your Scum squadron and outfit it for battle.
 
-The _Millennium Falcon_ may have been built to haul cargo, but that doesn’t mean it’s not effective in a fight. The ship sports a double turret arc, allowing it to cover a wide swath of space with its primary weapon. More importantly, the ship’s detachable Escape Craft lends it even more flexibility. While docked, this ship lends its shields and pilot abilities to the _Falcon_. But, if the situation is dire, it can also be flown on its own, working alongside the rest of your squadron. It can even equipped with Rigged Energy Cells and flown by an [Autopilot Drone](swz04_autopilot-drone.png) directly into an incoming group of enemy fighters for an explosive surprise!
+The _Millennium Falcon_ may have been built to haul cargo, but that doesn’t mean it’s not effective in a fight. The ship sports a double turret arc, allowing it to cover a wide swath of space with its primary weapon. More importantly, the ship’s detachable Escape Craft lends it even more flexibility. While docked, this ship lends its shields and pilot abilities to the _Falcon_. But, if the situation is dire, it can also be flown on its own, working alongside the rest of your squadron. It can even equipped with Rigged Energy Cells and flown by an [Autopilot Drone](897f7ae478b6e6d72fff7147bf212595.png) directly into an incoming group of enemy fighters for an explosive surprise!
 
 For a full preview of the Lando's _Millennium Falcon_ Expansion Pack, including a look at the pilots for both the _Falcon_ and the Escape Craft, click [here](https://www.fantasyflightgames.com/en/news/2018/6/25/got-it-where-it-counts/)! 
 
@@ -141,7 +141,7 @@ Track Your Target
 
 Although it was originally produced for law enforcement purposes, the _Firespray_\-class patrol craft is also a favorite of pirates and some of the best bounty hunters in the galaxy, including the infamous Boba Fett. Attracted by a robust chassis that can be packed full of countless deadly armaments, every pilot puts their own spin on this highly customizable craft.
 
-![](swz16_a1_ship-art.png)
+![](b5754b567c8a3309bc8d0f368a4765d6.png)
 
 The _Slave I_ Expansion Pack contains a beautifully detailed _Firespray_\-class patrol craft miniature alongside all the ship cards, tokens, upgrade cards, and maneuver dial you need to outfit your ship and begin the hunt.
 
@@ -154,7 +154,7 @@ The Thrill of Combat
 
 The warriors of Mandalore crave the glory of battle, and this desire only grows stronger when they take to space. Fortunately, their signature starfighter, the Concord Dawn Protectorate Fang Fighter, helps them maintain their confrontational style in the high-stakes dogfights of _X-Wing Second Ediition_.
 
-![](swz17_a1_ship-art.png)
+![](03ad7d6e289cba6f1f0e1c387d2e97e0.png)
 
 The _Fang Fighter Expansion Pack_ contains a beautifully painted Fang Fighter miniature, featuring posable wings, alongside everything you need to add one of these nimble fighters to your Scum squadron.
 
@@ -167,7 +167,7 @@ Bold Maneuvers
 
 Plotting your maneuvers is a central part of your strategy in _X-Wing Second Edition_, and every type of ship features its own unique maneuver dial. With three distinct factions and ships from across the _Star Wars_ saga to choose from, you can make your squadron even more distinct with the _Maneuver Dial Upgrade Kit_s for each faction.
 
-![](swz01_a8_dials.png)
+![](fde17f007736f3ec51979abf3aee21b0.png)
 
 These upgraded plastic maneuver dials proudly declare your allegiance to the faction of your choice while enhancing the aesthetic look of your squadron. As you secretly plot your maneuvers each round, these kits house a ship’s dial within a secure plastic housing. Additionally, the kits include a space on the back to insert a dial ID token, making it easy to differentiate between your ships in the middle of a game.
 

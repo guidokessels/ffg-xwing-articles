@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz72-78_preview1.jpg)
+![](ddf68b30f757e4274dcca219105075c7.jpg)
 
 3 September 2019
 
@@ -17,7 +17,7 @@ Beautiful Destruction
 
 Announcing Seven Damage Decks for Star Wars: X-Wing
 
-![](swz_logo_bk-tm.png)
+![](4ba8f451891499cc03314150d79fa71b.png)
 
 _“R2, that stabilizer’s broken loose again! See if you can’t lock it down.”_  
    —Luke Skywalker, _Star Wars: A New Hope_
@@ -43,31 +43,31 @@ Each deck contains a complete set of thirty-three illustrated damage cards that 
 
 Those flying as part of the Rebel Alliance, for example, will see their damage on a readout of a BTL-A4 Y-wing starfighter.
 
-![](swz72_cardfan.png)
+![](6a920cdab549faea9e49c53b9a523d6d.png)
 
 The damage cards in the _Galactic Empire Damage Deck_, meanwhile, feature a TIE/in Interceptor.
 
-![](swz73_cardfan.png)
+![](7ceb763c34a04925be073345fc2b67e2.png)
 
 The galaxy’s most notorious Scum and Villainy have their damage highlighted on a Fang Fighter.
 
-![](swz74_cardfan.png)
+![](42b5ce595efc74bccb9253601a5b9571.png)
 
 While an image of a T-70 X-wing helps Resistance pilots know exactly where their ships have been hit.
 
-![](swz75_cardfan.png)
+![](66d7f42be850efa101b82f434fae2ea3.png)
 
 Heading into battle with the next generation of Imperial designs, damage to First Order ships is displayed on a TIE/sf Fighter.
 
-![](swz76_cardfan.png)
+![](4dedb53656c28da797e83b9f63d41fe6.png)
 
 Those loyal to the Galactic Republic can assess their damage with an image of a Delta-7 _Aethersprite_.
 
-![](swz77_cardfan.png)
+![](6bc261f7659e12b1c425b2dc4e191e75.png)
 
 Finally, squadrons committed to the Separatist Alliance see their damage displayed on the faction’s most iconic starfighter: the _Vulture-_class Droid Fighter.
 
-![](swz78_cardfan.png)
+![](dd82295c6718146080f870e30e978003.png)
 
 In addition to graphic design unique to each damage deck, the cards have been expanded to a larger size. Rather than using the Mini American Board Game card size, as in the _X-Wing Core Set_, these damage decks feature LCG® size cards, making them even easier to read and use in battle.
 

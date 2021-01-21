@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz71_available-now.jpg)
+![](6cda3ea6ebc33ddad9b08816b562e761.jpg)
 
 25 September 2020
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-_[Xi-class Light Shuttle Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/xi-class-light-shuttle-expansion-pack/)_ _![](swz69_box_right.png)_ 
+_[Xi-class Light Shuttle Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/xi-class-light-shuttle-expansion-pack/)_ _![](d5440343c757603f1c98fbfbb4bb77c9.png)_ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The First Order's agents are scattered across the galaxy, from enclaves in the Unknown Regions to pockets of sympathizers within the New Republic. The _Xi_\-class light shuttle is swift and lightly armed, suited to conveying First Order VIPs quickly but surreptitiously from base to base. It can also serve as a command craft, directing forces in raids before the attackers slip away into the depths of space once again. 
@@ -30,7 +30,7 @@ Within this expansion, you’ll find a beautifully detailed _Xi_\-class Light S
 
 * * *
 
-_[LAAT/i Gunship Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/laati-gunship-expansion-pack/)_ _![](swz70_box_right.png)_ 
+_[LAAT/i Gunship Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/laati-gunship-expansion-pack/)_ _![](5e7f0c06c6359c796603eacba1622684.png)_ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A durable, reliable workhorse capable of serving in a wide array of environments, the LAAT/i gunship is renowned for getting the job done. Whether making precision drops of clone troopers on contested worlds, supporting Republic formations with interlaced fire in atmospheric battles, or engaging starfighters in the depths of space, the LAAT/i can be outfitted for nearly any role or battlefield the Galactic Republic needs it to take on.
@@ -41,7 +41,7 @@ _Pick up your own copy of the_ LAAT/i Gunship Expansion Pack _(SWZ70) at your lo
 
 * * *
 
-_[HMP Droid Gunship Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/hmp-droid-gunship-expansion-pack/)_ _![](swz70_box_right.png)_ 
+_[HMP Droid Gunship Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/hmp-droid-gunship-expansion-pack/)_ _![](fd0d0785038c881706a3f8280e7e8fbd.png)_ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A menacing silhouette slides overhead, repulsorlifts humming ominously and eyes glowing with malevolence. The HMP gunship's presence invokes fear thanks to predatory droid intelligence and an unpredictable capacity to strafe targets with devastating missile pods, bombs, and a wide-sweeping array of laser cannons.

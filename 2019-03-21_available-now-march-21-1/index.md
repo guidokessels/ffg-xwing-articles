@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](available-now_prev.jpg)
+![](f1a6ee9fc0efd8429be32b73dacfe41e.jpg)
 
 21 March 2019
 
@@ -21,7 +21,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 
 * * *
 
-[Servants of Strife Squadron Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/servants-strife-squadron-pack/) ![](swz29_box_right.png)
+[Servants of Strife Squadron Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/servants-strife-squadron-pack/) ![](01633a54743be826dd205094b52a3c61.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 War! The Separatist Alliance has driven a spike into the heart of the galaxy, splintering the once-unified worlds with choas, tyranny, and fear. At the heart of this offensive is the dastardly General Grievous, commanding endless legions of droid fighters. 
@@ -32,7 +32,7 @@ This _Squadron Pack_ contains everything you need to add one Belbullab-22 star
 
 * * *
 
-[Sith Infiltrator Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/sith-infiltrator-expansion-pack/) ![](swz30_box_right.png)
+[Sith Infiltrator Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/sith-infiltrator-expansion-pack/) ![](d9dfcc108802a0bbdcade6982522fc70.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Sith operate in the shadows. As they unfold their dark machinations across the galaxy, they need a ship that matches their nefarious purposes. Casting a menacing shadow as it cuts across the skies, the Sith Infiltrator is the perfect choice to carry the agents of Darth Sidious on their dark missions and into the battles of _X-Wing_.
@@ -43,7 +43,7 @@ _Pick up your own copy of the_ Sith Infiltrator Expansion Pack _(SWZ30) at your
 
 * * *
 
-[_Vulture_\-class Droid Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/vulture-class-droid-fighter-expansion/) ![](swz31_box_right.png)
+[_Vulture_\-class Droid Fighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/vulture-class-droid-fighter-expansion/) ![](c279e0cc1abba6d2412bb85bd110fbd8.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The _Vulture_\-class droid fighter is the backbone of the Separatist Navy and emblematic of its strategy: weak in isolation, but overwhelming in numbers. A sufficiently vast swarm of networked attackers form a cunning, sinister intelligence that can defeat even wise and powerful Jedi pilots.
@@ -54,7 +54,7 @@ _Pick up your own copy of the Vulture_\-class Droid Fighter Expansion Pack _(SW
 
 * * *
 
-[Guardians of the Republic Squadron Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/guardians-republic-squadron-pack/) _![](swz32_box_right.png)_ 
+[Guardians of the Republic Squadron Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/guardians-republic-squadron-pack/) _![](79dac6d1774caa18767291ec36c7b0df.png)_ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Galactic Republic is crumbling, reeling from the blow dealt by the fledgling Separatist Alliance. But even in this age of uncertainty and disunion, heroes arise. Legendary Jedi Knight Obi-Wan Kenobi valiantly leads dedicated clone pilots into battle against the forces of tyranny and chaos in the _Guardians of the Republic Squadron Pack_ for _X-Wing_!
@@ -65,7 +65,7 @@ _Pick up your own copy of the_ Guardians of the Republic Squadron Pack _(SWZ32)
 
 * * *
 
-[ARC-170 Starfighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/arc-170-starfighter-expansion-pack/) _![](swz33_box_right.png)_ 
+[ARC-170 Starfighter Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/arc-170-starfighter-expansion-pack/) _![](a8e2722da8e2b56ad43457510b853bd1.png)_ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The ARC-170 is the Galactic Republic's mainstay heavy starfighter. Equipped torpedoes allow this intimidating craft to smash through foes that might repel the Republic's more lightly armed ships, while its rear gunner makes it difficult to approach from most angles. Whether defending the flanks of a formation or giving support to a Jedi General, the ARC-170 has an imposing presence on the battlefield.
@@ -76,7 +76,7 @@ _Pick up your own copy of the_ ARC-170 Starfighter Expansion Pack _(SWZ33) at yo
 
 * * *
 
-[Delta-7 _Aethersprite_ Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/delta-7-aethersprite-expansion/) ![](swz34_box_right.png)
+[Delta-7 _Aethersprite_ Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/delta-7-aethersprite-expansion/) ![](a96eaaaa55f8e6b0c389ad87954eaadb.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Delta-7 _Aethersprite_ is an elegant craft designed to help Jedi Knights cross the gulfs between the stars in their quest to uphold justice. Equipped with an astromech for navigation, it is lightly armed but highly maneuverable, its fine-tuned controls allowing a Force-sensitive pilot to fly it with unmatched precision. 
@@ -87,7 +87,7 @@ _Pick up your own copy of the_ Delta-7 _Aethersprite_ Expansion Pack _(SWZ34) 
 
 * * *
 
-[Separatist Alliance Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/separatist-alliance-maneuver-dial-upgrade-kit/) ![](swz35_box_left.png)
+[Separatist Alliance Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/separatist-alliance-maneuver-dial-upgrade-kit/) ![](0f1759c5dead3e18e68b4503c5ecf6e9.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Proudly declare your independence from the Republic with the _Separatist Alliance Maneuver Dial Upgrade Kit_!
@@ -98,7 +98,7 @@ _Pick up your own copy of the_ Separatist Alliance Maneuver Dial Upgrade Kit _(S
 
 * * *
 
-[Galactic Republic Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/galactic-republic-maneuver-dial-upgrade-kit/) _![](swz36_box_right.png)_ 
+[Galactic Republic Maneuver Dial Upgrade Kit](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/galactic-republic-maneuver-dial-upgrade-kit/) _![](13edc0489ea8f3a617bf7ee90955cb54.png)_ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Announce your alliegance to the Galactic Republic with the _Galactic Republic Maneuver Dial Upgrade Kit_!
@@ -109,7 +109,7 @@ _Pick up your own copy of the_ Galactic Republic Maneuver Dial Upgrade Kit _(SW
 
 * * *
 
-[Z-95-AF4 Headhunter Expansion Pack ](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/z-95-af4-headhunter-expansion-pack/) _![](swz37_box_right.png)_ 
+[Z-95-AF4 Headhunter Expansion Pack ](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/z-95-af4-headhunter-expansion-pack/) _![](e169790f5a4db4634e5cbd2b7a67fd6a.png)_ 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Z-95 Headhunter's wide production saw it scattered to the far corners of the galaxy. Now, this reliable, easy-to-acquire starfighter is integral to numerous criminal cartel fleets—from large operations like Black Sun to small-time raiders like the Binayre Pirates. Armed with missiles and illicit technologies, a single Z-95-AF4 can be a danger, but a swarm can be devastating. 
@@ -120,7 +120,7 @@ _Pick up your own copy of the_ Z-95-AF4 Headhunter Expansion Pack _(SWZ37) at y
 
 * * *
 
-[TIE/sk Striker Expansion Pack ](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tiesk-striker-expansion-pack/) ![](swz38_box_right.png)
+[TIE/sk Striker Expansion Pack ](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tiesk-striker-expansion-pack/) ![](27aeb9f4816f2fc16a4b4a3f3cce6603.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Screaming through the atmosphere on nimble ailerons, the TIE/sk striker is a unique starfighter designed to excel at both air and space assaults. Its atmospheric capabilities give it unique and flexible movement patterns that can surprise even veteran opponents, as its heavy firepower lets it wear down nearly any foe.
@@ -134,7 +134,7 @@ _Pick up your own copy of the_ TIE/sk Striker Expansion Pack _(SWZ38) at your l
 [Shadowlands](https://www.fantasyflightgames.com/en/legend-of-the-five-rings-roleplaying-game/products/shadowlands/)
 --------------------------------------------------------------------------------------------------------------------
 
-_![](l5r06_book_right.png)_
+_![](42cd532e7aaec83e13579d188f59ab77.png)_
 
 Explore Fu Leng’s festering domain with the _Shadowlands_ sourcebook for the _[Legend of the Five Rings Roleplaying Game](https://www.fantasyflightgames.com/en/legend-of-the-five-rings-roleplaying-game/)_! Discover the vile locations and denizens of this ancient realm, as well as the brave samurai who stand against them, including the mighty Falcon Clan. Finally, advice for Game Masters running campaigns in this dark domain ensures your games are dripping with theme. Can your samurai survive the perils of the Shadowlands?
 
@@ -144,7 +144,7 @@ _Pick up your own copy of_ Shadowlands _(L5R06) at your local retailer today!_
 
 * * *
 
-[Mask of the Oni](https://www.fantasyflightgames.com/en/legend-of-the-five-rings-roleplaying-game/products/mask-oni/) ![](l5r07_box_right.png)
+[Mask of the Oni](https://www.fantasyflightgames.com/en/legend-of-the-five-rings-roleplaying-game/products/mask-oni/) ![](355a05405b9697414c25c113bc3496b8.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Take your players into the foreboding Shadowlands with _Mask of the Oni_. This adventure for the _Legend of the Five Rings Roleplaying Game_ pits heroes against the dangers of the Shadowlands and the horrors found within the crumbling walls of the Hiruma family’s fallen castle. Tokens, maps, and an adventure booklet will guide players on their journey, but will they survive with their soul intact?

@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz08_preview2.jpg)
+![](b4f4b936cabb29416dadad29f8fd6864.jpg)
 
 10 September 2018
 
@@ -17,7 +17,7 @@ Deadly Calculations
 
 Preview a Scum and Villainy List for X-Wing Second Edition
 
-![](swz01_box_left.png)
+![](21ba422c6bac634bea4a0093e307131b.png)
 
 _"You are free to use any methods necessary."_  
    –Darth Vader, _Star Wars: The Empire Strikes Back_
@@ -28,7 +28,7 @@ With the _Lando’s_ Millennium Falcon _Expansion Pack_, the _Slave I_ Expansion
 
 We’ve already taken a look at a squad highlighting the _Ghost_ and her crew of fledgling Rebels, as well as a squadron making use of some advanced Imperial technology. Today, our focus turns away from the central conflict of the Galactic Civil War and look to see what’s happening on the fringes. Join us as we examine at a 200-point list featuring some of the Scum and Villainy’s robotic pilots.
 
-![](swz08_a1_ships.png)
+![](9ce861cc711f1d85076a363c672b7166.png)
 
 A Mind of Their Own    
 -----------------------
@@ -62,23 +62,23 @@ _Mist Hunter_ (2 points)
 
 Capable of processing mountains of complex information in millionths of a second, droid brains are very different from those of other beings. Droids constantly use the information they obtain to predict their opponents’ next move and adjust their strategy accordingly. Even among droids, no other is as ruthlessly efficient as IG-88. Thanks to his Advanced Droid Brain, he gains an additional calculate token after performing a calculate action.
 
-These tokens could be split between separate engagements, but there is another option. This list specifically includes [IG-88A](swz08_a1_ig88a.png) , who has the ability to transfer one of his calculate tokens to a friendly ship at Range 1–3 that also has the calculate action on its action bar at the start of the Engagement Phase. If he’s close enough, then, IG-88A can fuel his fellow droids with additional calculate tokens, giving them the chance to perform other actions.
+These tokens could be split between separate engagements, but there is another option. This list specifically includes [IG-88A](2e0f3aba509c30742aaf01a50c02df14.png) , who has the ability to transfer one of his calculate tokens to a friendly ship at Range 1–3 that also has the calculate action on its action bar at the start of the Engagement Phase. If he’s close enough, then, IG-88A can fuel his fellow droids with additional calculate tokens, giving them the chance to perform other actions.
 
-![](swz08_a1_ig88-upgrades.png)
+![](26c3c40fcb5476ef0aeaecd1cf400b16.png)
 
-You can ensure that he’ll be close enough to pass off his spare calculate token by using his [Advanced Sensors](swz08_a1_sensors.png) . This upgrade allows you to perform an action after revealing your dial but before executing the maneuver. This means IG-88A can perform his calculate action and gain an extra token, even while preparing to pull off a difficult red maneuver that could put him in perfect position to pass off that token.  
+You can ensure that he’ll be close enough to pass off his spare calculate token by using his [Advanced Sensors](8ff92364fb6c675922bbd357ee243294.png) . This upgrade allows you to perform an action after revealing your dial but before executing the maneuver. This means IG-88A can perform his calculate action and gain an extra token, even while preparing to pull off a difficult red maneuver that could put him in perfect position to pass off that token.  
 
-These extra calculate tokens are certain to come in handy for [Guri](swz08_a1_guri.png) , who likes to engage enemies at close range with her _StarViper_\-class Attack Platform. She gains a focus token when she's close to an enemy ship at the start of the Engagement Phase. Combine that with a calculate token and Guri has great power to modify her dice results. Gaining this token while staying out of harm’s way should be a little easier thanks to the _StarViper_’s built-in Microthrusters. Rather than perform a barrel roll using the standard, straight maneuver template, the Microthrusters force the ship to use the bank maneuver instead, making it capable of sliding into tight spaces inaccessible to other ships.
+These extra calculate tokens are certain to come in handy for [Guri](e8d1943f416655edea62fc8e5834f067.png) , who likes to engage enemies at close range with her _StarViper_\-class Attack Platform. She gains a focus token when she's close to an enemy ship at the start of the Engagement Phase. Combine that with a calculate token and Guri has great power to modify her dice results. Gaining this token while staying out of harm’s way should be a little easier thanks to the _StarViper_’s built-in Microthrusters. Rather than perform a barrel roll using the standard, straight maneuver template, the Microthrusters force the ship to use the bank maneuver instead, making it capable of sliding into tight spaces inaccessible to other ships.
 
-![](swz08_a1_guri-upgrades.png)
+![](35255eebf2516254418d024cee503c58.png)
 
-This extra bit of maneuverability can also help Guri in other ways. For example, it syncs nicely with her talents as a [Predator](swz08_a1_predator.png) to get the perfect angle on an opponent. Furthermore, seeing as she can gain focus and calculate tokens without taking actions, Guri remains free to acquire locks on enemy ships, granting her another opportunity to reroll her attack dice with the hope of getting the hit or focus results she needs.    
+This extra bit of maneuverability can also help Guri in other ways. For example, it syncs nicely with her talents as a [Predator](c71cb4836b49eb3e45c157976f47b3ff.png) to get the perfect angle on an opponent. Furthermore, seeing as she can gain focus and calculate tokens without taking actions, Guri remains free to acquire locks on enemy ships, granting her another opportunity to reroll her attack dice with the hope of getting the hit or focus results she needs.    
 
-While Guri and IG-88A are working closely together, the final member of the squadron is free to operate independently. The rogue protocol droid [4-LOM](swz08_a1_4lom.png) is carrying IG-88D on his G-1A Starfighter, the _Mist Hunter_, giving him the same bonus calculate token after performing a calculate action enjoyed by IG-88A, as well as the ability to pass off one of his Calculate tokens to any other ship on the list. And, just like IG-88A, 4-LOM is still free to fly a bit more aggressively. He gains a calculate token every time he fully executes a red maneuver, which means he will rarely go without the opportunity to gain a calculate token.
+While Guri and IG-88A are working closely together, the final member of the squadron is free to operate independently. The rogue protocol droid [4-LOM](36273a507091e61e957ec6fe3f69ef39.png) is carrying IG-88D on his G-1A Starfighter, the _Mist Hunter_, giving him the same bonus calculate token after performing a calculate action enjoyed by IG-88A, as well as the ability to pass off one of his Calculate tokens to any other ship on the list. And, just like IG-88A, 4-LOM is still free to fly a bit more aggressively. He gains a calculate token every time he fully executes a red maneuver, which means he will rarely go without the opportunity to gain a calculate token.
 
-![](swz08_a1_4lom-upgrades.png)
+![](d76440674d64f4e9e38f3c767e890d02.png)
 
-In addition to the calculate token, 4-LOM has plenty of other reasons to use some fancy flying. The _Mist Hunter_ is the least maneuverable of the three ships in this squadron, but that doesn’t mean it still can’t pull off some clever repositioning. The  _[Mist Hunter](swz08_a1_mist-hunter.png)_  title gives the ship abilities beyond a normal G-1A Starfighter. Chiefly, it adds the barrel roll action to the ship’s action bar, giving you another method for quickly ducking out of the line of fire.
+In addition to the calculate token, 4-LOM has plenty of other reasons to use some fancy flying. The _Mist Hunter_ is the least maneuverable of the three ships in this squadron, but that doesn’t mean it still can’t pull off some clever repositioning. The  _[Mist Hunter](45da949351d186878edfe81e3f0827c0.png)_  title gives the ship abilities beyond a normal G-1A Starfighter. Chiefly, it adds the barrel roll action to the ship’s action bar, giving you another method for quickly ducking out of the line of fire.
 
 Normally, the bold flying and red maneuvers that 4-LOM favors would incur stress that would severely limit him in future rounds, but he refuses to suffer these consequences. If he can get within Range 0–1 of a ship—enemy or friendly—he can transfer a stress token to it at the start of the End Phase. Ultimately, 4-LOM has the amazing ability to execute a red maneuver, gain a calculate token, pass that calculate token, and remove the stress from that red maneuver in the course of a single round.
 

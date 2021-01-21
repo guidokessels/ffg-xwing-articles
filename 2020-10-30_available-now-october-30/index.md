@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz68_preview_osn.jpg)
+![](4428a4dfc241685a72349b42c2829622.jpg)
 
 30 October 2020
 
@@ -24,7 +24,7 @@ _Take a look at the latest products from Fantasy Flight Games, now available at 
 _[Heralds of Hope Squadron Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/heralds-hope-squadron-pack/)_
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-_![](swz68_box_right.png)_
+_![](44bd52203c6f5ab155bfaf65dda2ceee.png)_
 
 The spark of hope has ignited! Now, the Resistance rises to meet the First Order, seeking to break its tyrannical hold over the galaxy!
 
@@ -34,7 +34,7 @@ All told, you'll find 10 T-70 X-wing ship cards and 6 RZ-2 A-wing ship cards in 
 
 * * *
 
-_![](swz67_box_right.png)_
+_![](e632824de375a33d451153b9f2525e54.png)_
 
 _[TIE/rb Heavy Expansion Pack](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tierb-heavy-expansion-pack/)_
 ------------------------------------------------------------------------------------------------------------------------------------------

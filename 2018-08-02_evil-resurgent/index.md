@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz18_preview1.jpg)
+![](2b81b4fe68d75d446a3df51e3876ab3c.jpg)
 
 3 August 2018
 
@@ -17,7 +17,7 @@ Evil Resurgent
 
 Announcing the Three First Order Expansions of Wave II for X-Wing Second Edition
 
-![](swz18_faction_spread.png)
+![](1f9da6f3730b00f2a65a33f112c1b097.png)
 
 _“All remaining systems will bow to the First Order and remember this as the last day of the Republic!”_  
    –General Hux, _Star Wars: The Force Awakens_
@@ -34,7 +34,7 @@ In _X-Wing Second Edition_, the First Order is being introduced as its own uniqu
 
 Read on for more information about each of these expansions and what they bring to your games of _X-Wing Second Edition_! For more information about the Resistance or Scum and Villainy ships in Wave II, follow those links.
 
-![](swz18_box_left.png)
+![](e38350a5c9b97d962deb4a9c5dfb3549.png)
 
 Crush the Resistance
 --------------------
@@ -43,28 +43,28 @@ As you might expect from the successor to the Galactic Empire, the First Order f
 
 Within the _First Order Conversion Kit_, you’ll find everything you need to strike fear into the heart of the Resistance and take your squad into the future of _X-Wing_, including a wide variety of new ship cards and tokens, more than one-hundred upgrade cards, and new maneuver dials for all of your First Order ships. The ship cards contained in this kit include some of the most celebrated pilots in the First Order, such as Major Stridan, “Backdraft,” and Kylo Ren himself.
 
-![](swz18_a1_first-order_spread.png)
+![](7ddd251ac8bd06a2f6fb82edcbbf3441.png)
 
 Skilled as they may be, these vaunted pilots and their ships can always benefit from upgrades. Alongside the other upgrades included in the _First Order Conversion Kit_, you’ll also find ten Tech upgrade cards that can only be used on starfighters from this era. Finally, the conversion kit provides plenty of options for completing your squadrons, containing enough maneuver dials to convert seven TIE/fo fighters, five TIE/so fighters, three TIE/vn silencers, and three _Upsilon_\-class shuttles to _X-Wing Second Edition_.
 
 In addition to the being present in the _First Order Conversion Kit_, all of the First Order pilots, ships, and upgrades will be fully implemented in the _X-Wing Second Edition_ squad-builder app when they are released. A pdf with the point values of all First Order pilots and upgrades will also be available for reference on our website. New players can also use the conversion kit and first edition versions of First Order ships for even more options when building their squads!
 
-![](swz26_box_left.png)
+![](43fe7d9b723ef12b3044e0c61f80f2c0.png)
 
 Terror Evolved
 --------------
 
 Although it may be a separate entity, the First Order has taken several cues directly from the former Empire. One of the most evident is the use of a new generation of the iconic TIE fighter. Developed using technologies pioneered for the Empire’s TIE Advanced program, the TIE/fo fighter is a shielded, mass-produced TIE fighter that the First Order can use to spread terror across the galaxy.
 
-The addition of shields isn’t the only improvement made to the TIE design. TIE/fo fighters also boast the ability to acquire locks, giving their pilots the opportunity to reroll their attack dice for even more potent attacks. Some TIE/fo pilots go beyond this, using their target locks in new and creative ways. An ace like ["Midnight,"](swz18_a1_midnight.png)  for example, prevents enemy ships that he has locked from modifying their dice while he defends or performs a primary attack against them.
+The addition of shields isn’t the only improvement made to the TIE design. TIE/fo fighters also boast the ability to acquire locks, giving their pilots the opportunity to reroll their attack dice for even more potent attacks. Some TIE/fo pilots go beyond this, using their target locks in new and creative ways. An ace like ["Midnight,"](b8c39c354ef75b04a2b01416009a38d3.png)  for example, prevents enemy ships that he has locked from modifying their dice while he defends or performs a primary attack against them.
 
-![](swz18_a1_fo-tie_spread.png)
+![](29481e75b0e4bba4281f8ef34a333ac3.png)
 
-Even with these refinements, TIE/fo fighters remain similar to their predecessors in that they are ideally suited for flying in large groups. A TIE/fo pilot such as ["Muse"](swz18_a1_muse.png) devotion to the cause, pressing the attack even when they are at their most vulnerable.     
+Even with these refinements, TIE/fo fighters remain similar to their predecessors in that they are ideally suited for flying in large groups. A TIE/fo pilot such as ["Muse"](35e27cfdb37e8d4a7f2e3f4d7cd4052b.png) devotion to the cause, pressing the attack even when they are at their most vulnerable.     
 
 The _TIE/fo Fighter Expansion Pack_ includes one fully assembled and beautifully painted miniature and all the ship cards, upgrade cards, and tokens you need to add one of these frightening fighters to your First Order squadrons. All the cards and punchboard included in the _TIE/fo Fighter Expasion Pack_ will also be present in the _First Order Conversion Kit_ for the benefit of veteran players. We’ll take a closer look at the contents of this expansion pack in a future preview! 
 
-![](swz20_box_left.png)
+![](c1efedb696f39a3dff9614da4d207bd1.png)
 
 Display Your Dominance
 ----------------------

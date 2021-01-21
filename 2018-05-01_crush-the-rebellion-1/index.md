@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz07_preview1.jpg)
+![](e9185fbfce83d01efd3ae8683f4ed0e8.jpg)
 
 1 May 2018
 
@@ -17,13 +17,13 @@ Crush the Rebellion
 
 Announcing Four Galactic Empire Expansions for X-Wing Second Edition
 
-![](swz_empire_spread.png)
+![](61fac9667d4fde07555543dc87a8d47e.png)
 
 _“We will deal with your Rebel friends soon enough.”_   
    –Grand Moff Tarkin, _Star Wars: A New Hope_
 
 _Order your own copies of the Galactic Empire expansions for_ X-Wing Second Edition _at your local retailer or online through our website today!  
- [![](ffg_ordernow_v2.png)](https://shop.fantasyflightgames.com/preorders/create/SWZ07/)_ 
+ [![](055533dfd572b1f1129854d32db08d58.png)](https://shop.fantasyflightgames.com/preorders/create/SWZ07/)_ 
 
 _[X-Wing™ Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)_ promises to usher in a new era of interstellar combat in the _Star Wars_ galaxy. When it does, the Galactic Empire will be ready to extend its dominance with squadrons of advanced starfighters. Fantasy Flight Games is proud to announce four new Galactic Empire expansion packs for _X-Wing Second Edition_:
 
@@ -36,14 +36,14 @@ With these expansion packs, you can bring your entire collection of first editio
 
 For more information about _X-Wing Second Edition_, click [here](https://www.fantasyflightgames.com/en/news/3000/1/1/x-wing-second-edition/) to read our announcement! Then, read on for more information about what you can expect from these Galactic Empire expansions.
 
-![](swz07_box_left.png)
+![](bdaa1751eefe244a195b207a34eacc7f.png)
 
 The Empire’s Finest
 -------------------
 
 At the height of its power, the Imperial Navy deployed a wide range of ships and exceptional pilots in its effort to bring order to the galaxy and crush the Rebellion. From the legendary Soontir Fel in his TIE interceptor to the feared TIE defender pilots of Onyx Squadron, each pilot and ship had unique skills and capabilities to offer in service of the Emperor. The _Galactic Empire Conversion Kit_ allows you to tap into the vast reserves of the Empire at the very beginning of _X-Wing Second Edition_.
 
-![](swz07_a1_empire_spread.png)
+![](904871a585f38aac3a0290bf7d6df1bc.png)
 
 This kit contains all the components you need to upgrade your Imperial ship collection from the first edition to the second edition, including ship cards, upgrade cards, ship tokens, and maneuver dials. With the conversion kit, veteran and new players alike will be able to choose from a variety of Imperial pilots for each ship, then outfit those ships by selecting from more than one-hundred upgrade cards. All ships and upgrade cards contained in the _Galactic Empire Conversion Kit_ will be supported by the _X-Wing Second Edition_ squad-builder app at launch, giving you a deep pool of options for customizing each ship and squadron. 
 
@@ -51,37 +51,37 @@ Although most of the Galactic Empire's ships from the first edition are represen
 
 _**For a full list of the ships converted by the**_ **Galactic Empire Conversion Kit**_**, visit our**_ **X-Wing Second Edition** _**FAQ section [on this page](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)!**_
 
-![](swz07_a1_cardfan.png)
+![](5162744afa295a830935b5d92e36e694.png)
 
 As you can read in [our announcement](https://www.fantasyflightgames.com/en/news/3000/1/1/x-wing-second-edition/) of _X-Wing Second Edition_, the _Galactic Empire Conversion Kit_ adapts your first edition ships and pilots to the changes introduced in _X-Wing Second Edition_, including Force powers, multiple-use ordnance, changes to turrets, and other “quality of life” improvements. Additionally, in the game's second edition, the Empire’s TIE/ca Punisher has been reclassified as a medium-base ship—a new size of ship base filling the space between small-base and large-base ships. In addition to a wealth of punchboard and cards, the _Galactic Empire_ _Conversion Kit_ provides all the bases, pegs, and tokens you need to add this ship to your squadron.
 
 Launch your fighters into the future of _X-Wing_ with the _Galactic Empire Conversion Kit_! We'll take a much closer look at the contents of this conversion kit in a future preview.
 
-![](swz14_box_left.png)
+![](32805500e28d35ae111a07e8c23a9f22.png)
 
 Strength in Numbers
 -------------------
 
 Few sounds can strike fear into the heart of a starfighter pilot like the howl of an incoming group of Imperial TIE/ln fighters. The iconic fighter of the Galactic Empire, the TIE’s namesake twin ion engines deliver impressive speed and pinpoint maneuverability. Although its lightweight frame lacks deflector shields or a hyperdrive, its affordability allows the Empire to deploy TIE fighters in great numbers to crush any Rebel resistance.
 
-As a unit ideally suited for flying in large groups and raining fire down upon enemy ships, the TIE fighter forms the backbone of many Imperial squadrons. Flying in a tight formation can help you quickly pile damage on a target, and many TIE pilots included in this expansion help enhance this strategy. Adding ["Howlrunner"](swz07_howlrunner.png) to your squadron, for example, enables squadmates at close range to reroll an attack die, giving them a chance to deal even more damage. 
+As a unit ideally suited for flying in large groups and raining fire down upon enemy ships, the TIE fighter forms the backbone of many Imperial squadrons. Flying in a tight formation can help you quickly pile damage on a target, and many TIE pilots included in this expansion help enhance this strategy. Adding ["Howlrunner"](b13105a8416a39974eef749a77079939.png) to your squadron, for example, enables squadmates at close range to reroll an attack die, giving them a chance to deal even more damage. 
 
-![](swz07_a1_tie_spread2.png)
+![](31ac7550ccb8e3831f96d8067ccdfce5.png)
 
-These swarm tactics are enhanced by taking precise shots. For example, a TIE pilot who can get an enemy ship in the new bullseye firing arc printed on every ship token can take a [Crack Shot](swz07_crackshot.png) to deal more damage than usual.
+These swarm tactics are enhanced by taking precise shots. For example, a TIE pilot who can get an enemy ship in the new bullseye firing arc printed on every ship token can take a [Crack Shot](b4410a24783fa7a0fbbde7010d246684.png) to deal more damage than usual.
 
 The _TIE/ln Fighter Expansion Pack_ includes one beautifully pre-painted miniature and all the ship and upgrade cards you need to incorporate this flying terror into your Imperial squadron. We'll look at the contents of this expansion pack in much more detail in a future preview!
 
 In addition, the _TIE/ln Fighter Expansion Pack_ contains a few entirely new cards that have never before appeared in the game's first edition. These new cards and associated punchboard are also included in the _Galactic Empire Conversion Kit_ for the benefit of veteran players!
 
-![](swz15_box_left.png)
+![](076f4d4694ad56a6c90fc672f249292b.png)
 
 A Technological Terror
 ----------------------
 
 While the TIE fighter is a common sight in Imperial squadrons, picking up a TIE Advanced x1 on your scopes is all the proof you need that a sector has drawn the Empire’s attention. This prototype design is flown only by high-ranking Imperial agents, including the dreaded Darth Vader himself, making it a deadly addition to your squadron.
 
-![](swz07_a1_tie-advance_spread2.png)
+![](76cca02fb4d2b3d194d51776f1c3a692.png)
 
 As a technologically superior version of the TIE fighter, the TIE Advanced x1 has plenty to offer compared to its counterparts. The most noticeable difference may be the fact that the TIE Advanced x1 comes equipped with its own set of deflector shields, without sacrificing any of the ship’s evasiveness. This added durability helps it operate on its own much more effectively than a standard TIE fighter, and it allows you hunt down your enemies with deadly precision.
 
@@ -89,18 +89,18 @@ The _TIE Advanced x1 Expansion Pack_ includes a single new TIE Advanced x1 minia
 
 The _TIE Advanced x1 Expansion Pack_ also contains a few entirely new cards that have never before appeared in the game's first edition. These new cards and associated punchboard are included in the _Galactic Empire Conversion Kit_ for the benefit of veteran players!
 
-![](swz03_box_left.png)
+![](622ea759dc959374ee183a01dfa290ca.png)
 
 Fear the Reaper
 ---------------
 
 As evidenced by the ubiquitous TIE fighter, the Empire’s strategy for starfighters is based on speed, maneuverability, and crushing their enemies with superior numbers. When catching sight of a TIE reaper, however, all who oppose the Empire have a new reason to fear. Designed to deliver specialized soldiers into the heart of battle, this menacing vessel is an imposing presence to any Rebel forces. We've previously revealed many of the first edition cards and components in this expansion, and with the announcement of _X-Wing Second Edition_, we can reveal this expanion's nature as a hybrid product—spanning first and second editions with cards and components from both.
 
-The TIE reaper can quickly shuttle troops into the thick of battle and the _TIE Reaper Expansion Pack_ continues this deadly efficiency in _X-Wing Second Edition_. Largely eschewing the design philosophy of other TIE models, the TIE reaper instead relies on thick armor plating and powerful laser cannons to survive in the thick of combat. But it is this starfighter's role as a troop transport that makes it truly special. Whether carrying a [Tactical Officer](swz_tactical-officer_upgrade.png) himself, adding crew cards to the TIE reaper makes it even more unique and gives it a specialized role within your squadron.
+The TIE reaper can quickly shuttle troops into the thick of battle and the _TIE Reaper Expansion Pack_ continues this deadly efficiency in _X-Wing Second Edition_. Largely eschewing the design philosophy of other TIE models, the TIE reaper instead relies on thick armor plating and powerful laser cannons to survive in the thick of combat. But it is this starfighter's role as a troop transport that makes it truly special. Whether carrying a [Tactical Officer](90cbc3c311805c9873b396f72669099c.png) himself, adding crew cards to the TIE reaper makes it even more unique and gives it a specialized role within your squadron.
 
 This expansion contains a pre-painted TIE reaper miniature as well as all the upgrade cards, ship cards, and tokens that you need to incorporate the ship into both first and second edition squadrons. We'll take a closer look at the second edition parts of this expansion in a future preview!
 
-![](swz10_box_left.png)
+![](9ebc5103ba95341092192860404d770f.png)
 
 Fly the Imperial Flag
 ---------------------

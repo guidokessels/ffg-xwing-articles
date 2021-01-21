@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz01_preview4.jpg)
+![](4f8912f60cecade0af19acb542d4adf4.jpg)
 
 9 May 2018
 
@@ -17,7 +17,7 @@ A Few Maneuvers
 
 Preview Movement in X-Wing Second Edition
 
-![](swz01_box_left.png)
+![](53416a22759f8bca35acf680b69d2e07.png)
 
 _“I know a few maneuvers; We’ll lose ‘em!”_ –Han Solo, _Star Wars: A New Hope_
 
@@ -29,7 +29,7 @@ This all starts with precise movement. Unlike lumbering capital ships, the starf
 
 While _X-Wing Second Edition_ continues many of the traditions established by the first edition in terms of movement, a number of changes place even more emphasis on skillfully maneuvering to get enemy ships in your sights. Today, we’re pleased to offer you a closer look into movement in _X-Wing Second Edition_!
 
-![](swz01_layout-on-stars.png)
+![](2d0723308704ae158c1c1224f7664029.png)
 
 New Moves
 ---------
@@ -38,11 +38,11 @@ The _Star Wars_ galaxy is home to a diverse array of starfighters, each with its
 
 Fittingly, a number of ships releasing at the launch of _X-Wing Second Edition_ have revised maneuver dials that give them new life in _X-Wing Second Edition_, beginning with the T-65 X-wing. This iconic fighter becomes a bit more maneuverable in second edition—the speed-two bank maneuvers on the T-65’s dial are now blue, which means this maneuver can be used to remove stress from the ship. More importantly, the T-65’s dial gains speed-three Tallon Rolls and its action bar gains the barrel roll icon, giving it plenty of options for getting enemy ships into its line of fire.
 
-![](swz01_a4_t65_dials2.png)
+![](be1e526af871f571b5fe4b11651e8db9.png)
 
 On the Imperial side, the TIE Advanced x1’s maneuver dial gets a similar update. Like the T-65, the TIE Advanced x1 now sports blue speed-two banks and speed-three Tallon Rolls, but it also picks up the speed-one forward maneuver. This gives your TIE Advanced x1 the ability to slow down just a little bit and wait for enemy ships to cross its path before launching a devastating salvo of laser fire.
 
-![](swz01_a4_tiea_dials2.png)
+![](c433eed3711fe11271d874744432e005.png)
 
 We’ll take a closer look at all of the ships releasing during the launch of _X-Wing Second Edition_ and their maneuver dials in future previews!
 
@@ -55,7 +55,7 @@ As in the game's first edition, pilots with higher initiative have more informat
 
 Notably, the barrel roll has been modified for _X-Wing Second Edition_. Each ship token now features hash marks printed along the sides and, when performing a barrel roll, the short end of the movement template must be placed with the middle line of the template aligned with the hashmark on the side of the base. Then, the ship can be placed so the hashmark on the other side of the base is aligned to the front, middle, or back of the other short end of the template. This creates six possible final positions for a barrel roll, so you'll need to carefully decide where you want your ships to wind up. 
 
-![](swz01_a4_barrel-roll_diagram.jpg)  
+![](9d66e5d71fe19bb2c3ad61fa69039f90.jpg)  
 _When the Academy Pilot barrel rolls to the right, it can move slightly forward, slightly backward, or straight across._
 
 Bullseye Bravado
@@ -63,13 +63,13 @@ Bullseye Bravado
 
 The space battles of _X-Wing Second Edition_ are fast, with a single round representing mere seconds of actual combat. It’s common for enemy ships to appear in your firing arc for a brief moment, giving you a small window to squeeze off some shots before they’re gone. For expert pilots, however, it’s second nature to line up the perfect shot and launch a powerful attack. In _X-Wing Second Edition_, displaying such skill does not go unnoticed. 
 
-Every _X-Wing Second Edition_ ship token now has a bullseye arc printed inside of its forward firing arc and players are rewarded for catching enemy ships in this narrow band. Although the bullseye arc itself has no inherent effect, pilots with confidence in their abilities can equip a number of upgrades that take advantage of it. For example, you might be a deadly [Predator,](swz01_a4_predator.png) and change a hit result to a critical result.
+Every _X-Wing Second Edition_ ship token now has a bullseye arc printed inside of its forward firing arc and players are rewarded for catching enemy ships in this narrow band. Although the bullseye arc itself has no inherent effect, pilots with confidence in their abilities can equip a number of upgrades that take advantage of it. For example, you might be a deadly [Predator,](9c413e19edfb6b0e059cba70b24bf0b1.png) and change a hit result to a critical result.
 
-![](swz01_a4_bullseye_diagram.jpg)
+![](e25d247d21ee3e9f22dbb25d9399d8fe.jpg)
 
 _The T-65 X-wing has the TIE fighter in its bullseye arc, so it can use Marksmanship to turn one of its hits to a critical hit._ 
 
-Of course, the number of hits you roll doesn’t matter if they’re neutralized by evade rolls. If you’re a [Crack Shot,](swz01_a4_crackshot.png)  though, and get the enemy ship in your bullseye arc, you can spend a charge to cancel one of those evade results and ensure that some of your shots make it through. 
+Of course, the number of hits you roll doesn’t matter if they’re neutralized by evade rolls. If you’re a [Crack Shot,](0be7ab68d69bc3575d766efb7db2aa59.png)  though, and get the enemy ship in your bullseye arc, you can spend a charge to cancel one of those evade results and ensure that some of your shots make it through. 
 
 Move to Attack Position
 -----------------------

@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz23_preview2.jpg)
+![](9e0133247a6c51cccccb449e41ae8d96.jpg)
 
 27 November 2018
 
@@ -17,7 +17,7 @@ Secure Your Operations
 
 Preview the Mining Guild TIE Expansion Pack for X-Wing
 
-![](swz23_box_left.png)
+![](5fa7255a1f2ba448bba750384aa84102.png)
 
 _“TIE fighters, two of ‘em. I need a better angle.”_  
    –Kanan Jarrus, _Star Wars: Rebels_
@@ -30,7 +30,7 @@ This expansion contains everything you need to supplement your Scum and Villainy
 
 Join us today as we take a closer look at what’s included in the _Mining Guild TIE Expansion Pack_!
 
-![](swz23_a1_ship-image.png)
+![](652cefaa5f7aa57cb860ca0fb91b4426.png)
 
 Greed Is Good
 -------------
@@ -39,22 +39,22 @@ With Imperial construction projects advancing at an unprecedented rate, the dema
 
 Such valuable resources are bound to attract the interest of outside parties, of course, so it’s only natural for the Mining Guild to look for ways to protect its investment. A full complement of Mining Guild TIEs is more than enough to give any would-be thieves second thoughts before making a raid on a Mining Guild facility.
 
-![](swz23_a1_tie_spread.png)
+![](3a60446d86f29127d2fb6ec379ea7d1f.png)
 
 Retaining the characteristic speed and maneuverability of other TIE fighters, the Mining Guild variant has one important advantage over other models. Their trademark Notched Stabilizers help them weave in and out of asteroids with ease. As a result, every Mining Guild TIE ignores asteroids while moving, giving them an enormous amount of freedom to make strategic use of these obstacles.   
 
-![](swz23_foreman_proach.png) With little to fear from asteroids, Mining Guild TIE pilots take a different approach to battle than most others who fly ships with only three hull and no shields. Free from the strict uniformity of the Empire, these pilots are able to express their own personal flavor, incorporating many of the tricks that characterize the Scum faction into their flying style. [Foreman Proach,](swz23_foreman_proach.png)    for example, assigns tractor tokens to enemy ships in his bullseye arc, giving him a chance to fling them into asteroids or other obstacles.
+![](daabcd49b8f337590666f1cd52aaa69c.png) With little to fear from asteroids, Mining Guild TIE pilots take a different approach to battle than most others who fly ships with only three hull and no shields. Free from the strict uniformity of the Empire, these pilots are able to express their own personal flavor, incorporating many of the tricks that characterize the Scum faction into their flying style. [Foreman Proach,](daabcd49b8f337590666f1cd52aaa69c.png)    for example, assigns tractor tokens to enemy ships in his bullseye arc, giving him a chance to fling them into asteroids or other obstacles.
 
-[Captain Seevor](swz23_a1_captain-seevor.png) has a similar knack for disrupting enemy plans. As long as he isn’t in his target's bullseye arc, he can spend his recurring charge to give it a jam token, whether he's defending or performing an attack. This could deprive enemy ships of their green tokens or locks at the perfect moment: just before attack dice are rolled.  
+[Captain Seevor](47f076395cc282f76798c33e716a8808.png) has a similar knack for disrupting enemy plans. As long as he isn’t in his target's bullseye arc, he can spend his recurring charge to give it a jam token, whether he's defending or performing an attack. This could deprive enemy ships of their green tokens or locks at the perfect moment: just before attack dice are rolled.  
 
-Despite making use of these dirty tricks to throw their opponents off balance, Mining Guild pilots have not forgotten the central tenet of flying TIE fighters: strength comes in numbers. Like other TIE variants, Mining Guild TIEs work well in swarms, with [Overseer Yushyn](swz23_overseer-yushyn.png) highlighting this point. He works especially well with Foreman Proach, replacing Proach's disarm token with a stress token instead, ensuring he can still attack after altering an enemy ship’s course.
+Despite making use of these dirty tricks to throw their opponents off balance, Mining Guild pilots have not forgotten the central tenet of flying TIE fighters: strength comes in numbers. Like other TIE variants, Mining Guild TIEs work well in swarms, with [Overseer Yushyn](ed072934a643fac04367e1864e60b336.png) highlighting this point. He works especially well with Foreman Proach, replacing Proach's disarm token with a stress token instead, ensuring he can still attack after altering an enemy ship’s course.
 
-In addition to these named pilots, their notched stabilizers make navigating a large group of Mining Guild TIEs a little easier. The Mining Guild’s corporate pilots enjoy more extensive life support systems than Imperial pilots and a [Mining Guild Surveyor](swz23_mining-guild-surveyor.png) to help one of them engage much earlier than they otherwise would.
+In addition to these named pilots, their notched stabilizers make navigating a large group of Mining Guild TIEs a little easier. The Mining Guild’s corporate pilots enjoy more extensive life support systems than Imperial pilots and a [Mining Guild Surveyor](e5f4327d458088a7d605feb4691eb4a2.png) to help one of them engage much earlier than they otherwise would.
 
-![](swz23_a2_diagram1.jpg)  
+![](dab36006e24458d112d62bca54cf6774.jpg)  
 _With his ability and Trick Shot, Ahhav rolls four attack dice during an obstructed attack on the YT-2400!_
 
-Like all TIEs, attacking in a large group can help the Mining Guild TIE overcome the limitations of their two die primary attack. If there’s a single Mining Guild TIE pilot who can fly on their own, however, it’s [Ahhav.](swz23_ahhav.png)  rolling a total of four dice against a medium or large ship that’s obstructed by an obstacle. 
+Like all TIEs, attacking in a large group can help the Mining Guild TIE overcome the limitations of their two die primary attack. If there’s a single Mining Guild TIE pilot who can fly on their own, however, it’s [Ahhav.](445475208e5469f3ef782bb59c75af60.png)  rolling a total of four dice against a medium or large ship that’s obstructed by an obstacle. 
 
 Protect Your Profits
 --------------------

@@ -8,7 +8,7 @@ This article was originally published on [https://www.fantasyflightgames.com/en/
 
 ---
 
-![](swz08_preview1.jpg)
+![](a66e064d5bc8a1484ddb0ca0a4a3fb80.jpg)
 
 1 May 2018
 
@@ -17,13 +17,13 @@ Become Infamous
 
 Announcing Four Scum and Villainy Expansions for X-Wing Second Edition
 
-![](swz_scum_spread.png)
+![](c93c71e620ad87f9fd72714a86892fca.png)
 
 _“This bounty hunter is my kind of scum: fearless and inventive.”_  
    –Jabba the Hutt, _Star Wars: Return of the Jedi_
 
 _Order your own copies of the Scum and Villainy expansions for_ X-Wing Second Edition _at your local retailer or online through our website today!  
- [![](ffg_ordernow_v2.png)](https://shop.fantasyflightgames.com/preorders/create/SWZ08/)_ 
+ [![](055533dfd572b1f1129854d32db08d58.png)](https://shop.fantasyflightgames.com/preorders/create/SWZ08/)_ 
 
 _[X-Wing™ Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)_ gives you the opportunity to take part in a new age of tense space battles in the _Star Wars_ galaxy. Now, the galaxy’s most vile mercenaries and bounty hunters are ready to do battle for the highest bidder. Fantasy Flight Games is happy to announce four new Scum and Villainy expansions for _X-Wing Second Edition_:
 
@@ -36,26 +36,26 @@ With the _Scum and Villainy Conversion Kit_, you can bring the entirety of your
 
 For more information about _X-Wing Second Edition_, click [here](https://www.fantasyflightgames.com/en/news/3000/1/1/x-wing-second-edition/) to read our announcement. Then, read on for more information about each of these four expansions and what they bring to your games of _X-Wing Second Edition_!
 
-![](swz08_box_left.png)
+![](b5482b9dedfc5f09618213e251b67185.png)
 
 A Wretched Hive
 ---------------
 
 Driven by their desire for profit, bounty hunters will relentlessly pursue their quarry to the farthest reaches of the galaxy. Far from the uniform ranks of the Rebellion or the Empire, these mercenaries often inject their own style and flair into their work. With the _Scum and Villainy Conversion Kit_, you can take your own ragtag band of bounty hunters into _X-Wing Second Edition_ right away.
 
-![](swz01_a2_scum_spread.png)
+![](1ee74c4e0f9a05c3a89a7eb1c9365e70.png)
 
 The _Scum and Villainy Conversion Kit_ contains everything that you need to take your existing collection of first edition Scum and Villainy ships into the game's second edition. Here, you'll find an assortment of second edition punchboard, ship cards, and upgrade cards, letting you bring the galaxy's most dangerous beings to life on your tabletop. In addition to being present in the _Scum and Villainy Conversion Kit_, all of the Scum and Villainy ships and upgrades found in the conversion kit will be fully implemented in the _X-Wing Second Edition_ squad-builder app at launch, giving you the opportunity to experiment with a full complement of new content. Likewise, first-time players can use the conversion kit and first edition expansions to get a feel for the game with as many different ships as possible! 
 
 Veteran _X-Wing_ players will notice many new elements in the game's second edition, including the introduction of Force powers, multiple-use ordnance, changes to turrets, and several “quality of life” improvements for often-used mechanics. From launch, you’ll be able to incorporate notorious bounty hunters like Dengar and IG-88 and their signature ships into your squadrons, letting you build the squad that fits your play style.
 
-![](swz01_a2_cardfan2.png)
+![](8663aac4c5588e0347629061ad32f023.png)
 
 In addition to the other changes, _X-Wing Second Edition_ converts several ships from small bases to medium bases. Medium-base ships are a new addition to _X-Wing Second Edition_, filling the space between small-base and large-base ships. For Scum and Villainy, the G1-A Starfighter, M12-L Kimogila Fighter, and Scurrg H-6 Bomber have all been converted to medium-based ships for second edition. In addition to its cards and punchboard, the _Scum and Villainy Conversion Kit_ supplies the bases and conversion pegs you need to bring these ships into the second edition.
 
 _**For a full list of the ships converted by the**_ **Scum and Villainy Conversion Kit_,_** _**visit our**_ **X-Wing Second Edition** _**FAQ section [on this page](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)!**_
 
-![](swz16_box_left_good.png)
+![](60f7a5260a7592124fc1ee94226e57ba.png)
 
 In Pursuit of Profit
 --------------------
@@ -64,15 +64,15 @@ While the pilots of the Empire and Rebellion fly in the name of their beliefs, S
 
 The _Slave I_ Expansion Pack gives you the chance to add Boba Fett and his signature ship to your _X-Wing Second Edition_ squadron. Along with one of the galaxy's most feared bounty hunters, you'll also find a host of pilots and upgrade cards to outfit your own _Firespray_\-class patrol craft. 
 
-![](swz13_a3_slave-1_spread2.png)
+![](35d6683b0c6202a774e3ba61f4feda87.png)
 
-As a highly modifiable ship offering plenty of space for additional weaponry and other upgrades, the _Firespray_\-class patrol craft can suit the needs of any intrepid mercenary. The ship’s rear firing arc makes it an ideal fit for a [Veteran Tail Gunner,](swz_verteran-tail-gunner_upgrade.png) designed to wreak havoc on an enemy squadron.
+As a highly modifiable ship offering plenty of space for additional weaponry and other upgrades, the _Firespray_\-class patrol craft can suit the needs of any intrepid mercenary. The ship’s rear firing arc makes it an ideal fit for a [Veteran Tail Gunner,](f8655fabd51c03272d47df64d0ac973e.png) designed to wreak havoc on an enemy squadron.
 
 The _Slave I_ Expansion Pack includes a beautifully pre-painted ship miniature along with a maneuver dial and all the ship cards and upgrade cards you need to supplement your squadron with this versatile ship. We'll explore the contents of the _Slave I_ Expansion Pack in much greater depth in a future preview!
 
 In addition, the _Slave I_ Expansion Pack contains a few entirely new cards that have never before appeared in the game's first edition. These new cards and associated punchboard are included in the _Scum and Villainy Conversion Kit_ for the benefit of veteran players!
 
-![](swz17_box_left.png)
+![](c25516ba6ec458919989cdce851dc158.png)
 
 For Mandalore
 -------------
@@ -81,15 +81,15 @@ Mandalorians are known throughout the galaxy as ferocious warriors, and the sigh
 
 Rather than relying on shields and heavy armament, the Fang Fighter takes advantage of advanced pivot wing technology and a low attack profile to execute deadly head-on charges against enemy ships. Since it's a ship that operates best up close, the Fang Fighter features several daring ways to quickly close the distance on your opponent. Every Fang Fighter can link a barrel roll or boost with a red focus action, allowing you to get into position to launch a particularly deadly attack or increase your chances of surviving an enemy salvo. 
 
-![](swz13_a3_fang-fighter_spread2.png)
+![](832fd5c657be2492cc7d2f230e0bce07.png)
 
-Furthermore, several upgrades can help the Fang Fighter become even more effective at close range. If you have a [Fearless](swz_fearless_upgrade.png) pilot, for example, you are guaranteed at least one hit while performing a primary weapon attack… so long as you're charging straight at your opponent!
+Furthermore, several upgrades can help the Fang Fighter become even more effective at close range. If you have a [Fearless](4b522059e3c768a6c64c5cbcdb55596c.png) pilot, for example, you are guaranteed at least one hit while performing a primary weapon attack… so long as you're charging straight at your opponent!
 
 The _Fang Fighter Expansion Pack_ includes a fully pre-painted Fang Fighter miniature, a maneuver dial, and all the ship cards, upgrade cards, and tokens you need to add one of these deadly starfighters to your squadron. We'll explore the full capabilities of the Fang Fighter and the contents of this expansion pack in a future preview!
 
 In addition, the _Fang Fighter Expansion Pack_ contains a few entirely new cards that have never before appeared in the game's first edition. These new cards and associated punchboard are included in the _Scum and Villainy Conversion Kit_ for the benefit of veteran players!
 
-![](swz11_box_left.png)
+![](3d19ff4f1e31c7684d311416e32160fc.png)
 
 Loyal to No One
 ---------------
