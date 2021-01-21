@@ -1,5 +1,6 @@
 import puppeteer from "puppeteer";
 import TurndownService from "turndown";
+import hasha from "hasha";
 import fs from "fs";
 import fetch from "node-fetch";
 
@@ -128,7 +129,9 @@ const run = async () => {
       log(`\tDownloading ${allImageUrls.length} article images`);
       await Promise.all(
         allImageUrls.map(async (imageUrl) => {
-          const filename = imageUrl.split("/").pop();
+          const extension = imageUrl.split(".").pop();
+          const urlHash = hasha(imageUrl, { algorithm: "md5" });
+          const filename = `${urlHash}.${extension}`;
           contentMarkdown = contentMarkdown.replace(imageUrl, filename);
           await saveImageToDisk(imageUrl, `${path}/${filename}`);
         })
@@ -198,7 +201,6 @@ async function saveImageToDisk(url, filename) {
   try {
     const res = await fetch(url);
     const dest = fs.createWriteStream(filename);
-    // @ts-ignore
     res.body.pipe(dest);
   } catch (e) {
     log(">>> ERROR <<<");
