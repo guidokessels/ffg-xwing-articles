@@ -85,5 +85,3 @@ State of the Art
 ----------------
 
 The Empire has no shortage of advanced starfighters to test on hapless Rebels and this list is just a taste of the Imperial technology you’ll have at your disposal. From a traditional swarm of TIE/ln fighters to an exotic mix of experimental fighters, _X-Wing Second Edition_ gives you the tools you need to create the perfect squadron to snuff out any Rebel resistance.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

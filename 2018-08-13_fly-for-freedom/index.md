@@ -85,5 +85,3 @@ May the Force Be with You
 -------------------------
 
 The Spectres are just one sliver of what the Rebel Alliance brings to _X-Wing Second Edition_. With a vast assortment of ships, pilots, and upgrades available at launch, the game invites you to explore countless combinations and create the squadron you want to fly. Join us in the lead-up to launch as we explore lists for both the Galactic Empire and the Scum and Villainy factions!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

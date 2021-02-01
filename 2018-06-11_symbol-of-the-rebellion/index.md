@@ -58,5 +58,3 @@ Lead Your Rebellion
 -------------------
 
 If the Rebel Alliance is planning a combat operation, the T-65 X-wing is sure to be there, bringing with it the hope of the Rebellion. Get to your ships, take to the skies, and start your own rebellion!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

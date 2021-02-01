@@ -93,5 +93,3 @@ Personalize your _Star Wars_: X-Wing experience and display your loyalty with 
 This deck contains a complete set of thirty-three illustrated damage cards featuring diagnostics of a _Vulture_\-class Droid Fighter so you know exactly where your ship is hit. With this deck at your command, everyone will know you fly for the Separatist Alliance, and you can easily track whatever damage you take on your road to victory.
 
 _Pick up your copy of the_ Separatist Alliance Damage Deck _(SWZ78) at your local retailer today!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

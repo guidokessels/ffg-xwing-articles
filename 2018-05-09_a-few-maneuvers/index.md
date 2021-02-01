@@ -75,5 +75,3 @@ Move to Attack Position
 -----------------------
 
 Starfighter battles are fast, frenzied affairs where every decision you make could mean the difference between victory and defeat. Only those who can quiet their nerves and move their ships into the right position will win the day. Join the ranks of the best starfighter pilots in the _Star Wars_ galaxy with _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

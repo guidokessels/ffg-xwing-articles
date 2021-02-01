@@ -63,5 +63,3 @@ Take on the Empire
 ------------------
 
 The Y-wing may be an older starfighter, but it is still a powerful force within Rebel fighter squadrons. With a full complement of bombs and torpedoes, even one Y-wing has the firepower to take the fight to the Empire. Outfit yours and dominate the battles of _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

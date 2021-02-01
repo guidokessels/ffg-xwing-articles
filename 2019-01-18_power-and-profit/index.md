@@ -66,5 +66,3 @@ Tenacious Treachery
 -------------------
 
 With a fleet of droid fighters at their command, the Separatist Alliance has all the strength it needs to bring the Republic to its knees.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

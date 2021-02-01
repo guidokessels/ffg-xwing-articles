@@ -62,5 +62,3 @@ Team Up
 -------
 
 The Jedi lead Republic forces into battle across the galaxy and now they have a starfighter more in tune with their abilities than ever before. Join forces and defend the Republic when this expansion releases on November 27!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

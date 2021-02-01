@@ -120,5 +120,3 @@ Prepare for Battle
 ------------------
 
 No matter where the battles of _X-Wing_ take you, there are always new strategies to explore and new foes to face. Choose your pilots, outfit your ships, and launch into new battles!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

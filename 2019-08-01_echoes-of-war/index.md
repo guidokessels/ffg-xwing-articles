@@ -119,6 +119,4 @@ The _RZ-1 A-Wing Expansion Pack_ includes everything you need to add one of thes
 Make Your Name
 --------------
 
-As the effects of past conflicts ripple into the future, new aces emerge to battle for their faction and the title of the galaxy's best pilot. With the tools you find in Wave VI for _X-Wing_, you'll have everything you need to claim superiority in the battles of _X-Wing_. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+As the effects of past conflicts ripple into the future, new aces emerge to battle for their faction and the title of the galaxy's best pilot. With the tools you find in Wave VI for _X-Wing_, you'll have everything you need to claim superiority in the battles of _X-Wing_.

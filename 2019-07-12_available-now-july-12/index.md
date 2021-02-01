@@ -117,5 +117,3 @@ _Pick up your copy of_ TIE/sf Fighter Expansion Pack _(SWZ44) at your local ret
 Upgrade every move you make in the intense space battles of [_Star Wars_™: X-Wing](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) with the _Deluxe Movement Tools and Range Ruler_! This pack contains premium plastic maneuver templates and a range ruler to upgrade the corresponding components from your _[X-Wing Core Set.](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/x-wing-second-edition/)_ In addition to the eleven movement templates, you’ll also find a range ruler base and four range ruler segments that can be used individually or combined to make your measurements quick and precise.
 
 _Pick up your copy of the_ Deluxe Movement Tools and Range Ruler _(SWZ46) at your local retailer today or online through our website [here](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/deluxe-movement-tools-and-range-ruler/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

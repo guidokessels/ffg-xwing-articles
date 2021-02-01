@@ -44,5 +44,3 @@ The TIE/rb Heavy is one of the largest TIE variants produced for the Galactic Em
 The _TIE/rb Heavy Expansion Pack_ includes everything you need to add one of these imposing ships to your Galactic Empire squadrons, beginning with a beautifully detailed, pre-painted miniature and a medium plastic base. Four ship cards give you the freedom to choose your pilot, while 12 upgrade cards invite you to customize your ship to fir your needs. Finally, two Quick Build cards offer helpful combinations of pilots and upgrades to get you into the fight right away. 
 
 _Pick up your own copy of the_ TIE/rb Heavy Expansion Pack _(SWZ67) at your local retailer or [online through our website](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/tierb-heavy-expansion-pack/) here!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

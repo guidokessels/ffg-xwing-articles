@@ -67,6 +67,4 @@ Unlike Blario, veteran RZ-2 pilots such as [Zizi Tlo](525c8cdf2c6d579dae91d5adc8
 Fight for Freedom
 -----------------
 
-Whether they're facing the Galactic Empire, the First Order, or something in between, there will always be brave heroes willing to protect the _Star Wars_ galaxy from the forces of tyranny and oppression. Add some new aces to your Rebel Alliance and Resistance squadrons with the _Hotshots and Aces Reinforcements Pack_! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+Whether they're facing the Galactic Empire, the First Order, or something in between, there will always be brave heroes willing to protect the _Star Wars_ galaxy from the forces of tyranny and oppression. Add some new aces to your Rebel Alliance and Resistance squadrons with the _Hotshots and Aces Reinforcements Pack_!

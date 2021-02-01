@@ -104,5 +104,3 @@ Begin the Hunt
 --------------
 
 With several Scum and Villainy expansions launching with _X-Wing Second Edition_, this is your first opportunity to begin the hunt and take your squad into the future of _X-Wing_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

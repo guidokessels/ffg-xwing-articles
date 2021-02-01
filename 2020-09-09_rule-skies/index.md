@@ -61,6 +61,4 @@ Finally, when they aren’t strafing targets with heavy fire, their thick hulls 
 Fire Away
 ---------
 
-Combining extreme versatility with the swarming tactics of earlier models, the HMP Droid Gunship is the pinnacle of Separatist starfighter technology. Deploy yours and decimate your opponents when this expansion releases on September 25! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+Combining extreme versatility with the swarming tactics of earlier models, the HMP Droid Gunship is the pinnacle of Separatist starfighter technology. Deploy yours and decimate your opponents when this expansion releases on September 25!

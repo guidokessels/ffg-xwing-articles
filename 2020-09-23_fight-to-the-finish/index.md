@@ -75,5 +75,3 @@ Finish the Fight
 New recruits are ready to join the best the Resistance has to offer in the fight for freedom across the galaxy. Can you unite them into a squadron capable of defeating the First Order? Ignite the spark and unite the Resistance!    
 
 _Join the Resistance with the_ Heralds of Hope Squadron Pack _(SWZ68), arriving at your local retailer on October 30. Pre-order your copy at your local retailer or online through our website—with free shipping in the continental United States—[here](https://store.us.asmodee.com/preorders/create/SWZ68/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

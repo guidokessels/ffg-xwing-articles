@@ -65,5 +65,3 @@ Conquer the Galaxy
 The TIE fighter has always been a symbol of power and prestige. With the First Order poised to retake the galaxy, it’s only fitting that they announce themselves with the recognizable roar of twin ion engines.
 
 _The_ TIE/fo Fighter Expansion Pack _(SWZ26) is releasing alongside the other Wave II expansions, including the_ _ in the fourth quarter of 2018. Pre-order your copy at your local retailer or [through our website](https://shop.fantasyflightgames.com/preorders/create/SWZ26/) today!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

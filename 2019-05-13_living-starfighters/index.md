@@ -68,5 +68,3 @@ Function Over Form
 ------------------
 
 Droids may be expendable, but they care little for collateral damage and will stay on target throughout the battle. With a _Hyena_\-class droid bomber flying with you, you can be sure your payload will be delivered.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

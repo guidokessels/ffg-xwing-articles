@@ -121,5 +121,3 @@ The War Has Begun
 -----------------
 
 With the release of _X-Wing_ Wave II, you can build squadrons with some of the most advanced starfighters the _Star Wars_ galaxy has ever seen. Gather your forces, launch into battle, and continue the fight!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

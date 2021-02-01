@@ -113,5 +113,3 @@ Dominate the Galaxy
 -------------------
 
 With several Galactic Empire expansions arriving at launch, this is your chance to round out your squadron and rule the galaxy with an iron fist.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

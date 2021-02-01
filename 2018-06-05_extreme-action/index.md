@@ -63,5 +63,3 @@ Rebel Spirit
 ------------
 
 Although some may label him an extremist, Saw Gerrera is steadfast in his resistance to the Empire. Soon, you will be able to join his fight for freedom as it shifts to the new era of starfighter combat of _X-Wing Second Edition_. Man your ships and fly for freedom!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

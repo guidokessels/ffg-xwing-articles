@@ -75,5 +75,3 @@ Show Your True Colors
 ---------------------
 
 The tense starfighter battles of _X-Wing_ invite you to put your own spin on a squadron of fighters representing one of seven factions. Add even more personalization to your squadrons these damage decks!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

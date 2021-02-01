@@ -76,6 +76,4 @@ These low initiative pilots may excel at supporting ace Jedi or more skilled clo
 Restore Order
 -------------
 
-It is a time of uncertainy and disunion. The Republic needs heroes now more than ever. With the pilots in this _Squadron Pack_, you'll have what it takes to preserve the Republic for another thousand generations. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+It is a time of uncertainy and disunion. The Republic needs heroes now more than ever. With the pilots in this _Squadron Pack_, you'll have what it takes to preserve the Republic for another thousand generations.

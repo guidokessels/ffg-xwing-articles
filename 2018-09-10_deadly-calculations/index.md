@@ -86,5 +86,3 @@ We Think, Therefore We Are
 --------------------------
 
 The Rebel Alliance may claim to seek freedom from the tyranny of the Galactic Empire, but the droids of this list display their own rebel spirit, fighting back against their very programming to make their own way in the galaxy. The rest of the Scum and Villainy exhibit a similar independence, pursuing their own interests rather than committing themselves to a cause. With the Scum and Villainy ships, pilots, and upgrades available at launch, pursue your own agenda with _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

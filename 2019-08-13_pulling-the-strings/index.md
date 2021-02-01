@@ -56,5 +56,3 @@ Accomplish the Impossible
 -------------------------
 
 Without Geonosis, the Separatist Alliance will fall. When the time comes, the Geonosians will defend their planet—and the Alliance—from the cockpit of the _Nantex_\-class Starfighter.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

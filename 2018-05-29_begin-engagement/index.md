@@ -68,5 +68,3 @@ Enter the Battle
 ----------------
 
 With pinpoint maneuvering and lightning-quick reflexes you’ve gotten the enemy ship in your sights. It’s time to seize this opportunity and launch a devastating attack. A new era of intense, fast-paced space battles is coming to your tabletop soon with _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

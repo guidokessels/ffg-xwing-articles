@@ -124,5 +124,3 @@ Join the Rebellion
 ------------------
 
 The brave pilots of the Rebellion stand ready to launch themselves straight into the fight against the Empire. Build your squad and fight for freedom across the galaxy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

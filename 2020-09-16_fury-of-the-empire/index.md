@@ -59,5 +59,3 @@ Ruthless Intimidation
 ---------------------
 
 To dominate every corner of the galaxy, the Empire needs a starfighter that can effectively fight in any environment without backup. Expand your Imperial squadrons and impose your will on the battlefield with the TIE/rb heavy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

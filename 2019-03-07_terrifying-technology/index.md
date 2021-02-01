@@ -63,5 +63,3 @@ Sowing Discord
 --------------
 
 The Separatist Alliance seeks to splinter the galaxy with chaos, tyranny, and fear, and the _Vulture_\-class droid fighter is their main tool in accomplishing this goal. Deploy yours and topple the Republic!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -65,5 +65,3 @@ Seize the Opportunity
 ---------------------
 
 As the Separatist crisis grows, so too will the chances to capitalize from it. Outfit your ship and set out to build your own legend when this expansion releases on November 27!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

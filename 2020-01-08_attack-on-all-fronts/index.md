@@ -78,5 +78,3 @@ Support Your Squad
 ------------------
 
 Starfighters are needed to fight on multiple fronts. Add ships that can get the job done no matter the mission with these new expansions for _X-Wing_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

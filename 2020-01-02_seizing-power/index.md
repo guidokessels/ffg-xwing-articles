@@ -68,5 +68,3 @@ Build Your Empire 
 Some ace pilots fly for something greater than themselves; others enter battle with their own interests in mind. Whatever cause you fight for, bolster your squadrons with the pilots in the _Hotshots and Aces Reinforcements Pack_!
 
 _Look for the_ Hotshots and Aces Reinforcements Pack _(SWZ66)_ _at your local retailer in the first quarter of 2020. You can pre-order your copies of theis expansion at your local retailer or online through our website with free shipping in the continental United States [here](https://store.us.asmodee.com/preorders/create/SWZ66/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

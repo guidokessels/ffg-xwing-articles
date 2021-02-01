@@ -64,5 +64,3 @@ Plot Your Revenge
 -----------------
 
 The Sith have been relegated to the shadows for far too long. With the Sith Infiltrator, you'll have everything you need to declare your presence and take your vengeance on the galaxy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

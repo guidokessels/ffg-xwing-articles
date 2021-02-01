@@ -73,5 +73,3 @@ Join the Fight
 --------------
 
 Deep in the heart of a space battle, it can be hard to determine the best course of action. Only the best pilots have the nerve to stay calm and take the actions that will keep themselves—and their squadmates—in the fight. Join their ranks and jump into the thick of the action!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -73,5 +73,3 @@ Enter the Fight
 ---------------
 
 The Quick Build cards let you jump into the action of _X-Wing Second Edition_ right away, giving you the opportunity to explore new pilots and upgrade cards, or easily play an escalation variant. Still, they only represent the beginning of the squad building possibilities that lie before you. You can take full control and create the squad that matches your strategy using the _X-Wing_ squad builder app. Look for more details on the squad builder in a later preview, and join us next time for a preview of the _T-65 X-Wing Expansion Pack_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -152,5 +152,3 @@ The War Has Begun
 -----------------
 
 The battles of _X-Wing_ are entering a new era of the _Star Wars_ saga as the Separatist Alliance threatens the sovereignty of the Galactic Republic. With these expansions, you have everything you need to launch your squadrons into the Clone Wars.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

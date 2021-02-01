@@ -72,6 +72,4 @@ After traveling down the River Running to the city of Dorwinion, and to the curs
 
 _Wrath and Ruin_ provides you with 60 new cards to expand your quests in Middle-earth, including a new dwarf hero and three copies of each new player card. This Adventure Pack also offers you a chance to brush shoulders with the enigmatic Tom Bombadil. Prepare you heroes for the fight of their lives and stand united against the shadow of Mordor! 
 
-_Pick up your copy of_ Wrath and Ruin _(MEC78) at your local retailer today or online through our website with free shipping in the continental United States [here](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/products/wrath-and-ruin/)!_ 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+_Pick up your copy of_ Wrath and Ruin _(MEC78) at your local retailer today or online through our website with free shipping in the continental United States [here](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/products/wrath-and-ruin/)!_

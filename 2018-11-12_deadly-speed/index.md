@@ -64,6 +64,4 @@ If you're still concerned about the RZ-2 and its two shield and two hull, howeve
 Take the Challenge
 ------------------
 
-The RZ-2 A-wing may be a difficult starfighter to fly, but in the hands of the right pilot it can change the course of a battle. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The RZ-2 A-wing may be a difficult starfighter to fly, but in the hands of the right pilot it can change the course of a battle.

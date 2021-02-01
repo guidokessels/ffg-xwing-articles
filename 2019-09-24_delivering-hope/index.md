@@ -64,5 +64,3 @@ Seek Justice
 ------------
 
 With the speed to outrun all but the fastest ships and the firepower to support any squadron, the CR90 corvette is an invaluable addition to any starfighter squadron. Add one to your Rebel Alliance or Galactic Republic squadron and seek out your own justice throughout the galaxy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

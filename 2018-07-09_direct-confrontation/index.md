@@ -61,5 +61,3 @@ The Joy of Combat
 -----------------
 
 Mandalorians are not ones to back down from a fight. Rather, they seek out the honor and glory of facing a worthy adversary. Accept the challenge and show of all of your skills with the _Fang Fighter Expansion Pack_ for _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

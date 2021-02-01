@@ -78,5 +78,3 @@ Down with the Republic
 ----------------------
 
 The Galactic Republic has been brought to the edge of collapse under the relentless Separatist onslaught. Gather your droid fighters and topple it once and for all.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

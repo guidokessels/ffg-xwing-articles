@@ -77,5 +77,3 @@ Resurrect the Empire
 --------------------
 
 Once banished to the unknown regions of the galaxy, the First Order is now poised to sweep across the galaxy and build an empire of its own. Join their campaign with these new expansions for _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

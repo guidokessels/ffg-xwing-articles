@@ -70,6 +70,4 @@ We’ll take a closer look at specific scenarios included in the _Epic Battles M
 Enter the Saga
 --------------
 
-The chaos of battle surrounds you as enemy fighters dart between massive warships. It will take more than just fancy flying to lead your squadron to victory in battles like this. Step up to the largest _X-Wing_ battles yet with the _Epic Battles Multiplayer Expansion_! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The chaos of battle surrounds you as enemy fighters dart between massive warships. It will take more than just fancy flying to lead your squadron to victory in battles like this. Step up to the largest _X-Wing_ battles yet with the _Epic Battles Multiplayer Expansion_!

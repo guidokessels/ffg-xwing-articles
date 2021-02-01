@@ -174,6 +174,4 @@ These upgraded plastic maneuver dials proudly declare your allegiance to the fac
 Put Your Team Together
 ----------------------
 
-With the release of _X-Wing Second Edition_, a new era of space combat and some of the most iconic starfighters from across the _Star Wars_ saga are at your fingertips. It's time to pick your pilots, outfit your ships, and enter the fight. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+With the release of _X-Wing Second Edition_, a new era of space combat and some of the most iconic starfighters from across the _Star Wars_ saga are at your fingertips. It's time to pick your pilots, outfit your ships, and enter the fight.

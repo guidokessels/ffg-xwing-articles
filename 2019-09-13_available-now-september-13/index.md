@@ -100,5 +100,3 @@ With _Gadgets and Gear_, Game Masters and players have a huge selection of equi
 With hundreds of gadgets and gear cataloged in an easily readable new format, finding the perfect tool for the job has never been easier.
 
 _Pick up your copy of_ Gadgets and Gear _(SWR17) at your local retailer today or online through our website_ _with free shipping in the continental United States_ _[here](https://www.fantasyflightgames.com/en/products/star-wars-age-of-rebellion/products/gadgets-and-gear/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

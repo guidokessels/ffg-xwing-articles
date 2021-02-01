@@ -56,5 +56,3 @@ Not a Scratch
 -------------
 
 The _Millennium Falcon_ has woven itself into the history of the galaxy on a number of occasions. Now, the Lando's _Millennium Falcon_ Expansion Pack lets you experience the untold history of one of the galaxy's most storied ships. Take the controls and build your own legacy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

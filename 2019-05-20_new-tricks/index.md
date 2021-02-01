@@ -61,5 +61,3 @@ Ever Vigilant
 -------------
 
 Although small, Naboo played a pivotal role in the Clone Wars, becoming a beacon for every world that would support the Republic. With just a handful of the planet’s best pilots on your side, you can defend freedom across the galaxy.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

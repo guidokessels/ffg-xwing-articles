@@ -63,5 +63,3 @@ Claim Your Bounty
 -----------------
 
 Whether you’re tracking a target to the farthest reaches of the galaxy or engaged in an intense dogfight, the _Firespray_\-class patrol craft provides the firepower to get the job done. Outfit yours and track your mark with the _Slave I_ Expansion Pack!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

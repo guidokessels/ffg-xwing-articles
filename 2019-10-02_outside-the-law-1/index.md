@@ -62,5 +62,3 @@ Protect Your Interests
 ----------------------
 
 On the outskirts of the galaxy, trade in illegal goods is flourishing. To carry these goods from world to world, crime syndicates and profiteers turn to one of the galaxy's most reliable transports. Add a C-ROC cruiser to your fleet and begin building your own criminal empire!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

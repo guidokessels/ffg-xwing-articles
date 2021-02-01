@@ -56,6 +56,4 @@ Even if the _Xi_\-class Light Shuttle is piloted by a lowly [First Order Courier
 Return to Glory
 ---------------
 
-It is time for the First Order to rise and restore the Empire to what it once was. Deploy a _Xi_\-class Light Shuttle and wipe away the Republic! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+It is time for the First Order to rise and restore the Empire to what it once was. Deploy a _Xi_\-class Light Shuttle and wipe away the Republic!

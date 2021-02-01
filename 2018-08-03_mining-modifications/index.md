@@ -53,5 +53,3 @@ Defend Your Assets
 ------------------
 
 The demand for raw materials has never been higher. If you’re going to properly protect your investments, you’re going to need a starfighter that’s up to the task. Take on any threat with a new take on a classic design!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

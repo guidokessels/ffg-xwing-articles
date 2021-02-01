@@ -51,5 +51,3 @@ Carry on the spark of the Rebellion and signal your dedication to protect freedo
 During every game of _X-Wing_, you and your opponent will secretly plot your ships’ movements on cardboard maneuver dials. The dial upgrade kit contains three plastic protectors that situate a ship’s dial within a secure housing, enhancing the aesthetics of your squadron and proudly displaying the colors of the Resistance. Not only does each dial clearly indicate that you fight for the freedom of the galaxy, they also include a space on the back to insert a dial ID token displaying a silhouette of the corresponding ship, making it easy to differentiate between your ships.
 
 _Pick up your copy of the_ Resistance Maneuver Dial Upgrade Kit _(SWZ21) at your local retailer or online through our website [here](https://shop.fantasyflightgames.com/preorders/create/SWZ21/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

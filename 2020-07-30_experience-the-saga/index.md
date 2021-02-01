@@ -131,5 +131,3 @@ Expand the Possibilities
 ------------------------
 
 Iconic starfighters and the crack pilots who fly them converge in the unpredictable space battles of _Star Wars_: X-Wing. No matter what era or faction you choose, only the best pilots will prevail. Experience the thrill of starfighter combat with these expansions!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

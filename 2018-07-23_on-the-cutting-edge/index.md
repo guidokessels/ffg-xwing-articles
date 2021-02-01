@@ -57,5 +57,3 @@ Show Your Might
 ---------------
 
 TIE/ln fighters might be a common sight to Rebel pilots, but the appearance of a TIE Advanced x1 is all the evidence they need to know the Empire has taken notice of their activities. Deploy yours and show them the true power of the Empire!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

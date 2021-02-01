@@ -75,5 +75,3 @@ A bounty hunter is only as good as their ship. Originally produced for law enfor
 This expansion pack invites you to put your personal touch on your own _Firespray_\-class patrol craft painted in the colors of Jango Fett's _Slave I_. In addition to the miniature, you'll also find four ship cards in this expansion, including the infamous Jango Fett himself. These bounty hunters, mercenaries, and rogues are accompanied by 13 upgrade cards that let you customize your ship to fit your strategy, including several that can be used in both Separatist and Scum squadrons.
 
 _Pick up your own copy of the_ Jango Fett's Slave I Expansion Pack _(SWZ82) at your local retailer or online [through our website](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/jango-fetts-slave-i-expansion-pack/) here!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

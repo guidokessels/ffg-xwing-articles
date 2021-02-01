@@ -94,6 +94,4 @@ During every game of _X-Wing Second Edition_, you will secretly select the maneu
 Fan the Flames of Rebellion
 ---------------------------
 
-The Resistance will continue the fight against tyranny and oppression no matter the cost. Expand your games of _X-Wing Second Edition_ and stoke the fires of resistance! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The Resistance will continue the fight against tyranny and oppression no matter the cost. Expand your games of _X-Wing Second Edition_ and stoke the fires of resistance!

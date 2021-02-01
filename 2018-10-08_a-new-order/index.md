@@ -59,5 +59,3 @@ The War Is Just Beginning
 -------------------------
 
 The galaxy is vulnerable. The time to strike is now. With the help of a new generation dedicated to galactic domination, the First Order will rise and recapture the glory of the Galactic Empire.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

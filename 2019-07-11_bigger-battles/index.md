@@ -81,5 +81,3 @@ Battle for the Galaxy
 ---------------------
 
 Fully operational warships are ready for your commands. Harness their power as you battle for the fate of the galaxy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

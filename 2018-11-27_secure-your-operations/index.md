@@ -60,5 +60,3 @@ Protect Your Profits
 --------------------
 
 The Mining Guild has put its own clever spin on one of the galaxy’s most iconic starfighters, adapting it to operate in some of the most dangerous environments imaginable. Deploy your own group of Mining Guild TIEs and secure your profits!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -66,6 +66,4 @@ But the attacker doesn’t have to base their strategy solely on commands from o
 New Battles
 -----------
 
-"Cover the Evacuation" only gives you a taste of what to expect in the _Epic Battles Multiplayer Expansion_. Ten more scenarios await, each putting you in thrilling new engagements that shake _X-Wing_ to its core. For more Epic _X-Wing_, check out our stream of the Free-for-All "Aces High" scenario on YouTube [here](https://www.youtube.com/watch?v=QQP7vxnsGRA) and our stream of the Head-to-Head scenario "Atmospheric Entry" [here](https://www.youtube.com/watch?v=klxN3gwDN7E)! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+"Cover the Evacuation" only gives you a taste of what to expect in the _Epic Battles Multiplayer Expansion_. Ten more scenarios await, each putting you in thrilling new engagements that shake _X-Wing_ to its core. For more Epic _X-Wing_, check out our stream of the Free-for-All "Aces High" scenario on YouTube [here](https://www.youtube.com/watch?v=QQP7vxnsGRA) and our stream of the Head-to-Head scenario "Atmospheric Entry" [here](https://www.youtube.com/watch?v=klxN3gwDN7E)!

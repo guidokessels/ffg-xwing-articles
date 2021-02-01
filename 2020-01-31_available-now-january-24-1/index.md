@@ -257,5 +257,3 @@ A squadron is only as good as the pilots that make it up. From the Rebellion’s
 Now, with the _Hotshots and Aces Reinforcements Pack_, you can enhance your squadron options and launch new pilots into battle. This pack contains a variety of new pilots for numerous ships in the Rebel, Imperial, Scum, Resistance, and First Order factions, you can now add iconic characters like Leia Organa, Captain Phasma, and K-2SO to your squads.
 
 _Pick up your copy of the_ Hotshots and Aces Reinforcements Pack _(SWZ66) at your local retailer today or online through our website [here](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/hotshots-and-aces-reinforcements-pack/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -149,5 +149,3 @@ A New Beginning
 _“The Force will be with you. Always.”_ –Obi-Wan Kenobi, _Star Wars: A New Hope_
 
 Enemy ships are on your scanners and you only have a few seconds to issue your commands. Experience the next era of interstellar _Star Wars_ battles with _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

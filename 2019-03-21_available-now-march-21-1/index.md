@@ -152,5 +152,3 @@ Take your players into the foreboding Shadowlands with _Mask of the Oni_. This 
 _Mask of the Oni_ is the perfect companion to the _Shadowlands_ sourcebook, providing an adventure to use the lore and tools introduced in _Shadowlands_ as well as additional context for your adventure.
 
 _Pick up your own copy of_ Mask of the Oni _(L5R07) at your local retailer today!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

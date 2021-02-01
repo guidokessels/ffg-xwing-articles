@@ -61,5 +61,3 @@ Into the Breach
 ---------------
 
 Land, sea, or air, wherever the Republic's troops are needed, the LAAT/i Gunship is ready to carry them into battle. Bring the versatility of this reliable workhorse to your sqaudrons and take the fight to the Separatists when the _LAAT/i Gunship Expansion Pack_ is released on September 25!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

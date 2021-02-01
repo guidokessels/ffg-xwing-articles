@@ -80,5 +80,3 @@ Heroes of the Resistance 
 -------------------------
 
 The Resistance is ready to push back against tyranny wherever it may appear and, with a full strike force of T-70 X-wings, they have the power to burn the First Order to the ground.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

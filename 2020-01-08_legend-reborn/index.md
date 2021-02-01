@@ -59,6 +59,4 @@ The First Order carries on the [Proud Tradition](44799d502350641323db2e4cc6bba52
 Become an Ace
 -------------
 
-The First Order may have been relegated to the Unknown Regions, but with aces like Major Vonreg and "Holo" at the controls of the TIE/ba Interceptor, they're sure to reclaim the glory of the Empire. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The First Order may have been relegated to the Unknown Regions, but with aces like Major Vonreg and "Holo" at the controls of the TIE/ba Interceptor, they're sure to reclaim the glory of the Empire.

@@ -113,5 +113,3 @@ _[Dragons of the East](https://www.fantasyflightgames.com/en/products/a-game-of-
 In _[_Dragons of the East_](https://www.fantasyflightgames.com/en/products/a-game-of-thrones-the-card-game-second-edition/products/dragons-east/)_, House Targaryen rises to the fore with new versions of their most iconic characters, including Daenerys Targaryen, Khal Drogo, and three terrifying, fully grown dragons. Of course, every other faction also receives two new non-loyal cards to swell their forces and help them explore new strategies against the Targaryens. With a wealth of neutral cards and plots rounding out the expansion, every faction has good reason to explore what awaits in _Dragons of the East_. 
 
 _Pick up your copy of the_ Dragons of the East expansion _(GT53) at your local retailer today or online through our website with free shipping in the continental United States [here](https://store.us.asmodee.com/preorders/create/GT53/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

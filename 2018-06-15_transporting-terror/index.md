@@ -56,5 +56,3 @@ Death from Above
 ----------------
 
 Whenever an enemy is foolish enough to launch an attack on an Imperial facility, the TIE reaper will be there to carry elite troops into battle. And when _X-Wing Second Edition_ launches on September 13th, 2018, the TIE reaper will be ready to enter a new era of interstellar combat.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

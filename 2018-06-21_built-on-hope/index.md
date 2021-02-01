@@ -62,5 +62,3 @@ On the Verge of Greatness
 -------------------------
 
 The events of _Rogue One_ determined the fate of the galaxy and set the events of the entire _Star Wars_ saga in motion. Now you can add three more ships from these pivotal battles to your _X-Wing_ squadrons and get a glimpse into the future of space combat.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -62,6 +62,4 @@ A ship carrying a [Seventh Fleet Gunner,](544923a448947c49a4a5de13ee1a8a85.png) 
 Standing Strong
 ---------------
 
-The Republic's survival depends upon the clone pilots who resist the tyranny of the Separatist Alliance. With the ARC-170 starfighter, they'll have a powerful tool to fight injustice in all its forms. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The Republic's survival depends upon the clone pilots who resist the tyranny of the Separatist Alliance. With the ARC-170 starfighter, they'll have a powerful tool to fight injustice in all its forms.

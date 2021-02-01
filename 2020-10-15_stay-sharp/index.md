@@ -60,5 +60,3 @@ Complete the Mission
 --------------------
 
 As clone and non-clone pilots step forward to defend the Republic, they unite in the _Nimbus_\-class V-wing. Launch your own missions and unite the galaxy!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

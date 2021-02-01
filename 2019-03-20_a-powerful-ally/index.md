@@ -58,5 +58,3 @@ The Force Will Be With You
 --------------------------
 
 They may be outnumbered by the Separatist Alliance's swarms of droid starfighters, but the Jedi enter battle with one distinct advantage: the Force is with them, and with their Delta-7 starfighters, they can defeat even the most formidable foes.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

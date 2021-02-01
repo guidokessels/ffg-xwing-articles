@@ -81,5 +81,3 @@ Restore the Republic
 --------------------
 
 Beings in every corner of the galaxy put their hope in the Resistance to fight back against the nefarious First Order. With a good transport and some inspiring leaders on your side, you'll have everything you need to begin restoring peace to the galaxy.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

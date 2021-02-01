@@ -63,5 +63,3 @@ Dominate the Galaxy
 -------------------
 
 Few Rebel pilots will ever forget the distinctive whine of a TIE/ln fighter’s namesake twin ion engines. Deadly on their own, these nimble starfighters are even more efficient when flying in large numbers. Swarm your opponent and extend the reach of the Empire in the battles of _X-Wing Second Edition_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

@@ -59,5 +59,3 @@ Feel the Rush
 -------------
 
 With its powerful engines and unpredictable nature, the _Fireball_ might be more at home on the race course than in battle. But any pilot with skill to tame it can bring down the galaxy’s deadliest aces.
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

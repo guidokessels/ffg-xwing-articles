@@ -61,5 +61,3 @@ Initiate Attack 
 The Droid Tri-Fighter may have been deployed late in the Clone Wars, but it still makes a dangerous addition to your squadrons. Upgrade to the latest tech with the _Droid Tri-Fighter Expansion Pack_!
 
 _Destroy your opponents with the_ Droid Tri-Fighter Expansion Pack _(SWZ81), arriving at your local retailer on November 27. Pre-order your copy at your local retailer or online through our website—with free shipping in the continental United States–[here](https://store.us.asmodee.com/preorders/create/SWZ81/)!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

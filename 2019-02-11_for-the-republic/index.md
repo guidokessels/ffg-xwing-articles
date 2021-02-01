@@ -63,6 +63,4 @@ In fact, some Spare Parts Canisters may be especially useful for Jedi pilots loo
 Fight As One
 ------------
 
-The Jedi Knights and clone troopers protecting the Galactic Republic must band together and work as one if they hope to stand against the insurgent Separatist Alliance. When outfitted with upgrades that enhance their natural abilities, nothing can stand in their way. 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The Jedi Knights and clone troopers protecting the Galactic Republic must band together and work as one if they hope to stand against the insurgent Separatist Alliance. When outfitted with upgrades that enhance their natural abilities, nothing can stand in their way.

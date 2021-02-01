@@ -86,5 +86,3 @@ Prepare for Battle
 ------------------
 
 The space battles of _X-Wing_ could take you anywhere in the _Star Wars_ galaxy. Be prepared for any situation and take your squadrons to the next level with these expansions!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

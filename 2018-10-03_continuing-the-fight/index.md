@@ -70,5 +70,3 @@ Find Your Place
 ---------------
 
 The threat grows by the day. New heroes must step up before the influence of the nefarious First Order grows to encompass the entire galaxy. Fortunately, the courageous pilots of the Resistance are ready to forge their own identity as protectors of peace. Enter the fight and keep hope alive!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

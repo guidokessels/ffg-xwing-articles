@@ -49,5 +49,3 @@ A menacing silhouette slides overhead, repulsorlifts humming ominously and eyes 
 The _HMP Droid Gunship Expansion Pack_ unlocks new possibilities for your Separatist Alliance squadrons with a beautifully detailed HMP Droid Gunship miniature and six ship cards featuring their own programming and protocols for battle. Your droid gunship can be further modified to your exact specifications with eight upgrade cards that give you access to new missiles, a new tactical relay, and even a new configurations that unlocks a new way of maneuvering your ship. Alternatively, you can follow the recommendations of three quick build cards to get your gunship into battle as quickly as possible.
 
 _Pick up your own copy of the_ HMP Gunship Expansion Pack _(SWZ71) at your local retailer or online [through our website](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/products/hmp-droid-gunship-expansion-pack/) here!_
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

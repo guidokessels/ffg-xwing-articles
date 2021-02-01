@@ -64,5 +64,3 @@ Into the Unknown
 ----------------
 
 Space battles in the _Star Wars_ galaxy rarely take place in empty regions of space. Whether you find yourself in an asteroid field or a long-forgotten minefield, you need to be aware of your surroundings just as much as enemy ships. Add more variety to the environments you fight in with the _Never Tell Me the Odds Obstacles Pack_ and the _Fully Loaded Devices Pack_ for _X-Wing_!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

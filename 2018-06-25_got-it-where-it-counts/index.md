@@ -61,5 +61,3 @@ Buckle Up
 ---------
 
 The _Millennium Falcon_ has a storied history, taking part in events that have shaped the galaxy. But long before she was a part of the Rebel Alliance, the _Falcon_ became infamous for making daring smuggling runs across the Outer Rim. Experience this history with the Lando's _Millennium Falcon_ Expansion Pack!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)

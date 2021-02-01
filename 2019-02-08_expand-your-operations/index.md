@@ -142,6 +142,4 @@ This pack contains premium plastic maneuver templates and a range ruler to upgra
 Arms Race
 ---------
 
-The galaxy’s major powers are gathering their forces. Prepare your squadrons for the battles to come with a new wave of expansions for _X-Wing_! 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+The galaxy’s major powers are gathering their forces. Prepare your squadrons for the battles to come with a new wave of expansions for _X-Wing_!

@@ -61,6 +61,4 @@ Pack a Punch
 
 Whether flown by battle-hardened Clone Troopers or a powerful Jedi Knight like Anakin Skywalker, the BTL-B Y-Wing can bring the fight to the Separatist Alliance. Add one to your squadron and strike the blow that ends the Clone Wars!
 
-_The_ _(SWZ48) is releasing alongside the rest of Wave V on September 13th! Pre-order your copy at your local retailer or [through our website](https://shop.fantasyflightgames.com/preorders/create/SWZ48/)—with free shipping in the continental United States—today!_ 
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
+_The_ _(SWZ48) is releasing alongside the rest of Wave V on September 13th! Pre-order your copy at your local retailer or [through our website](https://shop.fantasyflightgames.com/preorders/create/SWZ48/)—with free shipping in the continental United States—today!_

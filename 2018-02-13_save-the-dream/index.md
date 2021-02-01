@@ -62,5 +62,3 @@ I Will Not Fail
 ---------------
 
 From the low-flying infiltration of the Imperial base on Eadu, to the frantic starfighter battles in the skies above Scarif, _X-Wing_ Wave XIV takes you into some of the most desperate and dangerous action of _Rogue One_. Choose your side, get your pilots to their ships, and take to the skies!
-
-[](http://community.fantasyflightgames.com/index.php?/forum/222-x-wing/)
