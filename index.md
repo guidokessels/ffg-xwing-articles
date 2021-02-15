@@ -4,6 +4,7 @@ title: Index
 
 # FFG X-Wing Articles Archive
 
+- [Reinforcements of Renown](2021-02-15_reinforcements-of-renown/index.md) (2021-02-15)
 - [Available Now: November 27](2020-11-27_available-now-november-27/index.md) (2020-11-27)
 - [Available Now: October 30](2020-10-30_available-now-october-30/index.md) (2020-10-30)
 - [Build Your Legend](2020-10-29_build-your-legend/index.md) (2020-10-29)
