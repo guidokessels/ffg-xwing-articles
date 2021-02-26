@@ -4,6 +4,7 @@ title: Index
 
 # FFG X-Wing Articles Archive
 
+- [Strike Without Mercy](2021-02-25_strike-without-mercy/index.md) (2021-02-25)
 - [From Out of the Flames](2021-02-24_from-out-of-the-flames/index.md) (2021-02-24)
 - [Reinforcements of Renown](2021-02-15_reinforcements-of-renown/index.md) (2021-02-15)
 - [Available Now: November 27](2020-11-27_available-now-november-27/index.md) (2020-11-27)
