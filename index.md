@@ -4,6 +4,7 @@ title: Index
 
 # FFG X-Wing Articles Archive
 
+- [The Desperate and the Devious](2021-02-26_the-desperate-and-the-devious/index.md) (2021-02-26)
 - [Strike Without Mercy](2021-02-25_strike-without-mercy/index.md) (2021-02-25)
 - [From Out of the Flames](2021-02-24_from-out-of-the-flames/index.md) (2021-02-24)
 - [Reinforcements of Renown](2021-02-15_reinforcements-of-renown/index.md) (2021-02-15)
