@@ -92,4 +92,4 @@ Alternately, purchasing a _[VT-49 Decimator Expansion Pack](https://www.fantasyf
 
 That wraps up our discussion today of this exciting new expansion for the Galactic Empire. Look to this space in the near future where we will cover the pilot in this squadron pack that is so powerful, they warrant their own article!
 
-Skystrike Academy Squadron Pack _at your local retailer on March 26. You can pre-order your copies of these expansions at your local retailer or online [through our website](https://store.us.asmodee.com/preorders/create/SWZ85/)—with free shipping in the continental United States!_
+Skystrike Academy Squadron Pack _at your local retailer on March 26. You can pre-order your copies of these expansions at your local retailer or online [through our website](https://store.us.asmodee.com/preorders/create/SWL81/)—with free shipping in the continental United States!_
